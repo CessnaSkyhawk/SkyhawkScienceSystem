@@ -1,0 +1,5 @@
+Increment - Reason
+Major - Big Release that adds new functions, features, or restructures, may be save-breaking
+Minor - Small changes, medium scale rebalances, mod compat patch additions
+Revision - Bugfixes, basic rebalances, and other minor changes
+Build - Not used
