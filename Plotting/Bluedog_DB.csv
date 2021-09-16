@@ -1,0 +1,4761 @@
+PART_name,Tier,Category,SSS Category,Resource-1,Resource-2,Resource-3,
+bluedog_Mercury_Capsule,5,Pods,capsules,ElectricCharge:50,MonoPropellant:15,,"@PART[bluedog_Mercury_Capsule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules5
+
+}"
+bluedog_Mercury_LES,5,Utility,capsules,,,,"@PART[bluedog_Mercury_LES]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules5
+
+}"
+bluedog_mercuryLES,5,none,capsules,,,,"@PART[bluedog_mercuryLES]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules5
+
+}"
+bluedog_mercuryPod,5,none,capsules,,,,"@PART[bluedog_mercuryPod]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules5
+
+}"
+bluedog_Gemini_Crew_A,6,none,capsules,ElectricCharge:50,,,"@PART[bluedog_Gemini_Crew_A]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules6
+
+}"
+bluedog_Gemini_Crew_B,6,none,capsules,,,,"@PART[bluedog_Gemini_Crew_B]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules6
+
+}"
+bluedog_Gemini_Crew_C,6,none,capsules,,,,"@PART[bluedog_Gemini_Crew_C]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules6
+
+}"
+bluedog_Gemini_LES,6,Utility,capsules,,,,"@PART[bluedog_Gemini_LES]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules6
+
+}"
+bluedog_BigG_Cabin,7,Pods,capsules,,,,"@PART[bluedog_BigG_Cabin]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules7
+
+}"
+bluedog_Gemini_Capsule,6,Pods,capsules,,,,"@PART[bluedog_Gemini_Capsule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules6
+
+}"
+bluedog_Gemini_RadarEvaluationPod,7,Pods,capsules,SolidFuel:1,,,"@PART[bluedog_Gemini_RadarEvaluationPod]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules7
+
+}"
+bluedog_Gemini_RumbleSeat,7,Pods,capsules,ElectricCharge:60,,,"@PART[bluedog_Gemini_RumbleSeat]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules7
+
+}"
+bluedog_Apollo_Block2_Capsule,8,Pods,capsules,,,,"@PART[bluedog_Apollo_Block2_Capsule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules8
+
+}"
+bluedog_Apollo_Block2_LES,8,Utility,capsules,,,,"@PART[bluedog_Apollo_Block2_LES]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules8
+
+}"
+bluedog_Apollo_Block3_Capsule,9,Pods,capsules,,,,"@PART[bluedog_Apollo_Block3_Capsule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules9
+
+}"
+bluedog_Apollo_Block3_MissionModule,9,Utility,capsules,ElectricCharge:30,,,"@PART[bluedog_Apollo_Block3_MissionModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules9
+
+}"
+bluedog_Apollo_Block4_MissionModule,9,Utility,capsules,,,,"@PART[bluedog_Apollo_Block4_MissionModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules9
+
+}"
+bluedog_Saturn_VFB_MissionModule,9,Utility,capsules,,,,"@PART[bluedog_Saturn_VFB_MissionModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = capsules9
+
+}"
+bluedog_Biosat_Antenna,2,Communication,comms,Ablator:10,,,"@PART[bluedog_Biosat_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms2
+
+}"
+bluedog_dipole,2,none,comms,,,,"@PART[bluedog_dipole]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms2
+
+}"
+bluedog_domeAntenna,2,none,comms,,,,"@PART[bluedog_domeAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms2
+
+}"
+bluedog_HoopAntenna,2,Communication,comms,,,,"@PART[bluedog_HoopAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms2
+
+}"
+bluedog_OFO_Antenna,2,Communication,comms,,,,"@PART[bluedog_OFO_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms2
+
+}"
+bluedog_POPPY_Antenna,2,Communication,comms,,,,"@PART[bluedog_POPPY_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms2
+
+}"
+bluedog_simpleAntenna,2,none,comms,,,,"@PART[bluedog_simpleAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms2
+
+}"
+bluedog_Courier_Core,3,Pods,comms,MonoPropellant:0_2,SolidFuel:0_37,,"@PART[bluedog_Courier_Core]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms3
+
+}"
+bluedog_IDCSP_Probe,3,Pods,comms,,,,"@PART[bluedog_IDCSP_Probe]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms3
+
+}"
+bluedog_Oscar1,3,Communication,comms,,,,"@PART[bluedog_Oscar1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms3
+
+}"
+bluedog_Pioneer6_MainAntenna,3,Communication,comms,,,,"@PART[bluedog_Pioneer6_MainAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms3
+
+}"
+bluedog_Pioneer6_StanfordAntenna,3,Communication,comms,ElectricCharge:300,,,"@PART[bluedog_Pioneer6_StanfordAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms3
+
+}"
+bluedog_PioneerAble_Antenna,3,Communication,comms,,,,"@PART[bluedog_PioneerAble_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms3
+
+}"
+bluedog_Relay_Antenna,3,Communication,comms,,,,"@PART[bluedog_Relay_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms3
+
+}"
+bluedog_Relay_Core,3,Pods,comms,,,,"@PART[bluedog_Relay_Core]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms3
+
+}"
+bluedog_telstar,3,none,comms,,,,"@PART[bluedog_telstar]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms3
+
+}"
+bluedog_Telstar_Antenna,3,Communication,comms,,,,"@PART[bluedog_Telstar_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms3
+
+}"
+bluedog_Telstar_Core,3,Pods,comms,,,,"@PART[bluedog_Telstar_Core]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms3
+
+}"
+bluedog_TTS1,3,Pods,comms,,,,"@PART[bluedog_TTS1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms3
+
+}"
+bluedog_AIMP_Antenna,4,Communication,comms,,,,"@PART[bluedog_AIMP_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms4
+
+}"
+bluedog_Alouette_Antenna,4,Communication,comms,,,,"@PART[bluedog_Alouette_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms4
+
+}"
+bluedog_LunarOrbiter_Antenna,4,Communication,comms,,,,"@PART[bluedog_LunarOrbiter_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms4
+
+}"
+bluedog_LunarOrbiter_Dish,4,Communication,comms,,,,"@PART[bluedog_LunarOrbiter_Dish]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms4
+
+}"
+bluedog_Nimbus_BeaconAntenna,4,Communication,comms,,,,"@PART[bluedog_Nimbus_BeaconAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms4
+
+}"
+bluedog_Nimbus_EarlyCommandAntenna,4,Communication,comms,,,,"@PART[bluedog_Nimbus_EarlyCommandAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms4
+
+}"
+bluedog_Nimbus_LateCommandAntenna,4,Communication,comms,,,,"@PART[bluedog_Nimbus_LateCommandAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms4
+
+}"
+bluedog_Nimbus_SBandAntenna,4,Communication,comms,,,,"@PART[bluedog_Nimbus_SBandAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms4
+
+}"
+bluedog_Ranger_Block2_OmniAntenna,4,Communication,comms,,,,"@PART[bluedog_Ranger_Block2_OmniAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms4
+
+}"
+bluedog_Ranger_Dish,4,Communication,comms,ElectricCharge:150,MonoPropellant:30,,"@PART[bluedog_Ranger_Dish]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms4
+
+}"
+bluedog_Ranger_Lander_Antenna,4,Communication,comms,,,,"@PART[bluedog_Ranger_Lander_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms4
+
+}"
+bluedog_Ranger_OmniAntenna,4,Communication,comms,,,,"@PART[bluedog_Ranger_OmniAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms4
+
+}"
+bluedog_rangerDish,4,none,comms,,,,"@PART[bluedog_rangerDish]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms4
+
+}"
+bluedog_Clementine_HGA,5,Communication,comms,,,,"@PART[bluedog_Clementine_HGA]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms5
+
+}"
+bluedog_Clementine_ISAS_Antenna,5,Communication,comms,ElectricCharge:40,,,"@PART[bluedog_Clementine_ISAS_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms5
+
+}"
+bluedog_mariner2Antenna,5,none,comms,,,,"@PART[bluedog_mariner2Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms5
+
+}"
+bluedog_mariner4Antenna,5,Communication,comms,,,,"@PART[bluedog_mariner4Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms5
+
+}"
+bluedog_mariner4Dish,5,none,comms,ElectricCharge:100,,,"@PART[bluedog_mariner4Dish]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms5
+
+}"
+bluedog_Mercury_AntennaNose,5,Utility,comms,ElectricCharge:100,,,"@PART[bluedog_Mercury_AntennaNose]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms5
+
+}"
+bluedog_OAO_antenna,5,Communication,comms,,,,"@PART[bluedog_OAO_antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms5
+
+}"
+bluedog_OGO_HighGainAntenna,5,Communication,comms,,,,"@PART[bluedog_OGO_HighGainAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms5
+
+}"
+bluedog_solarAntenna,5,Communication,comms,,,,"@PART[bluedog_solarAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms5
+
+}"
+bluedog_Transit5_Antenna,5,Communication,comms,Ablator:800,,,"@PART[bluedog_Transit5_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms5
+
+}"
+bluedog_Transit5_SOOS_Antenna,5,Communication,comms,,,,"@PART[bluedog_Transit5_SOOS_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms5
+
+}"
+bluedog_ATDA_VHFAntenna,6,Communication,comms,,,,"@PART[bluedog_ATDA_VHFAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms6
+
+}"
+bluedog_GATV_LBandAntenna,6,Communication,comms,SolidFuel:1_3,,,"@PART[bluedog_GATV_LBandAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms6
+
+}"
+bluedog_GATV_SpiralAntenna,6,Communication,comms,ElectricCharge:10,MonoPropellant:0_5,,"@PART[bluedog_GATV_SpiralAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms6
+
+}"
+bluedog_Gemini_DipoleAntenna,6,Communication,comms,,,,"@PART[bluedog_Gemini_DipoleAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms6
+
+}"
+bluedog_Gemini_DockingAntenna_Fixed,6,Communication,comms,,,,"@PART[bluedog_Gemini_DockingAntenna_Fixed]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms6
+
+}"
+bluedog_Gemini_DockingAntenna_Rotating,6,Communication,comms,,,,"@PART[bluedog_Gemini_DockingAntenna_Rotating]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms6
+
+}"
+bluedog_Gemini_DoubleXAntenna,6,Communication,comms,,,,"@PART[bluedog_Gemini_DoubleXAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms6
+
+}"
+bluedog_Gemini_UHFAntenna,6,Communication,comms,ElectricCharge:1000,MonoPropellant:15,,"@PART[bluedog_Gemini_UHFAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms6
+
+}"
+bluedog_Gemini_WhipAntenna,6,Communication,comms,,,,"@PART[bluedog_Gemini_WhipAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms6
+
+}"
+bluedog_Helios_Dish,6,Communication,comms,,,,"@PART[bluedog_Helios_Dish]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms6
+
+}"
+bluedog_Titan_Transtage_Antenna,6,Communication,comms,,,,"@PART[bluedog_Titan_Transtage_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms6
+
+}"
+bluedog_Agena_SOT_GuidanceArray,7,Communication,comms,,,,"@PART[bluedog_Agena_SOT_GuidanceArray]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_Gemini_LunarRecon_Antenna,7,Communication,comms,,,,"@PART[bluedog_Gemini_LunarRecon_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_Gemini_LunarRecon_Dish,7,Communication,comms,,,,"@PART[bluedog_Gemini_LunarRecon_Dish]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_Hexagon_VHF_Bent,7,Communication,comms,,,,"@PART[bluedog_Hexagon_VHF_Bent]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_Hexagon_VHF_Straight,7,Communication,comms,,,,"@PART[bluedog_Hexagon_VHF_Straight]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_mariner10_highGainAntenna,7,Communication,comms,,,,"@PART[bluedog_mariner10_highGainAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_mariner10_lowGainAntenna,7,Communication,comms,,,,"@PART[bluedog_mariner10_lowGainAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_MOL_rackDish,7,Communication,comms,,,,"@PART[bluedog_MOL_rackDish]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_MOL_TrackingAntenna,7,Communication,comms,,,,"@PART[bluedog_MOL_TrackingAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_Strawman_Harvester,7,Communication,comms,,,,"@PART[bluedog_Strawman_Harvester]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_Strawman_Harvester_Standalone_Antenna,7,Communication,comms,SolidFuel:1,,,"@PART[bluedog_Strawman_Harvester_Standalone_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_Strawman_Reaper,7,Communication,comms,ElectricCharge:600,,,"@PART[bluedog_Strawman_Reaper]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_Strawman_Starfish_Big_Antenna,7,Communication,comms,MonoPropellant:10,,,"@PART[bluedog_Strawman_Starfish_Big_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_Strawman_Starfish_Small_Antenna,7,Communication,comms,,,,"@PART[bluedog_Strawman_Starfish_Small_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_Strawman_Thresher_Antenna,7,Communication,comms,,,,"@PART[bluedog_Strawman_Thresher_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms7
+
+}"
+bluedog_Apollo_Block2_HGA,8,Communication,comms,MonoPropellant:6,,,"@PART[bluedog_Apollo_Block2_HGA]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms8
+
+}"
+bluedog_LEM_Ascent_Antenna1,8,Communication,comms,,,,"@PART[bluedog_LEM_Ascent_Antenna1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms8
+
+}"
+bluedog_LEM_Ascent_Antenna2,8,Communication,comms,,,,"@PART[bluedog_LEM_Ascent_Antenna2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms8
+
+}"
+bluedog_scimitar,8,Communication,comms,,,,"@PART[bluedog_scimitar]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms8
+
+}"
+bluedog_Skylab_DisconeAntenna,8,Communication,comms,,,,"@PART[bluedog_Skylab_DisconeAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms8
+
+}"
+bluedog_Apollo_Block3_HGA,9,Communication,comms,,,,"@PART[bluedog_Apollo_Block3_HGA]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms9
+
+}"
+bluedog_Apollo_Block5_HGA,9,Communication,comms,,,,"@PART[bluedog_Apollo_Block5_HGA]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms9
+
+}"
+bluedog_Saturn_VFB_Dish,9,Communication,comms,SolidFuel:211,,,"@PART[bluedog_Saturn_VFB_Dish]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms9
+
+}"
+bluedog_LOantenna,?,none,comms,MonoPropellant:6,,,"@PART[bluedog_LOantenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms?
+
+}"
+bluedog_LOdish,?,none,comms,LiquidFuel:2_7,Oxidizer:3_3,,"@PART[bluedog_LOdish]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = comms?
+
+}"
+bluedog_Decoupler_0p625m,1,Coupling,construction,,,,"@PART[bluedog_Decoupler_0p625m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction1
+
+}"
+bluedog_Decoupler_0p9375m,1,Coupling,construction,,,,"@PART[bluedog_Decoupler_0p9375m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction1
+
+}"
+bluedog_FairingBase_0p625m,1,Payload,construction,,,,"@PART[bluedog_FairingBase_0p625m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction1
+
+}"
+bluedog_FairingBase_0p625m_SAF,1,Payload,construction,,,,"@PART[bluedog_FairingBase_0p625m_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction1
+
+}"
+bluedog_FairingBase_0p9375m,1,Payload,construction,,,,"@PART[bluedog_FairingBase_0p9375m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction1
+
+}"
+bluedog_FairingBase_0p9375m_Static,1,Payload,construction,,,,"@PART[bluedog_FairingBase_0p9375m_Static]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction1
+
+}"
+BDB_FASAlaunchClamp125,2,Structural,construction,,,,"@PART[BDB_FASAlaunchClamp125]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction2
+
+}"
+bluedog_Decoupler_0p125m,2,Coupling,construction,,,,"@PART[bluedog_Decoupler_0p125m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction2
+
+}"
+bluedog_Decoupler_1p25m,2,Coupling,construction,,,,"@PART[bluedog_Decoupler_1p25m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction2
+
+}"
+bluedog_FairingBase_1p25m,2,Payload,construction,ElectricCharge:0,,,"@PART[bluedog_FairingBase_1p25m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction2
+
+}"
+bluedog_Juno1_Nose,2,Structural,construction,MonoPropellant:120,,,"@PART[bluedog_Juno1_Nose]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction2
+
+}"
+bluedog_Sergeant_11x_Decoupler,2,Coupling,construction,,,,"@PART[bluedog_Sergeant_11x_Decoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction2
+
+}"
+bluedog_Sergeant_3x_Decoupler,2,Coupling,construction,,,,"@PART[bluedog_Sergeant_3x_Decoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction2
+
+}"
+bluedog_Vanguard_S1_Interstage,2,Coupling,construction,,,,"@PART[bluedog_Vanguard_S1_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction2
+
+}"
+bluedog_Vanguard_S2_LongProbeDecoupler,2,Coupling,construction,,,,"@PART[bluedog_Vanguard_S2_LongProbeDecoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction2
+
+}"
+bluedog_Vanguard_S2_ShortProbeDecoupler,2,Coupling,construction,,,,"@PART[bluedog_Vanguard_S2_ShortProbeDecoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction2
+
+}"
+bluedog_VanguardFairing_SAF,2,Payload,construction,,,,"@PART[bluedog_VanguardFairing_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction2
+
+}"
+BDB_FASAlaunchClampAtlas,3,Structural,construction,,,,"@PART[BDB_FASAlaunchClampAtlas]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Ablestar_Fairing_SAF,3,Payload,construction,,,,"@PART[bluedog_Ablestar_Fairing_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Decoupler_1p5m,3,Coupling,construction,,,,"@PART[bluedog_Decoupler_1p5m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Delta2_metalFairing_SAF,3,Payload,construction,,,,"@PART[bluedog_Delta2_metalFairing_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_FairingBase_1p5m,3,Payload,construction,,,,"@PART[bluedog_FairingBase_1p5m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_FairingBase_1p5m_SAF,3,Payload,construction,,,,"@PART[bluedog_FairingBase_1p5m_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Juno2FairingBase,3,Payload,construction,,,,"@PART[bluedog_Juno2FairingBase]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Juno4_EngineMount,3,Structural,construction,,,,"@PART[bluedog_Juno4_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Juno4_FairingBase_0p9375,3,Payload,construction,,,,"@PART[bluedog_Juno4_FairingBase_0p9375]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Juno4_FairingBase_1p25m,3,Payload,construction,,,,"@PART[bluedog_Juno4_FairingBase_1p25m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Juno4_Interstage,3,Coupling,construction,,,,"@PART[bluedog_Juno4_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Jupiter_EngineMount,3,Structural,construction,,,,"@PART[bluedog_Jupiter_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Pioneer6_ServiceModule,3,Utility,construction,,,,"@PART[bluedog_Pioneer6_ServiceModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_PioneerAble_Adapter,3,Coupling,construction,,,,"@PART[bluedog_PioneerAble_Adapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_PSM_0p3125m_HighProfile,3,Coupling,construction,,,,"@PART[bluedog_PSM_0p3125m_HighProfile]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_PSM_0p3125m_LowProfile,3,Coupling,construction,,,,"@PART[bluedog_PSM_0p3125m_LowProfile]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_PSM_0p3125m_MediumProfile,3,Coupling,construction,,,,"@PART[bluedog_PSM_0p3125m_MediumProfile]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_PSM_0p625m_HighProfile,3,Coupling,construction,SolidFuel:296,,,"@PART[bluedog_PSM_0p625m_HighProfile]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_PSM_0p625m_LowProfile,3,Coupling,construction,SolidFuel:296,,,"@PART[bluedog_PSM_0p625m_LowProfile]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_PSM_0p625m_MediumProfile,3,Coupling,construction,SolidFuel:431,,,"@PART[bluedog_PSM_0p625m_MediumProfile]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_RadialDecoupler_Medium,3,Coupling,construction,SolidFuel:4,,,"@PART[bluedog_RadialDecoupler_Medium]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_RadialDecoupler_Mini,3,Coupling,construction,SolidFuel:4,,,"@PART[bluedog_RadialDecoupler_Mini]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Sparta_0p625mAdapter,3,Coupling,construction,,,,"@PART[bluedog_Sparta_0p625mAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Sparta_0p625mInterstage,3,Coupling,construction,,,,"@PART[bluedog_Sparta_0p625mInterstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Thor_0p9375mAdapter,3,Coupling,construction,,,,"@PART[bluedog_Thor_0p9375mAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Thor_0p9375mInterstage,3,Coupling,construction,,,,"@PART[bluedog_Thor_0p9375mInterstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Thor_1p25mAdapter_Short,3,Structural,construction,ElectricCharge:0,,,"@PART[bluedog_Thor_1p25mAdapter_Short]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Thor_AbleAdapter,3,Structural,construction,,,,"@PART[bluedog_Thor_AbleAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_Thor_EngineMount,3,Structural,construction,,,,"@PART[bluedog_Thor_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+bluedog_ThorDelta_Interstage,3,Coupling,construction,,,,"@PART[bluedog_ThorDelta_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction3
+
+}"
+BDB_FASAlaunchClamp25,4,Structural,construction,ElectricCharge:200,,,"@PART[BDB_FASAlaunchClamp25]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_1875_NoseSep,4,Engine,construction,ElectricCharge:50,,,"@PART[bluedog_1875_NoseSep]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_1875_RadialDecoupler,4,Coupling,construction,,,,"@PART[bluedog_1875_RadialDecoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_1875_RadialSep,4,Engine,construction,,,,"@PART[bluedog_1875_RadialSep]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Agena_AInterstage,4,Coupling,construction,,,,"@PART[bluedog_Agena_AInterstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Agena_Decoupler_LunarOrbiter,4,Coupling,construction,ElectricCharge:0,,,"@PART[bluedog_Agena_Decoupler_LunarOrbiter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Agena_EngineMount,4,Structural,construction,ElectricCharge:50,,,"@PART[bluedog_Agena_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Agena_EngineShroud,4,Control,construction,ElectricCharge:150,MonoPropellant:30,,"@PART[bluedog_Agena_EngineShroud]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Agena_SAC,4,Payload,construction,,,,"@PART[bluedog_Agena_SAC]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Agena_StandardFairingBase,4,Payload,construction,ElectricCharge:100,,,"@PART[bluedog_Agena_StandardFairingBase]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Agena_StraightInterstage,4,Coupling,construction,,,,"@PART[bluedog_Agena_StraightInterstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_AgenaB_FairingBase_Ranger,4,Payload,construction,,,,"@PART[bluedog_AgenaB_FairingBase_Ranger]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_AgenaB_FairingBase_Ranger_SAF,4,Payload,construction,,,,"@PART[bluedog_AgenaB_FairingBase_Ranger_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_AgenaD_FairingBase_LunarOrbiter,4,Payload,construction,,,,"@PART[bluedog_AgenaD_FairingBase_LunarOrbiter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_AgenaD_FairingBase_LunarOrbiterSAF,4,Payload,construction,ElectricCharge:80,,,"@PART[bluedog_AgenaD_FairingBase_LunarOrbiterSAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_AIMP_SolidDecoupler,4,Coupling,construction,,,,"@PART[bluedog_AIMP_SolidDecoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Atlas_BoosterSkirt,4,Coupling,construction,,,,"@PART[bluedog_Atlas_BoosterSkirt]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Atlas_Decoupler1875m,4,Coupling,construction,,,,"@PART[bluedog_Atlas_Decoupler1875m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Atlas_FairingBase,4,Payload,construction,ElectricCharge:0,,,"@PART[bluedog_Atlas_FairingBase]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Carrack_AgenaAdapter,4,Coupling,construction,,,,"@PART[bluedog_Carrack_AgenaAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Carrack_StraightAdapter,4,Coupling,construction,ElectricCharge:0,,,"@PART[bluedog_Carrack_StraightAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Carrack_StraightAdapter_SAF,4,Coupling,construction,,,,"@PART[bluedog_Carrack_StraightAdapter_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Carrack_WideAdapter,4,Coupling,construction,,,,"@PART[bluedog_Carrack_WideAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Castor_RadialDecoupler,4,Coupling,construction,MonoPropellant:3_6,SolidFuel:3,,"@PART[bluedog_Castor_RadialDecoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Decoupler_1p875m,4,Coupling,construction,,,,"@PART[bluedog_Decoupler_1p875m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Delta2_dpaf_base,4,Structural,construction,SolidFuel:1080,,,"@PART[bluedog_Delta2_dpaf_base]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Delta2_dpaf_top,4,Coupling,construction,,,,"@PART[bluedog_Delta2_dpaf_top]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_FairingBase_1p875m,4,Payload,construction,,,,"@PART[bluedog_FairingBase_1p875m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Minotaur_Interstage,4,Coupling,construction,ElectricCharge:200,MonoPropellant:300,,"@PART[bluedog_Minotaur_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Nimbus_Decoupler,4,Coupling,construction,ElectricCharge:100,SolidFuel:0_2,,"@PART[bluedog_Nimbus_Decoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Nimbus_InstrumentTorus,4,Structural,construction,,,,"@PART[bluedog_Nimbus_InstrumentTorus]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Nimbus_PayloadDeck,4,Structural,construction,MonoPropellant:90,,,"@PART[bluedog_Nimbus_PayloadDeck]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Nimbus_Truss,4,Structural,construction,ElectricCharge:60,MonoPropellant:20,LeadBallast:881,"@PART[bluedog_Nimbus_Truss]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Ranger_Block2_RetroDecoupler,4,Coupling,construction,MonoPropellant:80,,,"@PART[bluedog_Ranger_Block2_RetroDecoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Ranger_Decoupler,4,Coupling,construction,,,,"@PART[bluedog_Ranger_Decoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Ranger_PayloadDeck,4,Structural,construction,Ablator:450,,,"@PART[bluedog_Ranger_PayloadDeck]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Titan1_S1_EngineShroud,4,Structural,construction,ElectricCharge:60,MonoPropellant:6,,"@PART[bluedog_Titan1_S1_EngineShroud]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Titan1_StructuralAdapter,4,Structural,construction,,,,"@PART[bluedog_Titan1_StructuralAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+bluedog_Transit4A_Decoupler,4,Coupling,construction,Ablator:800,,,"@PART[bluedog_Transit4A_Decoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction4
+
+}"
+BDB_FASAUmbilicalTower,5,Structural,construction,,,,"@PART[BDB_FASAUmbilicalTower]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Agena_EquipmentRack,5,Control,construction,,,,"@PART[bluedog_Agena_EquipmentRack]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Agena_MultiPayloadAdapter,5,Coupling,construction,,,,"@PART[bluedog_Agena_MultiPayloadAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Agena_SLV3B_Fairing_SAF,5,Coupling,construction,SolidFuel:3_0,,,"@PART[bluedog_Agena_SLV3B_Fairing_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Agena_SLV3B_FairingBase,5,Coupling,construction,ElectricCharge:0,,,"@PART[bluedog_Agena_SLV3B_FairingBase]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Agena_SLV3B_Interstage,5,Coupling,construction,ElectricCharge:250,,,"@PART[bluedog_Agena_SLV3B_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Agena_Titan33B_adapterFairingBase,5,Payload,construction,,,,"@PART[bluedog_Agena_Titan33B_adapterFairingBase]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Atlas_Decoupler25m,5,Coupling,construction,ElectricCharge:0,,,"@PART[bluedog_Atlas_Decoupler25m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_CELV_BoosterSkirt,5,Coupling,construction,,,,"@PART[bluedog_CELV_BoosterSkirt]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_CELV_Fin,5,Aero,construction,,,,"@PART[bluedog_CELV_Fin]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Centaur_MPF_FairingBase,5,Payload,construction,,,,"@PART[bluedog_Centaur_MPF_FairingBase]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Centaur_MPF_FairingBase_SAF,5,Payload,construction,,,,"@PART[bluedog_Centaur_MPF_FairingBase_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_centaur1875mAdapterFairing,5,Coupling,construction,,,,"@PART[bluedog_centaur1875mAdapterFairing]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_centaur25mAdapterFairing,5,none,construction,,,,"@PART[bluedog_centaur25mAdapterFairing]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_CentaurD_EngineMount,5,Structural,construction,,,,"@PART[bluedog_CentaurD_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Delta_Interstage,5,Coupling,construction,,,,"@PART[bluedog_Delta_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Delta_Miniskirt_1p5m,5,Payload,construction,SolidFuel:8,,,"@PART[bluedog_Delta_Miniskirt_1p5m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Delta_Miniskirt_1p875m,5,Payload,construction,,,,"@PART[bluedog_Delta_Miniskirt_1p875m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Delta_Miniskirt_1p875m_SAF,5,Payload,construction,,,,"@PART[bluedog_Delta_Miniskirt_1p875m_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Delta2_1875_adapter_fairingBase_SAF,5,Payload,construction,,,,"@PART[bluedog_Delta2_1875_adapter_fairingBase_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_HOSS_EngineMount,5,Structural,construction,,,,"@PART[bluedog_HOSS_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Keyhole_DualAdapter,5,Coupling,construction,,,,"@PART[bluedog_Keyhole_DualAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Mercury_Decoupler,5,Coupling,construction,,,,"@PART[bluedog_Mercury_Decoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Mercury_Interstage,5,Coupling,construction,,,,"@PART[bluedog_Mercury_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_OAO_spacecraftAdapter,5,Coupling,construction,,,,"@PART[bluedog_OAO_spacecraftAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_OAO3_serviceModule,5,Utility,construction,ElectricCharge:75,MonoPropellant:15,,"@PART[bluedog_OAO3_serviceModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_OGO_Adapter,5,Coupling,construction,,,,"@PART[bluedog_OGO_Adapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Ranger_Lander_Truss,5,Structural,construction,Ablator:288,,,"@PART[bluedog_Ranger_Lander_Truss]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_SOLTAN_NoseCone,5,Aero,construction,,,,"@PART[bluedog_SOLTAN_NoseCone]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Titan2_S2_1p25mAdapter,5,Structural,construction,,,,"@PART[bluedog_Titan2_S2_1p25mAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Titan2_S2_1p5mAdapter,5,Structural,construction,,,,"@PART[bluedog_Titan2_S2_1p5mAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Titan2_S2_EngineDecoupler,5,Coupling,construction,,,,"@PART[bluedog_Titan2_S2_EngineDecoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Titan2_S2_GeminiDecoupler,5,Coupling,construction,,,,"@PART[bluedog_Titan2_S2_GeminiDecoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Titan2_S2_NoseCone,5,Aero,construction,,,,"@PART[bluedog_Titan2_S2_NoseCone]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Titan2_S2_RetroMotor,5,Engine,construction,,,,"@PART[bluedog_Titan2_S2_RetroMotor]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Transit5_Fins,5,Coupling,construction,,,,"@PART[bluedog_Transit5_Fins]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Transit5_SOOS_Cage,5,Coupling,construction,ElectricCharge:200,MonoPropellant:600,,"@PART[bluedog_Transit5_SOOS_Cage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Vega_EngineMount,5,Structural,construction,,,,"@PART[bluedog_Vega_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+bluedog_Vega_ThirdStage_Adapter,5,Coupling,construction,,,,"@PART[bluedog_Vega_ThirdStage_Adapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction5
+
+}"
+BDB_FASAlaunchTower,6,Structural,construction,,,,"@PART[BDB_FASAlaunchTower]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Agena_POPPY_fairingBase_SAF,6,Payload,construction,,,,"@PART[bluedog_Agena_POPPY_fairingBase_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_DCSS_2p5mFairing,6,Payload,construction,,,,"@PART[bluedog_DCSS_2p5mFairing]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_DCSS_2p5mFairing_SAF,6,Payload,construction,ElectricCharge:50,MonoPropellant:5,,"@PART[bluedog_DCSS_2p5mFairing_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_DCSS_Interstage,6,Coupling,construction,,,,"@PART[bluedog_DCSS_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_DCSS_PayloadAdapter_0p9375m,6,Structural,construction,,,,"@PART[bluedog_DCSS_PayloadAdapter_0p9375m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_DCSS_PayloadAdapter_1p875m,6,Structural,construction,,,,"@PART[bluedog_DCSS_PayloadAdapter_1p875m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_DCSS_PayloadAdapter_2p5m,6,Structural,construction,,,,"@PART[bluedog_DCSS_PayloadAdapter_2p5m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_DCSS_StructAdapter,6,Structural,construction,,,,"@PART[bluedog_DCSS_StructAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Decoupler_3p125m,6,Coupling,construction,,,,"@PART[bluedog_Decoupler_3p125m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Delta_DoubleBarrelAdapter,6,Coupling,construction,,,,"@PART[bluedog_Delta_DoubleBarrelAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_FairingBase_3p125m,6,Payload,construction,,,,"@PART[bluedog_FairingBase_3p125m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_FairingBase_3p125m_SAF,6,Payload,construction,,,,"@PART[bluedog_FairingBase_3p125m_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_GATV_DockingPort,6,Coupling,construction,,,,"@PART[bluedog_GATV_DockingPort]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_GATV_NoseCone,6,Coupling,construction,ElectricCharge:30,,,"@PART[bluedog_GATV_NoseCone]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_gemini_cap,6,Aero,construction,,,,"@PART[bluedog_gemini_cap]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Gemini_Decoupler_1p5m,6,Coupling,construction,,,,"@PART[bluedog_Gemini_Decoupler_1p5m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Gemini_Decoupler_1p875m,6,Coupling,construction,ElectricCharge:100,,,"@PART[bluedog_Gemini_Decoupler_1p875m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Gemini_DockingPort,6,Coupling,construction,MonoPropellant:15,,,"@PART[bluedog_Gemini_DockingPort]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Gemini_Port_A,6,none,construction,,,,"@PART[bluedog_Gemini_Port_A]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Gemini_RetroModule,6,Coupling,construction,,,,"@PART[bluedog_Gemini_RetroModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Keyhole_RVAdapter,6,Coupling,construction,,,,"@PART[bluedog_Keyhole_RVAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_LDC_1p875mAdapter,6,Structural,construction,ElectricCharge:200,,,"@PART[bluedog_LDC_1p875mAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_LDC_2p5mAdapter,6,Structural,construction,,,,"@PART[bluedog_LDC_2p5mAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_LDC_375mAdapter,6,Structural,construction,,,,"@PART[bluedog_LDC_375mAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_LDC_3p5mFairingBase,6,Payload,construction,,,,"@PART[bluedog_LDC_3p5mFairingBase]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_LDC_NoseCone,6,Aero,construction,,,,"@PART[bluedog_LDC_NoseCone]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_LDC_S1_EngineMount,6,Structural,construction,,,,"@PART[bluedog_LDC_S1_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_LDC_S2_EngineMount,6,Structural,construction,,,,"@PART[bluedog_LDC_S2_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_LDC_S2_Interstage,6,Coupling,construction,,,,"@PART[bluedog_LDC_S2_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_LDC_S2_ShortInterstage,6,Coupling,construction,ElectricCharge:80,,,"@PART[bluedog_LDC_S2_ShortInterstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Titan3_CommercialDPAF_SAF,6,Payload,construction,,,,"@PART[bluedog_Titan3_CommercialDPAF_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Titan3_CommercialPLF,6,Payload,construction,,,,"@PART[bluedog_Titan3_CommercialPLF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Titan3_CommercialPLF_SAF,6,Payload,construction,,,,"@PART[bluedog_Titan3_CommercialPLF_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Titan3_S1_EngineShroud,6,Structural,construction,,,,"@PART[bluedog_Titan3_S1_EngineShroud]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Titan3B_Interstage,6,Coupling,construction,,,,"@PART[bluedog_Titan3B_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Titan3C_StandardFairing_SAF,6,Payload,construction,,,,"@PART[bluedog_Titan3C_StandardFairing_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Titan3E_PLF,6,Payload,construction,,,,"@PART[bluedog_Titan3E_PLF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Titan3E_PLF_SAF,6,Payload,construction,,,,"@PART[bluedog_Titan3E_PLF_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction6
+
+}"
+bluedog_Agena_SOT_SupportSkirt,7,Payload,construction,ElectricCharge:200,,,"@PART[bluedog_Agena_SOT_SupportSkirt]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Agena_SOT_SupportSkirt_SAF,7,Payload,construction,,,,"@PART[bluedog_Agena_SOT_SupportSkirt_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_BigG_Decoupler,7,Coupling,construction,MonoPropellant:15,,,"@PART[bluedog_BigG_Decoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_CentaurV_EngineMount,7,Structural,construction,,,,"@PART[bluedog_CentaurV_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Gemini_InflatableAirlock,7,Utility,construction,,,,"@PART[bluedog_Gemini_InflatableAirlock]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Gemini_Lander_LowProfilePort,7,Coupling,construction,,,,"@PART[bluedog_Gemini_Lander_LowProfilePort]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Gemini_NoseFairing,7,Aero,construction,,,,"@PART[bluedog_Gemini_NoseFairing]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Gemini_RadialAttachPoint,7,Structural,construction,,,,"@PART[bluedog_Gemini_RadialAttachPoint]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_GeminiB_AdapterModule,7,Propulsion,construction,,,,"@PART[bluedog_GeminiB_AdapterModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_GeminiB_RetroModule,7,Coupling,construction,,,,"@PART[bluedog_GeminiB_RetroModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_GeminiFerry_DockingAdapter,7,Structural,construction,ElectricCharge:0,,,"@PART[bluedog_GeminiFerry_DockingAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Hexagon_AdapterSegment,7,Coupling,construction,SolidFuel:759,,,"@PART[bluedog_Hexagon_AdapterSegment]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Hexagon_FairingBase,7,Payload,construction,SolidFuel:1063,,,"@PART[bluedog_Hexagon_FairingBase]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Hexagon_FairingBase_SAF,7,Payload,construction,,,,"@PART[bluedog_Hexagon_FairingBase_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Hexagon_LaunchAdapter,7,Coupling,construction,,,,"@PART[bluedog_Hexagon_LaunchAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Hexagon_TrussSegment,7,Coupling,construction,,,,"@PART[bluedog_Hexagon_TrussSegment]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_IDCSP_Truss,7,Structural,construction,,,,"@PART[bluedog_IDCSP_Truss]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_IUS_Interstage,7,Coupling,construction,,,,"@PART[bluedog_IUS_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_mariner10_decoupler,7,Coupling,construction,ElectricCharge:150,MonoPropellant:30,,"@PART[bluedog_mariner10_decoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_mariner10_SciencePallet,7,Structural,construction,,,,"@PART[bluedog_mariner10_SciencePallet]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Saturn_25mFairingBase,7,Payload,construction,,,,"@PART[bluedog_Saturn_25mFairingBase]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Saturn_3125mFairingBase,7,Payload,construction,ElectricCharge:40,,,"@PART[bluedog_Saturn_3125mFairingBase]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Shuguang_Nose,7,Aero,construction,,,,"@PART[bluedog_Shuguang_Nose]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Shuguang_RetroModule,7,Coupling,construction,,,,"@PART[bluedog_Shuguang_RetroModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Strawman_Bus_SAF,7,Payload,construction,,,,"@PART[bluedog_Strawman_Bus_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Titan4_PLF,7,Payload,construction,,,,"@PART[bluedog_Titan4_PLF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+bluedog_Titan4_PLF_SAF,7,Payload,construction,,,,"@PART[bluedog_Titan4_PLF_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction7
+
+}"
+BDB_FASAlaunchClampApollo,8,Structural,construction,,,,"@PART[BDB_FASAlaunchClampApollo]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Apollo_AARDV_NoseAdapter,8,Structural,construction,ElectricCharge:100,,,"@PART[bluedog_Apollo_AARDV_NoseAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Apollo_Block1_Nose,8,Aero,construction,MonoPropellant:20,,,"@PART[bluedog_Apollo_Block1_Nose]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Apollo_Block2_ActiveDockingMechanism,8,Coupling,construction,,,,"@PART[bluedog_Apollo_Block2_ActiveDockingMechanism]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Apollo_Block2_Decoupler,8,Coupling,construction,SolidFuel:0_3,,,"@PART[bluedog_Apollo_Block2_Decoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Apollo_Block2_ParachuteMount,8,Structural,construction,,,,"@PART[bluedog_Apollo_Block2_ParachuteMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Apollo_Block2_PassiveDockingMechanism,8,Coupling,construction,,,,"@PART[bluedog_Apollo_Block2_PassiveDockingMechanism]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Apollo_Flat25mStructuralAdapter,8,Structural,construction,,,,"@PART[bluedog_Apollo_Flat25mStructuralAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Apollo_Subsatellite_Decoupler,8,Coupling,construction,,,,"@PART[bluedog_Apollo_Subsatellite_Decoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_AtlasV_400Fairing_SAF,8,Payload,construction,,,,"@PART[bluedog_AtlasV_400Fairing_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_AtlasV_500Fairing_SAF,8,Payload,construction,ElectricCharge:100,MonoPropellant:150,,"@PART[bluedog_AtlasV_500Fairing_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_AtlasV_FairingBase4xx,8,Payload,construction,,,,"@PART[bluedog_AtlasV_FairingBase4xx]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_AtlasV_FairingBase5xx,8,Payload,construction,,,,"@PART[bluedog_AtlasV_FairingBase5xx]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_AtlasV_Interstage4xx,8,Coupling,construction,,,,"@PART[bluedog_AtlasV_Interstage4xx]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Delta4_dpaf_base,8,Structural,construction,,,,"@PART[bluedog_Delta4_dpaf_base]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Delta4_dpaf_top,8,Coupling,construction,,,,"@PART[bluedog_Delta4_dpaf_top]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_DeltaIV_3p125interstage,8,Coupling,construction,,,,"@PART[bluedog_DeltaIV_3p125interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_DeltaIV_DCSS_3p125_payloadAdapter,8,Structural,construction,,,,"@PART[bluedog_DeltaIV_DCSS_3p125_payloadAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_DeltaIV_DCSS_fairingBase,8,Payload,construction,ElectricCharge:0,,,"@PART[bluedog_DeltaIV_DCSS_fairingBase]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_DeltaIV_DCSS_fairingBase_SAF,8,Payload,construction,,,,"@PART[bluedog_DeltaIV_DCSS_fairingBase_SAF]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_DeltaIV_heavyDecoupler,8,Coupling,construction,,,,"@PART[bluedog_DeltaIV_heavyDecoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_DeltaIV_noseCone,8,Aero,construction,,,,"@PART[bluedog_DeltaIV_noseCone]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_DeltaIV_smallInterstage,8,Coupling,construction,,,,"@PART[bluedog_DeltaIV_smallInterstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S1_AdvancedFin,8,Aero,construction,,,,"@PART[bluedog_Saturn_S1_AdvancedFin]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S1_EngineMount,8,Structural,construction,SolidFuel:0_2,,,"@PART[bluedog_Saturn_S1_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S1C_56mDecoupler,8,Coupling,construction,,,,"@PART[bluedog_Saturn_S1C_56mDecoupler]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S1C_EngineMount,8,Structural,construction,SolidFuel:8,,,"@PART[bluedog_Saturn_S1C_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S1C_Fin,8,Aero,construction,SolidFuel:8,,,"@PART[bluedog_Saturn_S1C_Fin]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S1E_EngineMount,8,Structural,construction,,,,"@PART[bluedog_Saturn_S1E_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S2_5625mFairingBase,8,Payload,construction,SolidFuel:0_4,,,"@PART[bluedog_Saturn_S2_5625mFairingBase]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S2_EngineMount,8,Structural,construction,SolidFuel:0_6,,,"@PART[bluedog_Saturn_S2_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S2_EngineMount_7X,8,Structural,construction,,,,"@PART[bluedog_Saturn_S2_EngineMount_7X]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S2_Interstage,8,Coupling,construction,,,,"@PART[bluedog_Saturn_S2_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S2_Tankage,8,Propulsion,construction,,,,"@PART[bluedog_Saturn_S2_Tankage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S4_EngineMount,8,Structural,construction,Ablator:30,,,"@PART[bluedog_Saturn_S4_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S4_Interstage,8,Coupling,construction,,,,"@PART[bluedog_Saturn_S4_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S4B_375mFairingBase,8,Payload,construction,,,,"@PART[bluedog_Saturn_S4B_375mFairingBase]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S4B_EngineMount,8,Structural,construction,,,,"@PART[bluedog_Saturn_S4B_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S4B_Interstage,8,Coupling,construction,,,,"@PART[bluedog_Saturn_S4B_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S4B_SLA,8,Payload,construction,,,,"@PART[bluedog_Saturn_S4B_SLA]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S4B_SLA_Full,8,Payload,construction,,,,"@PART[bluedog_Saturn_S4B_SLA_Full]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S4B_SLA_SinglePanel,8,Payload,construction,,,,"@PART[bluedog_Saturn_S4B_SLA_SinglePanel]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S4B_SLAbase,8,Payload,construction,,,,"@PART[bluedog_Saturn_S4B_SLAbase]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S4B_WideInterstage,8,Coupling,construction,,,,"@PART[bluedog_Saturn_S4B_WideInterstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_Saturn_S4C_EngineMount,8,Structural,construction,,,,"@PART[bluedog_Saturn_S4C_EngineMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction8
+
+}"
+bluedog_CXA_APAS_A_L04F,9,Coupling,construction,,,,"@PART[bluedog_CXA_APAS_A_L04F]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction9
+
+}"
+bluedog_CXA_APAS_P,9,Coupling,construction,,,,"@PART[bluedog_CXA_APAS_P]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = construction9
+
+}"
+bluedog_ThorAble_Guidance,0,Pods,control,ElectricCharge:100,,,"@PART[bluedog_ThorAble_Guidance]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control0
+
+}"
+bluedog_Scout_Algol_Fin,1,Aero,control,,,,"@PART[bluedog_Scout_Algol_Fin]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control1
+
+}"
+bluedog_SpinDecoupler_p3125m,1,Control,control,Ablator:112_5,,,"@PART[bluedog_SpinDecoupler_p3125m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control1
+
+}"
+bluedog_Spintable_0p625,1,Control,control,,,,"@PART[bluedog_Spintable_0p625]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control1
+
+}"
+bluedog_Spintable_0p9375,1,Control,control,SolidFuel:30,,,"@PART[bluedog_Spintable_0p9375]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control1
+
+}"
+bluedog_Juno1_Guidance,2,Pods,control,ElectricCharge:200,MonoPropellant:300,,"@PART[bluedog_Juno1_Guidance]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control2
+
+}"
+bluedog_POPPY2_RCS,2,Control,control,,,,"@PART[bluedog_POPPY2_RCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control2
+
+}"
+bluedog_POPPY2_RCS_Antenna,2,Control,control,,,,"@PART[bluedog_POPPY2_RCS_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control2
+
+}"
+bluedog_Redstone_AirVane,2,Control,control,,,,"@PART[bluedog_Redstone_AirVane]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control2
+
+}"
+bluedog_Redstone_Fin_Basic,2,Aero,control,,,,"@PART[bluedog_Redstone_Fin_Basic]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control2
+
+}"
+bluedog_Redstone_Fin_CtrlSurf,2,Aero,control,ElectricCharge:300,,,"@PART[bluedog_Redstone_Fin_CtrlSurf]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control2
+
+}"
+bluedog_Redstone_Guidance,2,Pods,control,,,,"@PART[bluedog_Redstone_Guidance]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control2
+
+}"
+bluedog_Vanguard_S2_Guidance,2,Pods,control,MonoPropellant:300,,,"@PART[bluedog_Vanguard_S2_Guidance]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control2
+
+}"
+bluedog_Delta_Fin,3,Aero,control,ElectricCharge:75,MonoPropellant:15,,"@PART[bluedog_Delta_Fin]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control3
+
+}"
+bluedog_Jupiter_Guidance,3,Pods,control,SolidFuel:1,,,"@PART[bluedog_Jupiter_Guidance]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control3
+
+}"
+bluedog_Pioneer6_RCS,3,Control,control,,,,"@PART[bluedog_Pioneer6_RCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control3
+
+}"
+bluedog_Sparta_ControlJets,3,Control,control,ElectricCharge:450,,,"@PART[bluedog_Sparta_ControlJets]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control3
+
+}"
+bluedog_Sparta_Guidance,3,Pods,control,ElectricCharge:300,,,"@PART[bluedog_Sparta_Guidance]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control3
+
+}"
+bluedog_Thor_CZFin,3,Aero,control,ElectricCharge:50,,,"@PART[bluedog_Thor_CZFin]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control3
+
+}"
+bluedog_YoYoDespin,3,Control,control,,,,"@PART[bluedog_YoYoDespin]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control3
+
+}"
+bluedog_Agena_Avionics,4,Pods,control,MonoPropellant:30,,,"@PART[bluedog_Agena_Avionics]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_Atlas2_RollControlSystem,4,Control,control,,,,"@PART[bluedog_Atlas2_RollControlSystem]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_Minotaur_GCA,4,Control,control,,,,"@PART[bluedog_Minotaur_GCA]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_OSO_Arm,4,Control,control,,,,"@PART[bluedog_OSO_Arm]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_Peacekeeper_PostBoostVehicle,4,Propulsion,control,,,,"@PART[bluedog_Peacekeeper_PostBoostVehicle]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_ProbeRCS_1Way_Double,4,Control,control,,,,"@PART[bluedog_ProbeRCS_1Way_Double]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_ProbeRCS_1Way_Radial,4,Control,control,ElectricCharge:300,,,"@PART[bluedog_ProbeRCS_1Way_Radial]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_ProbeRCS_1Way_Vertical,4,Control,control,,,,"@PART[bluedog_ProbeRCS_1Way_Vertical]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_ProbeRCS_2Way_45Degree,4,Control,control,ElectricCharge:100,MonoPropellant:30,,"@PART[bluedog_ProbeRCS_2Way_45Degree]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_ProbeRCS_2Way_Vertical,4,Control,control,,,,"@PART[bluedog_ProbeRCS_2Way_Vertical]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_ProbeRCS_3Way_45Degree,4,Control,control,ElectricCharge:50,,,"@PART[bluedog_ProbeRCS_3Way_45Degree]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_ProbeRCS_3Way_Normal,4,Control,control,,,,"@PART[bluedog_ProbeRCS_3Way_Normal]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_ProbeRCS_3Way_Radial,4,Control,control,,,,"@PART[bluedog_ProbeRCS_3Way_Radial]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_ProbeRCS_4Way_45Degree,4,Control,control,ElectricCharge:200,,,"@PART[bluedog_ProbeRCS_4Way_45Degree]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_ProbeRCS_4Way_Normal,4,Control,control,,,,"@PART[bluedog_ProbeRCS_4Way_Normal]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_probeRCSblock,4,Control,control,,,,"@PART[bluedog_probeRCSblock]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_probeRCSblockE,4,Control,control,,,,"@PART[bluedog_probeRCSblockE]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control4
+
+}"
+bluedog_Athena_OAM,5,Propulsion,control,,,,"@PART[bluedog_Athena_OAM]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_CentaurD_Avionics,5,Pods,control,,,,"@PART[bluedog_CentaurD_Avionics]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_Clementine_LowerRCS,5,Control,control,SolidFuel:15,,,"@PART[bluedog_Clementine_LowerRCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_Clementine_StarTracker,5,Control,control,ElectricCharge:200,,,"@PART[bluedog_Clementine_StarTracker]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_Clementine_UpperRCS,5,Control,control,ElectricCharge:300,,,"@PART[bluedog_Clementine_UpperRCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_Delta_Avionics,5,Pods,control,,,,"@PART[bluedog_Delta_Avionics]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_HOSS_Avionics,5,Pods,control,ElectricCharge:150,MonoPropellant:30,,"@PART[bluedog_HOSS_Avionics]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_Mercury_Airbrake,5,Aero,control,SolidFuel:2,,,"@PART[bluedog_Mercury_Airbrake]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_Mercury_ParachuteRCS,5,Control,control,,,,"@PART[bluedog_Mercury_ParachuteRCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_mercuryRCS,5,none,control,,,,"@PART[bluedog_mercuryRCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_OAO_balanceBoom,5,Control,control,ElectricCharge:60,MonoPropellant:20,,"@PART[bluedog_OAO_balanceBoom]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_OAO_starTracker,5,Control,control,,,,"@PART[bluedog_OAO_starTracker]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_OGO_RCS,5,Control,control,,,,"@PART[bluedog_OGO_RCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_Titan23G_ACS,5,Control,control,Ablator:288,,,"@PART[bluedog_Titan23G_ACS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_Transit5_GravityGradientBoom,5,Control,control,,,,"@PART[bluedog_Transit5_GravityGradientBoom]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_Transit5_GravityGradientBoom_Light,5,Control,control,ElectricCharge:100,,,"@PART[bluedog_Transit5_GravityGradientBoom_Light]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control5
+
+}"
+bluedog_ATDA_RCS,6,Control,control,,,,"@PART[bluedog_ATDA_RCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_Gemini_HorizonScanners,6,Control,control,,,,"@PART[bluedog_Gemini_HorizonScanners]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_Gemini_OAMSThruster,6,Propulsion,control,ElectricCharge:80,MonoPropellant:10,,"@PART[bluedog_Gemini_OAMSThruster]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_Gemini_RCS_A,6,none,control,,,,"@PART[bluedog_Gemini_RCS_A]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_Gemini_RCS_B,6,none,control,,,,"@PART[bluedog_Gemini_RCS_B]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_Gemini_ReentryRCS,6,Control,control,,,,"@PART[bluedog_Gemini_ReentryRCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_Gemini_RotationRCS,6,Control,control,,,,"@PART[bluedog_Gemini_RotationRCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_Gemini_TranslationRCS,6,Control,control,ElectricCharge:300,,,"@PART[bluedog_Gemini_TranslationRCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_Keyhole_OCV_KH7,6,Propulsion,control,,,,"@PART[bluedog_Keyhole_OCV_KH7]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_LDC_S2_Avionics,6,Pods,control,SolidFuel:0_1,,,"@PART[bluedog_LDC_S2_Avionics]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_Titan_Transtage_RCS_A,6,Control,control,Ablator:800,,,"@PART[bluedog_Titan_Transtage_RCS_A]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_Titan_Transtage_RCS_B,6,Control,control,,,,"@PART[bluedog_Titan_Transtage_RCS_B]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_Titan_Transtage_RCS_C,6,Control,control,,,,"@PART[bluedog_Titan_Transtage_RCS_C]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_Titan_Transtage_RCS_D,6,Control,control,,,,"@PART[bluedog_Titan_Transtage_RCS_D]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_Titan_Transtage_RCS_E,6,Control,control,,,,"@PART[bluedog_Titan_Transtage_RCS_E]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_Titan3_AvionicsTruss,6,Pods,control,Ablator:290,,,"@PART[bluedog_Titan3_AvionicsTruss]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control6
+
+}"
+bluedog_CentaurT_Avionics,7,Pods,control,SolidFuel:10,,,"@PART[bluedog_CentaurT_Avionics]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_ERCS_1Way,7,Control,control,,,,"@PART[bluedog_ERCS_1Way]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_ERCS_2Way,7,Control,control,,,,"@PART[bluedog_ERCS_2Way]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_ERCS_3Way,7,Control,control,,,,"@PART[bluedog_ERCS_3Way]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_Gemini_Structure_A,7,none,control,,,,"@PART[bluedog_Gemini_Structure_A]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_GeminiFerry_RCS,7,Control,control,,,,"@PART[bluedog_GeminiFerry_RCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_GeminiFerry_RCS_45deg,7,Control,control,ElectricCharge:300,MonoPropellant:500,,"@PART[bluedog_GeminiFerry_RCS_45deg]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_Hexagon_LifeboatRCS,7,Control,control,,,,"@PART[bluedog_Hexagon_LifeboatRCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_Hexagon_MainRCS,7,Control,control,,,,"@PART[bluedog_Hexagon_MainRCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_IUS_Avionics,7,Control,control,,,,"@PART[bluedog_IUS_Avionics]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_mariner10_starTracker,7,Control,control,,,,"@PART[bluedog_mariner10_starTracker]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_MOL_ControlSegment,7,Pods,control,,,,"@PART[bluedog_MOL_ControlSegment]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_MOL_RCS,7,Control,control,,,,"@PART[bluedog_MOL_RCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_MOL_RCS_Alt1,7,Control,control,,,,"@PART[bluedog_MOL_RCS_Alt1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_MOL_RCS_Alt2,7,Control,control,,,,"@PART[bluedog_MOL_RCS_Alt2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_MOL_RCS_Alt3,7,Control,control,ElectricCharge:50,,,"@PART[bluedog_MOL_RCS_Alt3]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_Strawman_Bus,7,Payload,control,,,,"@PART[bluedog_Strawman_Bus]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_TOS_Avionics,7,Control,control,,,,"@PART[bluedog_TOS_Avionics]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control7
+
+}"
+bluedog_Apollo_AARDV_Control,8,Pods,control,,,,"@PART[bluedog_Apollo_AARDV_Control]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control8
+
+}"
+bluedog_Apollo_Block2_RCSlinear,8,Control,control,Ablator:112_5,,,"@PART[bluedog_Apollo_Block2_RCSlinear]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control8
+
+}"
+bluedog_Apollo_Block2_RCSlinearSingle,8,Control,control,SolidFuel:10,,,"@PART[bluedog_Apollo_Block2_RCSlinearSingle]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control8
+
+}"
+bluedog_Apollo_Block2_RCSquad,8,Control,control,ElectricCharge:50,MonoPropellant:10,,"@PART[bluedog_Apollo_Block2_RCSquad]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control8
+
+}"
+bluedog_Saturn_S1_LargeFin,8,Aero,control,,,,"@PART[bluedog_Saturn_S1_LargeFin]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control8
+
+}"
+bluedog_Saturn_S1_SmallFin,8,Aero,control,MonoPropellant:80,,,"@PART[bluedog_Saturn_S1_SmallFin]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control8
+
+}"
+bluedog_Saturn_S4_InstrumentUnit,8,Pods,control,,,,"@PART[bluedog_Saturn_S4_InstrumentUnit]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control8
+
+}"
+bluedog_Saturn_S4B_APS,8,Control,control,,,,"@PART[bluedog_Saturn_S4B_APS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control8
+
+}"
+bluedog_Saturn_S4B_InstrumentUnit,8,Pods,control,,,,"@PART[bluedog_Saturn_S4B_InstrumentUnit]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control8
+
+}"
+bluedog_Skylab_RCS,8,Control,control,,,,"@PART[bluedog_Skylab_RCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = control8
+
+}"
+bluedog_Agena_RetroThrustModule,4,Engine,hypergol,MonoPropellant:75,,,"@PART[bluedog_Agena_RetroThrustModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol4
+
+}"
+bluedog_CentaurD_RL10,5,Engine,cryo,,,,"@PART[bluedog_CentaurD_RL10]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo5
+
+}"
+bluedog_LR87_LH2_SL,5,Engine,cryo,,,,"@PART[bluedog_LR87_LH2_SL]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo5
+
+}"
+bluedog_LR87_LH2_V,5,Engine,cryo,XenonGas:625,,,"@PART[bluedog_LR87_LH2_V]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo5
+
+}"
+bluedog_CentaurD_RL10A4N,7,Engine,cryo,,,,"@PART[bluedog_CentaurD_RL10A4N]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo7
+
+}"
+bluedog_CentaurD_RL10B2,8,Engine,cryo,,,,"@PART[bluedog_CentaurD_RL10B2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo8
+
+}"
+bluedog_DeltaIV_RS68,8,Propulsion,cryo,,,,"@PART[bluedog_DeltaIV_RS68]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo8
+
+}"
+bluedog_Saturn_Engine_J2,8,Propulsion,cryo,,,,"@PART[bluedog_Saturn_Engine_J2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo8
+
+}"
+bluedog_Saturn_Engine_J2S,8,Propulsion,cryo,,,,"@PART[bluedog_Saturn_Engine_J2S]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo8
+
+}"
+bluedog_M1,9,Propulsion,cryo,,,,"@PART[bluedog_M1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo9
+
+}"
+bluedog_RL20_SL,9,Propulsion,cryo,,,,"@PART[bluedog_RL20_SL]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo9
+
+}"
+bluedog_RL20_Vac,9,Propulsion,cryo,,,,"@PART[bluedog_RL20_Vac]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo9
+
+}"
+bluedog_RS30,9,Engine,cryo,,,,"@PART[bluedog_RS30]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo9
+
+}"
+bluedog_Saturn_Engine_J2SL,9,Propulsion,cryo,,,,"@PART[bluedog_Saturn_Engine_J2SL]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo9
+
+}"
+bluedog_Saturn_Engine_J2T,9,Propulsion,cryo,,,,"@PART[bluedog_Saturn_Engine_J2T]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo9
+
+}"
+bluedog_Saturn_Engine_J2X,9,Propulsion,cryo,,,,"@PART[bluedog_Saturn_Engine_J2X]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo9
+
+}"
+bluedog_XLR129,9,Propulsion,cryo,,,,"@PART[bluedog_XLR129]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = cryo9
+
+}"
+bluedog_upgrade_logo,0,none,debug,XenonGas:25,,,"@PART[bluedog_upgrade_logo]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = debug0
+
+}"
+bluedog_Ranger_Battery,3,Electrical,electrics,,,,"@PART[bluedog_Ranger_Battery]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = electrics3
+
+}"
+bluedog_ATDA_Battery,6,Electrical,electrics,XenonGas:315,,,"@PART[bluedog_ATDA_Battery]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = electrics6
+
+}"
+bluedog_GATV_AcquisitionLight,6,Utility,electrics,XenonGas:75,,,"@PART[bluedog_GATV_AcquisitionLight]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = electrics6
+
+}"
+bluedog_GATV_RunningLight,6,Utility,electrics,,,,"@PART[bluedog_GATV_RunningLight]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = electrics6
+
+}"
+bluedog_Apollo_Block2_DockingLight,8,Utility,electrics,ElectricCharge:80,MonoPropellant:2,,"@PART[bluedog_Apollo_Block2_DockingLight]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = electrics8
+
+}"
+bluedog_Apollo_Block2_DockingLight2,8,Utility,electrics,,,,"@PART[bluedog_Apollo_Block2_DockingLight2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = electrics8
+
+}"
+bluedog_Able_Engine,2,Engine,hypergol,SolidFuel:2_5,,,"@PART[bluedog_Able_Engine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol2
+
+}"
+bluedog_Ablestar_Engine,3,Engine,hypergol,,,,"@PART[bluedog_Ablestar_Engine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol3
+
+}"
+bluedog_Juno4_Engine_45K,3,Engine,hypergol,,,,"@PART[bluedog_Juno4_Engine_45K]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol3
+
+}"
+bluedog_Juno4_Engine_6K,3,Engine,hypergol,ElectricCharge:15,,,"@PART[bluedog_Juno4_Engine_6K]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol3
+
+}"
+bluedog_Pioneer6_MidcourseEngine,3,Propulsion,hypergol,ElectricCharge:15,,,"@PART[bluedog_Pioneer6_MidcourseEngine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol3
+
+}"
+bluedog_PioneerAble_Engine,3,Propulsion,hypergol,ElectricCharge:120,,,"@PART[bluedog_PioneerAble_Engine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol3
+
+}"
+bluedog_Agena_Engine_XLR81,4,Propulsion,hypergol,,,,"@PART[bluedog_Agena_Engine_XLR81]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol4
+
+}"
+bluedog_AJ10_118F,4,Engine,hypergol,ElectricCharge:50,,,"@PART[bluedog_AJ10_118F]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol4
+
+}"
+bluedog_HAPS_HAPS,4,Propulsion,hypergol,,,,"@PART[bluedog_HAPS_HAPS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol4
+
+}"
+bluedog_LR87_3,4,Engine,hypergol,ElectricCharge:10,,,"@PART[bluedog_LR87_3]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol4
+
+}"
+bluedog_LR91_3,4,Engine,hypergol,ElectricCharge:20,,,"@PART[bluedog_LR91_3]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol4
+
+}"
+bluedog_LR91_3_SingleVernier,4,Engine,hypergol,,,,"@PART[bluedog_LR91_3_SingleVernier]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol4
+
+}"
+bluedog_LunarOrbiter_Propulsion,4,Propulsion,hypergol,ElectricCharge:15,,,"@PART[bluedog_LunarOrbiter_Propulsion]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol4
+
+}"
+bluedog_Ranger_Engine,4,Propulsion,hypergol,,,,"@PART[bluedog_Ranger_Engine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol4
+
+}"
+bluedog_Clementine_Engine,5,Engine,hypergol,,,,"@PART[bluedog_Clementine_Engine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol5
+
+}"
+bluedog_LR87_5,5,Engine,hypergol,ElectricCharge:10,,,"@PART[bluedog_LR87_5]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol5
+
+}"
+bluedog_LR91_5,5,Engine,hypergol,ElectricCharge:120,SolidFuel:0_65,,"@PART[bluedog_LR91_5]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol5
+
+}"
+bluedog_LR91_5_FourVernier,5,Engine,hypergol,ElectricCharge:120,,,"@PART[bluedog_LR91_5_FourVernier]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol5
+
+}"
+bluedog_TR_201,5,Engine,hypergol,,,,"@PART[bluedog_TR_201]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol5
+
+}"
+bluedog_AJ10_118K,6,Engine,hypergol,,,,"@PART[bluedog_AJ10_118K]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol6
+
+}"
+bluedog_GATV_SPS,6,Propulsion,hypergol,,,,"@PART[bluedog_GATV_SPS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol6
+
+}"
+bluedog_GATV_SPS_LFO,6,Propulsion,hypergol,,,,"@PART[bluedog_GATV_SPS_LFO]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol6
+
+}"
+bluedog_GATV_SPS_RCS,6,Propulsion,hypergol,ElectricCharge:20,,,"@PART[bluedog_GATV_SPS_RCS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol6
+
+}"
+bluedog_HAPS_SuperHAPS,6,Propulsion,hypergol,,,,"@PART[bluedog_HAPS_SuperHAPS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol6
+
+}"
+bluedog_LR87_11,6,Engine,hypergol,,,,"@PART[bluedog_LR87_11]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol6
+
+}"
+bluedog_LR87_11_Single,6,Engine,hypergol,ElectricCharge:50,MonoPropellant:_2,,"@PART[bluedog_LR87_11_Single]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol6
+
+}"
+bluedog_LR87_11_Vac,6,Engine,hypergol,,,,"@PART[bluedog_LR87_11_Vac]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol6
+
+}"
+bluedog_LR91_11,6,Engine,hypergol,ElectricCharge:60,,,"@PART[bluedog_LR91_11]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol6
+
+}"
+bluedog_LR91_11_FourVernier,6,Engine,hypergol,ElectricCharge:10,,,"@PART[bluedog_LR91_11_FourVernier]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol6
+
+}"
+bluedog_Titan_Transtage,6,Engine,hypergol,SolidFuel:0_1,,,"@PART[bluedog_Titan_Transtage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol6
+
+}"
+bluedog_Agena_Engine_8096C,7,Propulsion,hypergol,,,,"@PART[bluedog_Agena_Engine_8096C]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol7
+
+}"
+bluedog_AJ10_118X,7,Engine,hypergol,,,,"@PART[bluedog_AJ10_118X]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol7
+
+}"
+bluedog_Gemini_Lander_Engine,7,Engine,hypergol,,,,"@PART[bluedog_Gemini_Lander_Engine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol7
+
+}"
+bluedog_Hexagon_ServiceEngine,7,Propulsion,hypergol,,,,"@PART[bluedog_Hexagon_ServiceEngine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol7
+
+}"
+bluedog_mariner10_engine,7,Propulsion,hypergol,,,,"@PART[bluedog_mariner10_engine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol7
+
+}"
+bluedog_Apollo_Block2_ServiceEngine,8,Engine,hypergol,ElectricCharge:100,MonoPropellant:15,,"@PART[bluedog_Apollo_Block2_ServiceEngine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol8
+
+}"
+bluedog_AtlasV_AJ60,8,Engine,hypergol,,,,"@PART[bluedog_AtlasV_AJ60]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol8
+
+}"
+bluedog_LEM_Ascent_Engine,8,Engine,hypergol,ElectricCharge:100,,,"@PART[bluedog_LEM_Ascent_Engine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol8
+
+}"
+bluedog_LEM_Descent_Engine,8,Engine,hypergol,,,,"@PART[bluedog_LEM_Descent_Engine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol8
+
+}"
+bluedog_Apollo_Block3_ServiceEngine,9,Engine,hypergol,,,,"@PART[bluedog_Apollo_Block3_ServiceEngine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol9
+
+}"
+bluedog_Apollo_Block5_ServiceEngine,9,Engine,hypergol,,,,"@PART[bluedog_Apollo_Block5_ServiceEngine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = hypergol9
+
+}"
+bluedog_Tempel2_Ion,6,Engine,ion,,,,"@PART[bluedog_Tempel2_Ion]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = ion6
+
+}"
+bluedog_Xenon_SmallSingle,6,FuelTank,ion,ElectricCharge:40,,,"@PART[bluedog_Xenon_SmallSingle]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = ion6
+
+}"
+bluedog_Xenon_SmallStack,6,FuelTank,ion,,,,"@PART[bluedog_Xenon_SmallStack]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = ion6
+
+}"
+bluedog_Xenon_SmallTriple,6,FuelTank,ion,MonoPropellant:22,,,"@PART[bluedog_Xenon_SmallTriple]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = ion6
+
+}"
+bluedog_Xenon_MediumStack,7,FuelTank,ion,,,,"@PART[bluedog_Xenon_MediumStack]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = ion7
+
+}"
+bluedog_Redstone_A7_Bare,2,Engine,kerolox,,,,"@PART[bluedog_Redstone_A7_Bare]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox2
+
+}"
+bluedog_Redstone_A7_TailUnit,2,Engine,kerolox,,,,"@PART[bluedog_Redstone_A7_TailUnit]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox2
+
+}"
+bluedog_Vanguard_GE405,2,Engine,kerolox,,,,"@PART[bluedog_Vanguard_GE405]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox2
+
+}"
+bluedog_Delta2_RS27,3,none,kerolox,,,,"@PART[bluedog_Delta2_RS27]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox3
+
+}"
+bluedog_Jupiter_Vernier,3,Engine,kerolox,MonoPropellant:15,,,"@PART[bluedog_Jupiter_Vernier]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox3
+
+}"
+bluedog_Redstone_QuadEngine,3,Engine,kerolox,,,,"@PART[bluedog_Redstone_QuadEngine]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox3
+
+}"
+bluedog_Thor_LR101,3,Engine,kerolox,,,,"@PART[bluedog_Thor_LR101]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox3
+
+}"
+bluedog_Thor_LR79,3,Engine,kerolox,,,,"@PART[bluedog_Thor_LR79]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox3
+
+}"
+bluedog_Atlas_LR101_Inline,4,Engine,kerolox,,,,"@PART[bluedog_Atlas_LR101_Inline]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox4
+
+}"
+bluedog_Atlas_LR101_Radial,4,Engine,kerolox,,,,"@PART[bluedog_Atlas_LR101_Radial]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox4
+
+}"
+bluedog_Atlas_LR105,4,Engine,kerolox,,,,"@PART[bluedog_Atlas_LR105]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox4
+
+}"
+bluedog_Atlas_LR89,4,Engine,kerolox,,,,"@PART[bluedog_Atlas_LR89]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox4
+
+}"
+bluedog_Vega_GE405H,5,Engine,kerolox,,,,"@PART[bluedog_Vega_GE405H]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox5
+
+}"
+bluedog_E1,7,Engine,kerolox,,,,"@PART[bluedog_E1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox7
+
+}"
+bluedog_Saturn_Engine_H1C,7,Engine,kerolox,ElectricCharge:500,MonoPropellant:8,,"@PART[bluedog_Saturn_Engine_H1C]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox7
+
+}"
+bluedog_Saturn_Engine_H1D,7,Engine,kerolox,,,,"@PART[bluedog_Saturn_Engine_H1D]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox7
+
+}"
+bluedog_AtlasV_RD180,8,Engine,kerolox,,,,"@PART[bluedog_AtlasV_RD180]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox8
+
+}"
+bluedog_Saturn_Engine_F1,8,Propulsion,kerolox,,,,"@PART[bluedog_Saturn_Engine_F1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = kerolox8
+
+}"
+bluedog_Corona_Heatshield,3,Aero,landing,,,,"@PART[bluedog_Corona_Heatshield]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing3
+
+}"
+bluedog_Corona_Parachute,3,Utility,landing,ElectricCharge:100,MonoPropellant:5,,"@PART[bluedog_Corona_Parachute]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing3
+
+}"
+bluedog_Corona_Pod,3,Pods,landing,,,,"@PART[bluedog_Corona_Pod]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing3
+
+}"
+bluedog_Ranger_Block2_RoughLander,4,Pods,landing,,,,"@PART[bluedog_Ranger_Block2_RoughLander]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing4
+
+}"
+bluedog_Mercury_Heatshield,5,Thermal,landing,,,,"@PART[bluedog_Mercury_Heatshield]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing5
+
+}"
+bluedog_Mercury_Parachute,5,Utility,landing,,,,"@PART[bluedog_Mercury_Parachute]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing5
+
+}"
+bluedog_mercuryHeatshield,5,none,landing,,,,"@PART[bluedog_mercuryHeatshield]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing5
+
+}"
+bluedog_Ranger_Lander_Leg,5,Ground,landing,,,,"@PART[bluedog_Ranger_Lander_Leg]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing5
+
+}"
+bluedog_Ranger_Lander_Propulsion,5,Propulsion,landing,,,,"@PART[bluedog_Ranger_Lander_Propulsion]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing5
+
+}"
+bluedog_Gemini_DrogueChute,6,Utility,landing,,,,"@PART[bluedog_Gemini_DrogueChute]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing6
+
+}"
+bluedog_Gemini_Heatshield_1p5m,6,Thermal,landing,,,,"@PART[bluedog_Gemini_Heatshield_1p5m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing6
+
+}"
+bluedog_Gemini_Heatshield_1p875m,6,Thermal,landing,,,,"@PART[bluedog_Gemini_Heatshield_1p875m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing6
+
+}"
+bluedog_Gemini_Heatshield_A,6,none,landing,,,,"@PART[bluedog_Gemini_Heatshield_A]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing6
+
+}"
+bluedog_Gemini_Heatshield_AB,6,none,landing,,,,"@PART[bluedog_Gemini_Heatshield_AB]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing6
+
+}"
+bluedog_Gemini_MainParachute,6,Utility,landing,,,,"@PART[bluedog_Gemini_MainParachute]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing6
+
+}"
+bluedog_Gemini_Parachute_A,6,none,landing,ElectricCharge:100,MonoPropellant:10,,"@PART[bluedog_Gemini_Parachute_A]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing6
+
+}"
+bluedog_Titan_SRB_Parachute,6,Utility,landing,,,,"@PART[bluedog_Titan_SRB_Parachute]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing6
+
+}"
+bluedog_Gemini_Heatshield_2p5m,7,Thermal,landing,,,,"@PART[bluedog_Gemini_Heatshield_2p5m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing7
+
+}"
+bluedog_Gemini_Heatshield_B,7,none,landing,,,,"@PART[bluedog_Gemini_Heatshield_B]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing7
+
+}"
+bluedog_Gemini_Lander_Leg,7,Ground,landing,,,,"@PART[bluedog_Gemini_Lander_Leg]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing7
+
+}"
+bluedog_Gemini_LanderCan,7,Pods,landing,,,,"@PART[bluedog_Gemini_LanderCan]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing7
+
+}"
+bluedog_Hexagon_Mk8_Capsule,7,Pods,landing,ElectricCharge:50,MonoPropellant:3,,"@PART[bluedog_Hexagon_Mk8_Capsule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing7
+
+}"
+bluedog_Hexagon_Mk8_Heatshield,7,Aero,landing,,,,"@PART[bluedog_Hexagon_Mk8_Heatshield]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing7
+
+}"
+bluedog_Hexagon_Mk8_Parachute,7,Utility,landing,,,,"@PART[bluedog_Hexagon_Mk8_Parachute]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing7
+
+}"
+bluedog_Apollo_Block2_Heatshield,8,Thermal,landing,,,,"@PART[bluedog_Apollo_Block2_Heatshield]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing8
+
+}"
+bluedog_Apollo_Block2_Parachute,8,Utility,landing,ElectricCharge:5,MonoPropellant:3,,"@PART[bluedog_Apollo_Block2_Parachute]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing8
+
+}"
+bluedog_LEM_Ascent_Cockpit,8,Pods,landing,ElectricCharge:200,MonoPropellant:5,,"@PART[bluedog_LEM_Ascent_Cockpit]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing8
+
+}"
+bluedog_LEM_Descent_Tanks,8,FuelTank,landing,,,,"@PART[bluedog_LEM_Descent_Tanks]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = landing8
+
+}"
+bluedog_Agena_ResupplyContainer,6,Payload,logistics,,,,"@PART[bluedog_Agena_ResupplyContainer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics6
+
+}"
+bluedog_Gemini_EquipmentModule,6,Propulsion,logistics,,,,"@PART[bluedog_Gemini_EquipmentModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics6
+
+}"
+bluedog_Gemini_EquipmentModule_Empty,6,Propulsion,logistics,,,,"@PART[bluedog_Gemini_EquipmentModule_Empty]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics6
+
+}"
+bluedog_Gemini_Service_A,6,none,logistics,,,,"@PART[bluedog_Gemini_Service_A]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics6
+
+}"
+bluedog_Gemini_Service_B,6,none,logistics,ElectricCharge:200,MonoPropellant:5,,"@PART[bluedog_Gemini_Service_B]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics6
+
+}"
+bluedog_BigG_CylindricalSM,7,Utility,logistics,,,,"@PART[bluedog_BigG_CylindricalSM]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics7
+
+}"
+bluedog_Gemini_AugustusCapsule,7,Pods,logistics,,,,"@PART[bluedog_Gemini_AugustusCapsule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics7
+
+}"
+bluedog_Gemini_LongFerrySM,7,Propulsion,logistics,ElectricCharge:600,MonoPropellant:5,,"@PART[bluedog_Gemini_LongFerrySM]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics7
+
+}"
+bluedog_Gemini_LunarReconSM,7,Propulsion,logistics,,,,"@PART[bluedog_Gemini_LunarReconSM]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics7
+
+}"
+bluedog_Gemini_MalhenaSM,7,none,logistics,,,,"@PART[bluedog_Gemini_MalhenaSM]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics7
+
+}"
+bluedog_Gemini_Resupply_Capsule,7,Pods,logistics,,,,"@PART[bluedog_Gemini_Resupply_Capsule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics7
+
+}"
+bluedog_GeminiFerry_PressurizedModule,7,Utility,logistics,,,,"@PART[bluedog_GeminiFerry_PressurizedModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics7
+
+}"
+bluedog_MOL_EquipmentSection,7,Propulsion,logistics,,,,"@PART[bluedog_MOL_EquipmentSection]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics7
+
+}"
+bluedog_MOL_KISmodule,7,none,logistics,,,,"@PART[bluedog_MOL_KISmodule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics7
+
+}"
+bluedog_MOL_Propellant,7,FuelTank,logistics,,,,"@PART[bluedog_MOL_Propellant]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics7
+
+}"
+bluedog_MOL_UnpressurizedCargo,7,Payload,logistics,,,,"@PART[bluedog_MOL_UnpressurizedCargo]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics7
+
+}"
+bluedog_Shuguang_EquipmentModule,7,Propulsion,logistics,,,,"@PART[bluedog_Shuguang_EquipmentModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics7
+
+}"
+bluedog_Apollo_AARDV_Cargo,8,Payload,logistics,,,,"@PART[bluedog_Apollo_AARDV_Cargo]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics8
+
+}"
+bluedog_Apollo_Block2_ServiceModule,8,FuelTank,logistics,,,,"@PART[bluedog_Apollo_Block2_ServiceModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics8
+
+}"
+bluedog_Apollo_Block3_ServiceModule,8,FuelTank,logistics,,,,"@PART[bluedog_Apollo_Block3_ServiceModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = logistics8
+
+}"
+bluedog_RTG_SNAP3,5,Electrical,reactors,ElectricCharge:30,,,"@PART[bluedog_RTG_SNAP3]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = reactors5
+
+}"
+bluedog_Transit5_RTG,5,Electrical,reactors,,,,"@PART[bluedog_Transit5_RTG]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = reactors5
+
+}"
+bluedog_Transit5_SNAP9A,5,Electrical,reactors,,,,"@PART[bluedog_Transit5_SNAP9A]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = reactors5
+
+}"
+bluedog_RTG_SNAP19,6,Electrical,reactors,,,,"@PART[bluedog_RTG_SNAP19]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = reactors6
+
+}"
+bluedog_RTG_SNAP19_Nimbus,6,Electrical,reactors,,,,"@PART[bluedog_RTG_SNAP19_Nimbus]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = reactors6
+
+}"
+bluedog_RTG_SNAP19_Quad,6,Electrical,reactors,,,,"@PART[bluedog_RTG_SNAP19_Quad]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = reactors6
+
+}"
+bluedog_SNTP_45,9,Propulsion,ntr,,,,"@PART[bluedog_SNTP_45]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = ntr9
+
+}"
+bluedog_STNP_75,9,Propulsion,ntr,MonoPropellant:3,,,"@PART[bluedog_STNP_75]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = ntr9
+
+}"
+bluedog_Explorer_11,2,Pods,probes,ElectricCharge:60,MonoPropellant:7,,"@PART[bluedog_Explorer_11]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_Explorer_7,2,Pods,probes,MonoPropellant:5,,,"@PART[bluedog_Explorer_7]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_Explorer_8,2,Pods,probes,,,,"@PART[bluedog_Explorer_8]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_Explorer_S45,2,Pods,probes,,,,"@PART[bluedog_Explorer_S45]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_Explorer_S46,2,Pods,probes,,,,"@PART[bluedog_Explorer_S46]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_Injun1,2,Pods,probes,,,,"@PART[bluedog_Injun1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_Juno1_Explorer1,2,Pods,probes,MonoPropellant:1_5,,,"@PART[bluedog_Juno1_Explorer1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_LOFTI,2,Pods,probes,,,,"@PART[bluedog_LOFTI]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_Pioneer_1,2,Pods,probes,,,,"@PART[bluedog_Pioneer_1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_POPPY1,2,Pods,probes,,,,"@PART[bluedog_POPPY1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_POPPY2,2,Pods,probes,,,,"@PART[bluedog_POPPY2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_SOLRAD,2,Pods,probes,ElectricCharge:30,,,"@PART[bluedog_SOLRAD]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_SOLRAD8,2,Pods,probes,,,,"@PART[bluedog_SOLRAD8]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_Vanguard_Satellite1,2,Pods,probes,,,,"@PART[bluedog_Vanguard_Satellite1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_Vanguard_Satellite2,2,Pods,probes,LiquidFuel:3_6,Oxidizer:4_4,,"@PART[bluedog_Vanguard_Satellite2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_Vanguard_Satellite3,2,Pods,probes,,,,"@PART[bluedog_Vanguard_Satellite3]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes2
+
+}"
+bluedog_ANNA,3,Pods,probes,,,,"@PART[bluedog_ANNA]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes3
+
+}"
+bluedog_Biosat_Adapter,3,Pods,probes,ElectricCharge:30,,,"@PART[bluedog_Biosat_Adapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes3
+
+}"
+bluedog_Pioneer_4,3,Pods,probes,,,,"@PART[bluedog_Pioneer_4]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes3
+
+}"
+bluedog_Pioneer5_Core,3,Pods,probes,ElectricCharge:40,,,"@PART[bluedog_Pioneer5_Core]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes3
+
+}"
+bluedog_Pioneer6_Bus,3,Pods,probes,,,,"@PART[bluedog_Pioneer6_Bus]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes3
+
+}"
+bluedog_PioneerAble_Core,3,Pods,probes,ElectricCharge:45,,,"@PART[bluedog_PioneerAble_Core]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes3
+
+}"
+bluedog_Ranger_BareCore,3,Pods,probes,,,,"@PART[bluedog_Ranger_BareCore]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes3
+
+}"
+bluedog_TIROS,3,Pods,probes,,,,"@PART[bluedog_TIROS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes3
+
+}"
+bluedog_Transit2A,3,Pods,probes,,,,"@PART[bluedog_Transit2A]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes3
+
+}"
+bluedog_TRYP_Core,3,Pods,probes,,,,"@PART[bluedog_TRYP_Core]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes3
+
+}"
+bluedog_WRESAT,3,Pods,probes,,,,"@PART[bluedog_WRESAT]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes3
+
+}"
+bluedog_AIMP_Core,4,Pods,probes,,,,"@PART[bluedog_AIMP_Core]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes4
+
+}"
+bluedog_Alouette_Core,4,Pods,probes,ElectricCharge:10,,,"@PART[bluedog_Alouette_Core]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes4
+
+}"
+bluedog_LunarOrbiter_Core,4,Pods,probes,,,,"@PART[bluedog_LunarOrbiter_Core]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes4
+
+}"
+bluedog_Nimbus_EarlyControlCore,4,Pods,probes,,,,"@PART[bluedog_Nimbus_EarlyControlCore]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes4
+
+}"
+bluedog_Nimbus_LateControlCore,4,Pods,probes,,,,"@PART[bluedog_Nimbus_LateControlCore]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes4
+
+}"
+bluedog_OSO_Core,4,Pods,probes,,,,"@PART[bluedog_OSO_Core]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes4
+
+}"
+bluedog_Ranger_Bus,4,Pods,probes,,,,"@PART[bluedog_Ranger_Bus]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes4
+
+}"
+bluedog_Transit4A,4,Pods,probes,MonoPropellant:8,,,"@PART[bluedog_Transit4A]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes4
+
+}"
+bluedog_Agena_Subsat_Hitchhiker,5,Pods,probes,,,,"@PART[bluedog_Agena_Subsat_Hitchhiker]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes5
+
+}"
+bluedog_Clementine_Bus,5,Pods,probes,,,,"@PART[bluedog_Clementine_Bus]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes5
+
+}"
+bluedog_Clementine_ISAS,5,Pods,probes,,,,"@PART[bluedog_Clementine_ISAS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes5
+
+}"
+bluedog_MarinerB_Bus,5,Pods,probes,,,,"@PART[bluedog_MarinerB_Bus]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes5
+
+}"
+bluedog_OAO_ProbeCore,5,Pods,probes,ElectricCharge:40,MonoPropellant:16,,"@PART[bluedog_OAO_ProbeCore]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes5
+
+}"
+bluedog_OGO_Bus,5,Pods,probes,,,,"@PART[bluedog_OGO_Bus]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes5
+
+}"
+bluedog_Transit5_Bus,5,Pods,probes,,,,"@PART[bluedog_Transit5_Bus]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes5
+
+}"
+bluedog_Helios_Core,6,Pods,probes,,,,"@PART[bluedog_Helios_Core]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes6
+
+}"
+bluedog_Mariner10_probeCore,7,Pods,probes,,,,"@PART[bluedog_Mariner10_probeCore]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes7
+
+}"
+bluedog_Apollo_Subsatellite_Core,8,Pods,probes,ElectricCharge:30,MonoPropellant:3,,"@PART[bluedog_Apollo_Subsatellite_Core]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = probes8
+
+}"
+bluedog_Pioneer6_Magnetometer,3,Science,science,,,,"@PART[bluedog_Pioneer6_Magnetometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science3
+
+}"
+bluedog_cameraLowTech,0,Science,science,,,,"@PART[bluedog_cameraLowTech]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science0
+
+}"
+bluedog_Biosat_Magnetometer,2,Science,science,,,,"@PART[bluedog_Biosat_Magnetometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science2
+
+}"
+Bluedog_Geiger,2,Science,science,ElectricCharge:30,,,"@PART[Bluedog_Geiger]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science2
+
+}"
+bluedog_OFO_Experiment,2,Science,science,,,,"@PART[bluedog_OFO_Experiment]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science2
+
+}"
+bluedog_cameraMidTech,3,Science,science,,,,"@PART[bluedog_cameraMidTech]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science3
+
+}"
+bluedog_foldingMag,3,none,science,ElectricCharge:60,MonoPropellant:6,,"@PART[bluedog_foldingMag]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science3
+
+}"
+bluedog_IMP_Magnetometer,3,Science,science,,,,"@PART[bluedog_IMP_Magnetometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science3
+
+}"
+Bluedog_IonSensor,3,Science,science,,,,"@PART[Bluedog_IonSensor]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science3
+
+}"
+bluedog_Keyhole_Camera_KH1,3,Science,science,,,,"@PART[bluedog_Keyhole_Camera_KH1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science3
+
+}"
+bluedog_Pioneer6_IonSensor,3,Science,science,,,,"@PART[bluedog_Pioneer6_IonSensor]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science3
+
+}"
+bluedog_AIMP_Magnetometer,4,Science,science,,,,"@PART[bluedog_AIMP_Magnetometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Keyhole_Camera_KH4,4,Science,science,,,,"@PART[bluedog_Keyhole_Camera_KH4]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_LunarOrbiter_Camera,4,Science,science,ElectricCharge:15,MonoPropellant:1,,"@PART[bluedog_LunarOrbiter_Camera]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+Bluedog_Micrometeorite,4,Science,science,,,,"@PART[Bluedog_Micrometeorite]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_MiniGoo,4,Science,science,,,SolidFuel:0_37,"@PART[bluedog_MiniGoo]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Nimbus_Instrument_ERB,4,Science,science,,,,"@PART[bluedog_Nimbus_Instrument_ERB]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Nimbus_Instrument_ESMR,4,Science,science,ElectricCharge:30,,,"@PART[bluedog_Nimbus_Instrument_ESMR]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Nimbus_Instrument_SAMS,4,Science,science,ElectricCharge:40,,,"@PART[bluedog_Nimbus_Instrument_SAMS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Nimbus_Instrument_SIS,4,Science,science,ElectricCharge:30,,,"@PART[bluedog_Nimbus_Instrument_SIS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Nimbus_Instrument_SMMR,4,Science,science,ElectricCharge:75,,,"@PART[bluedog_Nimbus_Instrument_SMMR]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Nimbus_Instrument_THIR,4,Science,science,,,,"@PART[bluedog_Nimbus_Instrument_THIR]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Nimbus_Instrument_TOMS,4,Science,science,,,,"@PART[bluedog_Nimbus_Instrument_TOMS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_OSO_Experiment,4,Science,science,,,,"@PART[bluedog_OSO_Experiment]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_OSO_Photometer,4,Science,science,,,,"@PART[bluedog_OSO_Photometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_OSO_Sail,4,Science,science,ElectricCharge:30,,,"@PART[bluedog_OSO_Sail]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Ranger_Block1_ElectroAnalyzer_Device1,4,Science,science,,,,"@PART[bluedog_Ranger_Block1_ElectroAnalyzer_Device1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Ranger_Block1_ElectroAnalyzer_Device2,4,Science,science,,,,"@PART[bluedog_Ranger_Block1_ElectroAnalyzer_Device2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Ranger_Block1_ElectroAnalyzer_Experiment,4,Science,science,,,,"@PART[bluedog_Ranger_Block1_ElectroAnalyzer_Experiment]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Ranger_Block1_LymanAlphaTelescope,4,Science,science,,,,"@PART[bluedog_Ranger_Block1_LymanAlphaTelescope]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Ranger_Block1_Truss,4,Science,science,ElectricCharge:60,,,"@PART[bluedog_Ranger_Block1_Truss]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Ranger_Block2_GammaRaySpectrometer,4,Science,science,,,,"@PART[bluedog_Ranger_Block2_GammaRaySpectrometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Ranger_Block2_RadarAltimeter,4,Science,science,,,,"@PART[bluedog_Ranger_Block2_RadarAltimeter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Ranger_Block2_TVCamera,4,Science,science,,,,"@PART[bluedog_Ranger_Block2_TVCamera]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Ranger_Block3_TVSystem,4,Science,science,SolidFuel:5_852,,,"@PART[bluedog_Ranger_Block3_TVSystem]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science4
+
+}"
+bluedog_Camera_InstrumentTorus,5,Science,science,MonoPropellant:3,,,"@PART[bluedog_Camera_InstrumentTorus]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_Clementine_Sensors,5,Science,science,,,,"@PART[bluedog_Clementine_Sensors]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_hydrometer,5,Science,science,,,,"@PART[bluedog_hydrometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_IRspec,5,Science,science,,,,"@PART[bluedog_IRspec]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_Keyhole_Camera_KH4B,5,Science,science,MonoPropellant:0_5,,,"@PART[bluedog_Keyhole_Camera_KH4B]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_Mariner2_CosmicDustDetector,5,Science,science,ElectricCharge:30,,,"@PART[bluedog_Mariner2_CosmicDustDetector]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_Mariner2_IonTrap,5,Science,science,ElectricCharge:60,MonoPropellant:6,,"@PART[bluedog_Mariner2_IonTrap]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_Mariner2_Radiometer,5,Science,science,,,,"@PART[bluedog_Mariner2_Radiometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_Mariner2_Truss,5,Science,science,,,,"@PART[bluedog_Mariner2_Truss]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_MarinerB_Truss,5,Science,science,,,,"@PART[bluedog_MarinerB_Truss]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+Bluedog_MassSpec,5,Science,science,,,,"@PART[Bluedog_MassSpec]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_mercuryScience,5,none,science,,,,"@PART[bluedog_mercuryScience]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_OAO_SAO_instrument,5,Science,science,,,,"@PART[bluedog_OAO_SAO_instrument]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_OAO_WEP_instrument,5,Science,science,,,,"@PART[bluedog_OAO_WEP_instrument]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_OAO3_PEP_instrument,5,Science,science,ElectricCharge:60,,MonoPropellant:6_8,"@PART[bluedog_OAO3_PEP_instrument]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_OGO_ExperimentBoom_1,5,Science,science,,,,"@PART[bluedog_OGO_ExperimentBoom_1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_OGO_ExperimentBoom_2,5,Science,science,,,,"@PART[bluedog_OGO_ExperimentBoom_2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_OGO_ExperimentBoom_3,5,Science,science,,,,"@PART[bluedog_OGO_ExperimentBoom_3]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_OGO_LongBoom_Ball,5,Science,science,,,,"@PART[bluedog_OGO_LongBoom_Ball]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_OGO_LongBoom_Hoop,5,Science,science,,,,"@PART[bluedog_OGO_LongBoom_Hoop]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_OGO_OPEP,5,Science,science,,,,"@PART[bluedog_OGO_OPEP]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_OGO_OPEP_2,5,Science,science,,,,"@PART[bluedog_OGO_OPEP_2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_Transit5_Magnetometer,5,Science,science,,,,"@PART[bluedog_Transit5_Magnetometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_Transit5_Magnetometer_Equipment,5,Science,science,SolidFuel:0_532,,,"@PART[bluedog_Transit5_Magnetometer_Equipment]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_Transit5_SolarScience,5,Science,science,SolidFuel:1_596,,,"@PART[bluedog_Transit5_SolarScience]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_Transit5_UVSpectrometer,5,Science,science,,,,"@PART[bluedog_Transit5_UVSpectrometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science5
+
+}"
+bluedog_cameraHighTech,6,none,science,,,,"@PART[bluedog_cameraHighTech]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science6
+
+}"
+bluedog_GATV_MaterialsBay,6,Science,science,ElectricCharge:90,,,"@PART[bluedog_GATV_MaterialsBay]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science6
+
+}"
+bluedog_GATV_MMDetector,6,Science,science,,,,"@PART[bluedog_GATV_MMDetector]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science6
+
+}"
+bluedog_GATV_NuclearPackage,6,Science,science,,,,"@PART[bluedog_GATV_NuclearPackage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science6
+
+}"
+bluedog_Gemini_Magnetometer,6,Science,science,,,,"@PART[bluedog_Gemini_Magnetometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science6
+
+}"
+bluedog_Gemini_Spectrometer,6,Science,science,,,,"@PART[bluedog_Gemini_Spectrometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science6
+
+}"
+bluedog_Helios_Magnetometer,6,Science,science,,,,"@PART[bluedog_Helios_Magnetometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science6
+
+}"
+bluedog_Helios_RPWSAntenna,6,Science,science,,,,"@PART[bluedog_Helios_RPWSAntenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science6
+
+}"
+bluedog_Keyhole_Camera_KH7,6,Science,science,MonoPropellant:1_5,,,"@PART[bluedog_Keyhole_Camera_KH7]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science6
+
+}"
+bluedog_Gemini_LunarRecon_Camera,7,Science,science,,,,"@PART[bluedog_Gemini_LunarRecon_Camera]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science7
+
+}"
+bluedog_Hexagon_Camera,7,Science,science,,,,"@PART[bluedog_Hexagon_Camera]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science7
+
+}"
+bluedog_Hexagon_MappingCamera,7,Science,science,,,,"@PART[bluedog_Hexagon_MappingCamera]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science7
+
+}"
+bluedog_Keyhole_Camera_KH8,7,Science,science,MonoPropellant:3,,,"@PART[bluedog_Keyhole_Camera_KH8]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science7
+
+}"
+bluedog_mariner10_camera,7,Science,science,ElectricCharge:15,,,"@PART[bluedog_mariner10_camera]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science7
+
+}"
+bluedog_mariner10_cameraStandalone,7,Science,science,ElectricCharge:10,,,"@PART[bluedog_mariner10_cameraStandalone]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science7
+
+}"
+bluedog_Mariner10_chargedParticleTelescope,7,Science,science,ElectricCharge:30,,,"@PART[bluedog_Mariner10_chargedParticleTelescope]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science7
+
+}"
+bluedog_mariner10_magnetometer,7,Science,science,ElectricCharge:40,,,"@PART[bluedog_mariner10_magnetometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science7
+
+}"
+bluedog_mariner10_plasmaScience,7,Science,science,ElectricCharge:50,,,"@PART[bluedog_mariner10_plasmaScience]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science7
+
+}"
+bluedog_mariner10_UVspectrometer,7,Science,science,MonoPropellant:3,,,"@PART[bluedog_mariner10_UVspectrometer]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science7
+
+}"
+bluedog_MOL_Camera,7,Science,science,,,,"@PART[bluedog_MOL_Camera]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science7
+
+}"
+bluedog_Strawman_Thresher,7,Science,science,,,,"@PART[bluedog_Strawman_Thresher]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science7
+
+}"
+bluedog_Skylab_ATM,8,Science,science,,,,"@PART[bluedog_Skylab_ATM]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science8
+
+}"
+bluedog_Spacelab_ERM,9,Science,science,,,,"@PART[bluedog_Spacelab_ERM]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = science9
+
+}"
+bluedog_Pioneer5_SolarPaddle,3,Electrical,solar,SolidFuel:37800,,,"@PART[bluedog_Pioneer5_SolarPaddle]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar3
+
+}"
+bluedog_PioneerAble_SolarPaddle,3,Electrical,solar,SolidFuel:18900,,,"@PART[bluedog_PioneerAble_SolarPaddle]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar3
+
+}"
+bluedog_SmallSquarePanel_Rotating,3,Electrical,solar,,,,"@PART[bluedog_SmallSquarePanel_Rotating]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar3
+
+}"
+bluedog_SmallSquarePanel_Static,3,Electrical,solar,,,,"@PART[bluedog_SmallSquarePanel_Static]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar3
+
+}"
+bluedog_AIMP_SolarPaddle,4,Electrical,solar,,,,"@PART[bluedog_AIMP_SolarPaddle]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar4
+
+}"
+bluedog_LunarOrbiter_Solar_SideMount,4,Electrical,solar,,,,"@PART[bluedog_LunarOrbiter_Solar_SideMount]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar4
+
+}"
+bluedog_LunarOrbiter_Solar_Tracking,4,Electrical,solar,,,,"@PART[bluedog_LunarOrbiter_Solar_Tracking]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar4
+
+}"
+bluedog_LunarOrbiter_Solar_UnderFold,4,Electrical,solar,,,,"@PART[bluedog_LunarOrbiter_Solar_UnderFold]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar4
+
+}"
+bluedog_Nimbus_SolarPanel,4,Electrical,solar,,,,"@PART[bluedog_Nimbus_SolarPanel]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar4
+
+}"
+bluedog_Ranger_Lander_Solar_Fixed,4,Electrical,solar,,,,"@PART[bluedog_Ranger_Lander_Solar_Fixed]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar4
+
+}"
+bluedog_Ranger_Lander_Solar_Tracking,4,Electrical,solar,,,,"@PART[bluedog_Ranger_Lander_Solar_Tracking]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar4
+
+}"
+bluedog_Ranger_Solar,4,Electrical,solar,,,,"@PART[bluedog_Ranger_Solar]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar4
+
+}"
+bluedog_Ranger_TrackingSolar,4,Electrical,solar,,,,"@PART[bluedog_Ranger_TrackingSolar]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar4
+
+}"
+bluedog_Clementine_SolarPanel,5,Electrical,solar,,,,"@PART[bluedog_Clementine_SolarPanel]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar5
+
+}"
+bluedog_Mariner2_Solar_Antenna,5,Electrical,solar,SolidFuel:18900,,,"@PART[bluedog_Mariner2_Solar_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar5
+
+}"
+bluedog_Mariner2_Solar_Basic,5,Electrical,solar,,,,"@PART[bluedog_Mariner2_Solar_Basic]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar5
+
+}"
+bluedog_Mariner2_TrackingSolar_Antenna,5,Electrical,solar,SolidFuel:100,,,"@PART[bluedog_Mariner2_TrackingSolar_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar5
+
+}"
+bluedog_Mariner2_TrackingSolar_Basic,5,Electrical,solar,,,,"@PART[bluedog_Mariner2_TrackingSolar_Basic]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar5
+
+}"
+bluedog_MarinerB_Solar,5,Electrical,solar,,,,"@PART[bluedog_MarinerB_Solar]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar5
+
+}"
+bluedog_MarinerB_TrackingSolar,5,Electrical,solar,,,,"@PART[bluedog_MarinerB_TrackingSolar]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar5
+
+}"
+bluedog_OAO_solarLower,5,Electrical,solar,MonoPropellant:40,,,"@PART[bluedog_OAO_solarLower]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar5
+
+}"
+bluedog_OAO_solarUpper,5,Electrical,solar,,,,"@PART[bluedog_OAO_solarUpper]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar5
+
+}"
+bluedog_OGO_SolarPanel_Antenna,5,Electrical,solar,,,,"@PART[bluedog_OGO_SolarPanel_Antenna]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar5
+
+}"
+bluedog_OGO_SolarPanel_Basic,5,Electrical,solar,SolidFuel:37800,,,"@PART[bluedog_OGO_SolarPanel_Basic]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar5
+
+}"
+bluedog_Transit5_Solar,5,Electrical,solar,,,,"@PART[bluedog_Transit5_Solar]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar5
+
+}"
+bluedog_Helios_SunShade,6,Electrical,solar,,,,"@PART[bluedog_Helios_SunShade]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar6
+
+}"
+bluedog_Gemini_LargeFixedArray,7,Electrical,solar,,,,"@PART[bluedog_Gemini_LargeFixedArray]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar7
+
+}"
+bluedog_Gemini_SolarWing,7,Electrical,solar,,,,"@PART[bluedog_Gemini_SolarWing]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar7
+
+}"
+bluedog_Hexagon_SolarPanel,7,Electrical,solar,,,,"@PART[bluedog_Hexagon_SolarPanel]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar7
+
+}"
+bluedog_mariner10_solar,7,Electrical,solar,,,,"@PART[bluedog_mariner10_solar]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar7
+
+}"
+bluedog_MOL_Solar1,7,Electrical,solar,,,,"@PART[bluedog_MOL_Solar1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar7
+
+}"
+bluedog_MOL_Solar2,7,Electrical,solar,,,,"@PART[bluedog_MOL_Solar2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar7
+
+}"
+bluedog_Strawman_Solar,7,Electrical,solar,,,,"@PART[bluedog_Strawman_Solar]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar7
+
+}"
+bluedog_Tianja_LargeFixedSolar,7,Electrical,solar,,,,"@PART[bluedog_Tianja_LargeFixedSolar]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar7
+
+}"
+bluedog_Tianja_LargeRotatingSolar,7,Electrical,solar,,,,"@PART[bluedog_Tianja_LargeRotatingSolar]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar7
+
+}"
+bluedog_Tianja_SmallFixedSolar,7,Electrical,solar,,,,"@PART[bluedog_Tianja_SmallFixedSolar]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar7
+
+}"
+bluedog_Tianja_SmallRotatingSolar,7,Electrical,solar,,,,"@PART[bluedog_Tianja_SmallRotatingSolar]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar7
+
+}"
+bluedog_Skylab_ATMsolar,8,Electrical,solar,SolidFuel:15,,,"@PART[bluedog_Skylab_ATMsolar]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar8
+
+}"
+bluedog_Skylab_SolarPanel,8,Electrical,solar,,,,"@PART[bluedog_Skylab_SolarPanel]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar8
+
+}"
+bluedog_Apollo_Block5_SolarPanels,9,Electrical,solar,,,,"@PART[bluedog_Apollo_Block5_SolarPanels]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar9
+
+}"
+bluedog_Spacelab_SolarPanel,9,Electrical,solar,,,,"@PART[bluedog_Spacelab_SolarPanel]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solar9
+
+}"
+bluedog_Scout_Castor_Inline,1,Engine,solids,,,,"@PART[bluedog_Scout_Castor_Inline]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids1
+
+}"
+bluedog_Scout_Algol_Inline,2,Engine,solids,,,,"@PART[bluedog_Scout_Algol_Inline]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids2
+
+}"
+bluedog_Scout_Algol_Radial,2,Engine,solids,,,,"@PART[bluedog_Scout_Algol_Radial]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids2
+
+}"
+bluedog_Scout_Algol_Short,2,Engine,solids,,,,"@PART[bluedog_Scout_Algol_Short]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids2
+
+}"
+bluedog_Scout_Antares_Basic,2,Engine,solids,,,,"@PART[bluedog_Scout_Antares_Basic]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids2
+
+}"
+bluedog_Scout_Antares_Inline,2,Engine,solids,,,,"@PART[bluedog_Scout_Antares_Inline]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids2
+
+}"
+bluedog_Scout_Castor_Radial,2,none,solids,,,,"@PART[bluedog_Scout_Castor_Radial]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids2
+
+}"
+bluedog_Sergeant_11x,2,Propulsion,solids,,,,"@PART[bluedog_Sergeant_11x]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids2
+
+}"
+bluedog_Sergeant_1x,2,Propulsion,solids,,,,"@PART[bluedog_Sergeant_1x]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids2
+
+}"
+bluedog_Sergeant_3x,2,Propulsion,solids,,,,"@PART[bluedog_Sergeant_3x]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids2
+
+}"
+bluedog_UpperSolids_BE3,2,Engine,solids,,,,"@PART[bluedog_UpperSolids_BE3]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids2
+
+}"
+bluedog_Vanguard_S2_RetroRocket,2,Engine,solids,,,,"@PART[bluedog_Vanguard_S2_RetroRocket]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids2
+
+}"
+bluedog_Vanguard_S2_Tank,2,FuelTank,tanks,SolidFuel:332,,,"@PART[bluedog_Vanguard_S2_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks2
+
+}"
+bluedog_Castor2,3,Engine,solids,,,,"@PART[bluedog_Castor2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids3
+
+}"
+bluedog_Corona_Retro,3,Engine,solids,,,,"@PART[bluedog_Corona_Retro]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids3
+
+}"
+bluedog_Perfectron,3,Engine,solids,SolidFuel:10,,,"@PART[bluedog_Perfectron]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids3
+
+}"
+bluedog_Pioneer_VernierSolids,3,Propulsion,solids,,,,"@PART[bluedog_Pioneer_VernierSolids]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids3
+
+}"
+bluedog_UpperSolids_Altair,3,Engine,solids,,,,"@PART[bluedog_UpperSolids_Altair]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids3
+
+}"
+bluedog_Agena_UllageMotor,4,Engine,solids,,,,"@PART[bluedog_Agena_UllageMotor]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids4
+
+}"
+bluedog_AIMP_Star13,4,Engine,solids,SolidFuel:15,,,"@PART[bluedog_AIMP_Star13]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids4
+
+}"
+bluedog_Castor4,4,Engine,solids,ElectricCharge:0,,,"@PART[bluedog_Castor4]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids4
+
+}"
+bluedog_Peacekeeper_Castor120,4,Engine,solids,,,,"@PART[bluedog_Peacekeeper_Castor120]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids4
+
+}"
+bluedog_Peacekeeper_SR119,4,Engine,solids,,,,"@PART[bluedog_Peacekeeper_SR119]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids4
+
+}"
+bluedog_Peacekeeper_SR120,4,Engine,solids,,,,"@PART[bluedog_Peacekeeper_SR120]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids4
+
+}"
+bluedog_Titan1_SeparationBottle,4,Engine,solids,MonoPropellant:270,,,"@PART[bluedog_Titan1_SeparationBottle]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids4
+
+}"
+bluedog_UpperSolids_Star37BV,4,Engine,solids,,,,"@PART[bluedog_UpperSolids_Star37BV]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids4
+
+}"
+bluedog_Athena_Castor30,5,Engine,solids,,,,"@PART[bluedog_Athena_Castor30]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids5
+
+}"
+bluedog_Athena_Castor30XL,5,Engine,solids,,,,"@PART[bluedog_Athena_Castor30XL]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids5
+
+}"
+bluedog_Burner2,5,Propulsion,solids,,,,"@PART[bluedog_Burner2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids5
+
+}"
+bluedog_Castor4XL,5,Engine,solids,ElectricCharge:0,,,"@PART[bluedog_Castor4XL]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids5
+
+}"
+bluedog_Delta_GEM40,5,Engine,solids,,,,"@PART[bluedog_Delta_GEM40]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids5
+
+}"
+bluedog_Delta_GEM40_Inline,5,Engine,solids,,,,"@PART[bluedog_Delta_GEM40_Inline]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids5
+
+}"
+bluedog_mercury_posigradeMotor,5,none,solids,,,,"@PART[bluedog_mercury_posigradeMotor]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids5
+
+}"
+bluedog_Mercury_PosigradeRocket,5,Propulsion,solids,,,,"@PART[bluedog_Mercury_PosigradeRocket]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids5
+
+}"
+bluedog_Mercury_Retropack,5,Propulsion,solids,,,,"@PART[bluedog_Mercury_Retropack]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids5
+
+}"
+bluedog_Mercury_RetroRocket,5,Propulsion,solids,,,,"@PART[bluedog_Mercury_RetroRocket]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids5
+
+}"
+bluedog_mercurySRB,5,none,solids,,,,"@PART[bluedog_mercurySRB]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids5
+
+}"
+bluedog_SOLTAN_SRB,5,Propulsion,solids,,,,"@PART[bluedog_SOLTAN_SRB]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids5
+
+}"
+bluedog_Titan2_S2_VernierMotor,5,Engine,solids,,,,"@PART[bluedog_Titan2_S2_VernierMotor]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids5
+
+}"
+bluedog_UpperSolids_Star37FMV,5,Engine,solids,ElectricCharge:600,,,"@PART[bluedog_UpperSolids_Star37FMV]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids5
+
+}"
+bluedog_Delta_GEM46,6,Engine,solids,SolidFuel:20,,,"@PART[bluedog_Delta_GEM46]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids6
+
+}"
+bluedog_Gemini_RetroMotor,6,Engine,solids,MonoPropellant:45,,,"@PART[bluedog_Gemini_RetroMotor]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids6
+
+}"
+bluedog_Lateraltron,6,Engine,solids,ElectricCharge:150,,,"@PART[bluedog_Lateraltron]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids6
+
+}"
+bluedog_UA1202,6,Propulsion,solids,,,,"@PART[bluedog_UA1202]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids6
+
+}"
+bluedog_UA1203,6,Propulsion,solids,ElectricCharge:600,,,"@PART[bluedog_UA1203]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids6
+
+}"
+bluedog_UA1204,6,Propulsion,solids,ElectricCharge:200,,,"@PART[bluedog_UA1204]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids6
+
+}"
+bluedog_UA1205,6,Propulsion,solids,ElectricCharge:200,,,"@PART[bluedog_UA1205]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids6
+
+}"
+bluedog_UA1206,6,Propulsion,solids,,,,"@PART[bluedog_UA1206]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids6
+
+}"
+bluedog_UA1207,6,Propulsion,solids,MonoPropellant:10,,,"@PART[bluedog_UA1207]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids6
+
+}"
+bluedog_UA1208,6,Propulsion,solids,,,,"@PART[bluedog_UA1208]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids6
+
+}"
+bluedog_UpperSolids_Star48BV,6,Engine,solids,ElectricCharge:100,MonoPropellant:40,,"@PART[bluedog_UpperSolids_Star48BV]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids6
+
+}"
+bluedog_Delta_GEM60,7,Engine,solids,,,,"@PART[bluedog_Delta_GEM60]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids7
+
+}"
+bluedog_Hexagon_Mk8_Retro,7,Engine,solids,,,,"@PART[bluedog_Hexagon_Mk8_Retro]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids7
+
+}"
+bluedog_IUS_Orbus21,7,Engine,solids,,,,"@PART[bluedog_IUS_Orbus21]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids7
+
+}"
+bluedog_IUS_Orbus6,7,Engine,solids,,,,"@PART[bluedog_IUS_Orbus6]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids7
+
+}"
+bluedog_SRMU_Full,7,Propulsion,solids,,,,"@PART[bluedog_SRMU_Full]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids7
+
+}"
+bluedog_SRMU_Half,7,Propulsion,solids,ElectricCharge:200,,,"@PART[bluedog_SRMU_Half]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids7
+
+}"
+bluedog_SRMU_Single,7,Propulsion,solids,ElectricCharge:3500,,,"@PART[bluedog_SRMU_Single]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids7
+
+}"
+bluedog_SRMU_TwoSeg,7,Propulsion,solids,,,,"@PART[bluedog_SRMU_TwoSeg]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids7
+
+}"
+bluedog_SRMU_XL,7,Propulsion,solids,,,,"@PART[bluedog_SRMU_XL]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids7
+
+}"
+bluedog_AtlasV_Star5F,8,Engine,solids,,,,"@PART[bluedog_AtlasV_Star5F]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids8
+
+}"
+bluedog_Delta_GEM60XL,8,Engine,solids,MonoPropellant:40,,,"@PART[bluedog_Delta_GEM60XL]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids8
+
+}"
+bluedog_Saturn_S1_Retro,8,Engine,solids,,,,"@PART[bluedog_Saturn_S1_Retro]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids8
+
+}"
+bluedog_Saturn_S2_Ullage,8,Engine,solids,SolidFuel:20,,,"@PART[bluedog_Saturn_S2_Ullage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids8
+
+}"
+bluedog_Saturn_S4_Ullage,8,Engine,solids,,,,"@PART[bluedog_Saturn_S4_Ullage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids8
+
+}"
+bluedog_saturn_AJ260_LongAngled,9,Engine,solids,,,,"@PART[bluedog_saturn_AJ260_LongAngled]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids9
+
+}"
+bluedog_saturn_AJ260_LongFlared,9,Engine,solids,,,,"@PART[bluedog_saturn_AJ260_LongFlared]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids9
+
+}"
+bluedog_saturn_AJ260_ShortAngled,9,Engine,solids,ElectricCharge:100,,,"@PART[bluedog_saturn_AJ260_ShortAngled]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids9
+
+}"
+bluedog_saturn_AJ260_ShortFlared,9,Engine,solids,,,,"@PART[bluedog_saturn_AJ260_ShortFlared]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = solids9
+
+}"
+bluedog_MiniLab_Adapter,6,Utility,spaceStations,ElectricCharge:60,MonoPropellant:10,,"@PART[bluedog_MiniLab_Adapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations6
+
+}"
+bluedog_MiniLab_Interstage,6,Coupling,spaceStations,,,,"@PART[bluedog_MiniLab_Interstage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations6
+
+}"
+bluedog_MiniLab_Lab,6,Utility,spaceStations,SolidFuel:1242,,,"@PART[bluedog_MiniLab_Lab]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations6
+
+}"
+bluedog_MiniLab_Ladder,6,Utility,spaceStations,ElectricCharge:60,LiquidFuel:23_4,,"@PART[bluedog_MiniLab_Ladder]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations6
+
+}"
+bluedog_Gemini_0p9375mEndcap,7,Structural,spaceStations,,,,"@PART[bluedog_Gemini_0p9375mEndcap]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_Gemini_1p5mEndcap,7,Structural,spaceStations,MonoPropellant:3_2,,,"@PART[bluedog_Gemini_1p5mEndcap]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_Gemini_1p5mShortSegment,7,Utility,spaceStations,MonoPropellant:12_8,,,"@PART[bluedog_Gemini_1p5mShortSegment]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_Gemini_1p875mLongAdapter,7,Structural,spaceStations,ElectricCharge:200,MonoPropellant:50,,"@PART[bluedog_Gemini_1p875mLongAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_Gemini_OneRoomStationModule,7,Utility,spaceStations,SolidFuel:68,,,"@PART[bluedog_Gemini_OneRoomStationModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_Gemini_SmallShortAdapter,7,Structural,spaceStations,ElectricCharge:60,MonoPropellant:10,,"@PART[bluedog_Gemini_SmallShortAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_Gemini_StructuralEndcap,7,Structural,spaceStations,SolidFuel:246,,,"@PART[bluedog_Gemini_StructuralEndcap]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_Gemini_StructuralNode,7,Structural,spaceStations,SolidFuel:613,,,"@PART[bluedog_Gemini_StructuralNode]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_Gemini_TwoRoomStationModule,7,Utility,spaceStations,ElectricCharge:60,MonoPropellant:25,,"@PART[bluedog_Gemini_TwoRoomStationModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_0p9375mAdapter,7,Structural,spaceStations,SolidFuel:620,,,"@PART[bluedog_MOL_0p9375mAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_1p5mStationSegment,7,Science,spaceStations,SolidFuel:179,,,"@PART[bluedog_MOL_1p5mStationSegment]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_Adapter_15_125,7,Structural,spaceStations,,,,"@PART[bluedog_MOL_Adapter_15_125]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_Adapter_1875_15,7,Structural,spaceStations,SolidFuel:650,,,"@PART[bluedog_MOL_Adapter_1875_15]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_Airlock,7,Utility,spaceStations,SolidFuel:650,,,"@PART[bluedog_MOL_Airlock]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_CrewTube,7,Structural,spaceStations,,,,"@PART[bluedog_MOL_CrewTube]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_CrewTube_DoubleLength,7,Structural,spaceStations,SolidFuel:247,,,"@PART[bluedog_MOL_CrewTube_DoubleLength]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_DockingPort,7,Coupling,spaceStations,MonoPropellant:6,SolidFuel:450,,"@PART[bluedog_MOL_DockingPort]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_FiveWayAdapter,7,Structural,spaceStations,SolidFuel:32_58,,,"@PART[bluedog_MOL_FiveWayAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_ForkDockingPort,7,Coupling,spaceStations,MonoPropellant:3,SolidFuel:32_58,,"@PART[bluedog_MOL_ForkDockingPort]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_Hab,7,none,spaceStations,MonoPropellant:6,SolidFuel:235,,"@PART[bluedog_MOL_Hab]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_Lab,7,none,spaceStations,,,,"@PART[bluedog_MOL_Lab]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_Lab_New,7,Science,spaceStations,,,,"@PART[bluedog_MOL_Lab_New]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_RingDockingPort,7,Coupling,spaceStations,SolidFuel:1_8,,,"@PART[bluedog_MOL_RingDockingPort]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_MOL_ThreeWayAdapter,7,Structural,spaceStations,SolidFuel:16_56,,,"@PART[bluedog_MOL_ThreeWayAdapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations7
+
+}"
+bluedog_Skylab_Airlock,8,Utility,spaceStations,SolidFuel:50_95,,,"@PART[bluedog_Skylab_Airlock]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations8
+
+}"
+bluedog_Skylab_MDA,8,Utility,spaceStations,ElectricCharge:50,,,"@PART[bluedog_Skylab_MDA]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations8
+
+}"
+bluedog_Skylab_OWS,8,Science,spaceStations,ElectricCharge:50,,,"@PART[bluedog_Skylab_OWS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations8
+
+}"
+bluedog_Skylab_RadialAttachmentPort,8,Structural,spaceStations,,,,"@PART[bluedog_Skylab_RadialAttachmentPort]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations8
+
+}"
+bluedog_Saturn_S4B_Tankage_WWS,9,Science,spaceStations,SolidFuel:26_19,,,"@PART[bluedog_Saturn_S4B_Tankage_WWS]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations9
+
+}"
+bluedog_Skylab_OWS_Wet,9,Science,spaceStations,,,,"@PART[bluedog_Skylab_OWS_Wet]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations9
+
+}"
+bluedog_Spacelab_Adapter,9,Utility,spaceStations,,,,"@PART[bluedog_Spacelab_Adapter]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations9
+
+}"
+bluedog_Spacelab_Airlock,9,Utility,spaceStations,,,,"@PART[bluedog_Spacelab_Airlock]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = spaceStations9
+
+}"
+bluedog_Redstone_FuelTank,2,FuelTank,tanks,MonoPropellant:40,,,"@PART[bluedog_Redstone_FuelTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks2
+
+}"
+bluedog_Redstone_MediumFuelTank,2,FuelTank,tanks,,,,"@PART[bluedog_Redstone_MediumFuelTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks2
+
+}"
+bluedog_Redstone_ShortFuelTank,2,FuelTank,tanks,,,,"@PART[bluedog_Redstone_ShortFuelTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks2
+
+}"
+bluedog_Vanguard_S1_Tank,2,FuelTank,tanks,ElectricCharge:30,,,"@PART[bluedog_Vanguard_S1_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks2
+
+}"
+bluedog_Ablestar_Tank,3,FuelTank,tanks,,,,"@PART[bluedog_Ablestar_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_Delta2_LowerTank,3,none,tanks,SolidFuel:1546,,,"@PART[bluedog_Delta2_LowerTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_DeltaB_Tank,3,FuelTank,tanks,ElectricCharge:60,,,"@PART[bluedog_DeltaB_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_Juno4_FuelTank_1,3,FuelTank,tanks,,,,"@PART[bluedog_Juno4_FuelTank_1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_Juno4_FuelTank_2,3,FuelTank,tanks,,,,"@PART[bluedog_Juno4_FuelTank_2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_Jupiter_FuelTank,3,FuelTank,tanks,,,,"@PART[bluedog_Jupiter_FuelTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_Mono_SmallSingle,3,FuelTank,tanks,SolidFuel:12,,,"@PART[bluedog_Mono_SmallSingle]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_Mono_SmallTriple,3,FuelTank,tanks,,,,"@PART[bluedog_Mono_SmallTriple]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_Thor_1p25mAdapter_Long,3,FuelTank,tanks,SolidFuel:2925_7,,,"@PART[bluedog_Thor_1p25mAdapter_Long]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_Thor_1p25mAdapter_Medium,3,FuelTank,tanks,SolidFuel:3927,,,"@PART[bluedog_Thor_1p25mAdapter_Medium]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_Thor_LowerTank_1,3,FuelTank,tanks,SolidFuel:4875,,,"@PART[bluedog_Thor_LowerTank_1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_Thor_MediumExtensionTank,3,FuelTank,tanks,SolidFuel:5335,,,"@PART[bluedog_Thor_MediumExtensionTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_Thor_ShortExtensionTank,3,FuelTank,tanks,SolidFuel:6792,,,"@PART[bluedog_Thor_ShortExtensionTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_Thor_UpperTank_1,3,FuelTank,tanks,SolidFuel:7785,,,"@PART[bluedog_Thor_UpperTank_1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_ThorAble_Tank,3,FuelTank,tanks,MonoPropellant:15,,,"@PART[bluedog_ThorAble_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks3
+
+}"
+bluedog_Agena_Tank_Short,4,FuelTank,tanks,,,,"@PART[bluedog_Agena_Tank_Short]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks4
+
+}"
+bluedog_Atlas_AdapterFuelTank,4,FuelTank,tanks,,,,"@PART[bluedog_Atlas_AdapterFuelTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks4
+
+}"
+bluedog_Atlas_LongFuelTank,4,FuelTank,tanks,,,,"@PART[bluedog_Atlas_LongFuelTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks4
+
+}"
+bluedog_Atlas_MediumFuelTank,4,FuelTank,tanks,,,,"@PART[bluedog_Atlas_MediumFuelTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks4
+
+}"
+bluedog_Atlas_ShortAdapterTank,4,FuelTank,tanks,,,,"@PART[bluedog_Atlas_ShortAdapterTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks4
+
+}"
+bluedog_Atlas_ShortFuelTank,4,FuelTank,tanks,,,,"@PART[bluedog_Atlas_ShortFuelTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks4
+
+}"
+bluedog_Atlas_SustainerAdapterTank,4,FuelTank,tanks,,,,"@PART[bluedog_Atlas_SustainerAdapterTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks4
+
+}"
+bluedog_DeltaE_Tank,4,FuelTank,tanks,,,,"@PART[bluedog_DeltaE_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks4
+
+}"
+bluedog_Mono_SphericalTank,4,FuelTank,tanks,ElectricCharge:100,,,"@PART[bluedog_Mono_SphericalTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks4
+
+}"
+bluedog_Titan1_S1_LowerTank,4,FuelTank,tanks,,,,"@PART[bluedog_Titan1_S1_LowerTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks4
+
+}"
+bluedog_Titan1_S1_UpperTank,4,FuelTank,tanks,,,,"@PART[bluedog_Titan1_S1_UpperTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks4
+
+}"
+bluedog_Titan1_S2_ShortTank,4,FuelTank,tanks,,,,"@PART[bluedog_Titan1_S2_ShortTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks4
+
+}"
+bluedog_Titan1_S2_Tank,4,FuelTank,tanks,,,,"@PART[bluedog_Titan1_S2_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks4
+
+}"
+bluedog_Agena_Tank_Long,5,FuelTank,tanks,,,,"@PART[bluedog_Agena_Tank_Long]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_CELV_AdapterTank_1p875m_Long,5,FuelTank,tanks,,,,"@PART[bluedog_CELV_AdapterTank_1p875m_Long]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_CELV_AdapterTank_1p875m_Short,5,FuelTank,tanks,ElectricCharge:0,,,"@PART[bluedog_CELV_AdapterTank_1p875m_Short]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_CELV_AdapterTank_2p5m_Long,5,FuelTank,tanks,,,,"@PART[bluedog_CELV_AdapterTank_2p5m_Long]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_CELV_AdapterTank_2p5m_Short,5,FuelTank,tanks,,,,"@PART[bluedog_CELV_AdapterTank_2p5m_Short]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_CELV_LongTank,5,FuelTank,tanks,,,,"@PART[bluedog_CELV_LongTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_CELV_MainTank,5,FuelTank,tanks,,,,"@PART[bluedog_CELV_MainTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_CELV_MediumTank,5,FuelTank,tanks,,,,"@PART[bluedog_CELV_MediumTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_CELV_ShortTank,5,FuelTank,tanks,SolidFuel:10,,,"@PART[bluedog_CELV_ShortTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_CELV_SustainerTank,5,FuelTank,tanks,,,,"@PART[bluedog_CELV_SustainerTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_Centaur_Tank,5,none,tanks,SolidFuel:7732,,,"@PART[bluedog_Centaur_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_CentaurD_FuelTank,5,FuelTank,tanks,ElectricCharge:0,,,"@PART[bluedog_CentaurD_FuelTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_Delta2_UpperTank,5,none,tanks,SolidFuel:3093,,,"@PART[bluedog_Delta2_UpperTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_DeltaP_Stage,5,FuelTank,tanks,,,,"@PART[bluedog_DeltaP_Stage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_HOSS_Tank,5,FuelTank,tanks,SolidFuel:1951,,,"@PART[bluedog_HOSS_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_Titan2_S1_Lower_Tank,5,FuelTank,tanks,ElectricCharge:60,,,"@PART[bluedog_Titan2_S1_Lower_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_Titan2_S1_Upper_Tank,5,FuelTank,tanks,,,,"@PART[bluedog_Titan2_S1_Upper_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_Titan2_S2_Tank,5,FuelTank,tanks,SolidFuel:0_1,,,"@PART[bluedog_Titan2_S2_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_Vega_Tank1,5,FuelTank,tanks,ElectricCharge:30,,,"@PART[bluedog_Vega_Tank1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_Vega_Tank2,5,FuelTank,tanks,,,,"@PART[bluedog_Vega_Tank2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_Vega_ThirdStage_Tank,5,FuelTank,tanks,,,,"@PART[bluedog_Vega_ThirdStage_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks5
+
+}"
+bluedog_Centaur4_Tank,6,FuelTank,tanks,ElectricCharge:0,,,"@PART[bluedog_Centaur4_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_DCSS_Tank,6,Propulsion,tanks,,,,"@PART[bluedog_DCSS_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_Delta3_AdapterTank,6,none,tanks,SolidFuel:6181,,,"@PART[bluedog_Delta3_AdapterTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_DeltaIII_AdapterTank,6,FuelTank,tanks,,,,"@PART[bluedog_DeltaIII_AdapterTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_DeltaK_Stage,6,FuelTank,tanks,,,,"@PART[bluedog_DeltaK_Stage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_LDC_S1_Tank1,6,FuelTank,tanks,,,,"@PART[bluedog_LDC_S1_Tank1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_LDC_S1_Tank2,6,FuelTank,tanks,Ablator:200,ElectricCharge:20,,"@PART[bluedog_LDC_S1_Tank2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_LDC_S2_Tank1,6,FuelTank,tanks,SolidFuel:1,,,"@PART[bluedog_LDC_S2_Tank1]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_LDC_S2_Tank2,6,FuelTank,tanks,,,,"@PART[bluedog_LDC_S2_Tank2]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_SLV3X_LowerTank,6,FuelTank,tanks,,,,"@PART[bluedog_SLV3X_LowerTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_SLV3X_MainTank,6,FuelTank,tanks,SolidFuel:10,,,"@PART[bluedog_SLV3X_MainTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_SLV3X_MediumTank,6,FuelTank,tanks,ElectricCharge:0,,,"@PART[bluedog_SLV3X_MediumTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_SLV3X_ShortTank,6,FuelTank,tanks,ElectricCharge:0,,,"@PART[bluedog_SLV3X_ShortTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_SLV3X_UpperTank,6,FuelTank,tanks,ElectricCharge:0,,,"@PART[bluedog_SLV3X_UpperTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_Titan3_S1_Stretched_Tank,6,FuelTank,tanks,,,,"@PART[bluedog_Titan3_S1_Stretched_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks6
+
+}"
+bluedog_Agena_SOT_1p875m,7,FuelTank,tanks,,,,"@PART[bluedog_Agena_SOT_1p875m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_Agena_SOT_2p5m,7,FuelTank,tanks,,,,"@PART[bluedog_Agena_SOT_2p5m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_CentaurT_AdapterTank,7,none,tanks,ElectricCharge:0,,,"@PART[bluedog_CentaurT_AdapterTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_CentaurT_ShortTank,7,none,tanks,ElectricCharge:0,,,"@PART[bluedog_CentaurT_ShortTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_CentaurT_TankA,7,FuelTank,tanks,ElectricCharge:0,,,"@PART[bluedog_CentaurT_TankA]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_CentaurT_TankB,7,FuelTank,tanks,ElectricCharge:0,,,"@PART[bluedog_CentaurT_TankB]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_CentaurT_TankC,7,FuelTank,tanks,ElectricCharge:0,,,"@PART[bluedog_CentaurT_TankC]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_CentaurT_TankD,7,FuelTank,tanks,,,,"@PART[bluedog_CentaurT_TankD]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_CentaurT_WideTank,7,none,tanks,SolidFuel:2516,,,"@PART[bluedog_CentaurT_WideTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_CentaurV_Tank,7,FuelTank,tanks,ElectricCharge:0,,,"@PART[bluedog_CentaurV_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_Gemini_ArrowSM,7,Propulsion,tanks,SolidFuel:16,,,"@PART[bluedog_Gemini_ArrowSM]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_Gemini_Lander_Frame,7,FuelTank,tanks,,,,"@PART[bluedog_Gemini_Lander_Frame]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_Gemini_Lander_SaddleTank,7,Propulsion,tanks,MonoPropellant:10,,,"@PART[bluedog_Gemini_Lander_SaddleTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_Hexagon_ServiceModule,7,Propulsion,tanks,,,,"@PART[bluedog_Hexagon_ServiceModule]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_Titan4_S1_Lower_Tank,7,FuelTank,tanks,,,,"@PART[bluedog_Titan4_S1_Lower_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_Titan4_S2_Tank,7,FuelTank,tanks,ElectricCharge:20,,,"@PART[bluedog_Titan4_S2_Tank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks7
+
+}"
+bluedog_AtlasV_CCBLowerTank,8,FuelTank,tanks,ElectricCharge:0,,,"@PART[bluedog_AtlasV_CCBLowerTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks8
+
+}"
+bluedog_AtlasV_CCBUpperTank,8,FuelTank,tanks,ElectricCharge:0,,,"@PART[bluedog_AtlasV_CCBUpperTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks8
+
+}"
+bluedog_DeltaIV_DCSS_5m,8,Propulsion,tanks,,,,"@PART[bluedog_DeltaIV_DCSS_5m]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks8
+
+}"
+bluedog_DeltaIV_s1_lowerTank,8,FuelTank,tanks,SolidFuel:9278,,,"@PART[bluedog_DeltaIV_s1_lowerTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks8
+
+}"
+bluedog_DeltaIV_s1_upperTank,8,FuelTank,tanks,,,,"@PART[bluedog_DeltaIV_s1_upperTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks8
+
+}"
+bluedog_Saturn_S1_Tankage,8,FuelTank,tanks,,,,"@PART[bluedog_Saturn_S1_Tankage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks8
+
+}"
+bluedog_Saturn_S1C_Tankage,8,Propulsion,tanks,,,,"@PART[bluedog_Saturn_S1C_Tankage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks8
+
+}"
+bluedog_Saturn_S1E_Tankage,8,FuelTank,tanks,,,,"@PART[bluedog_Saturn_S1E_Tankage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks8
+
+}"
+bluedog_Saturn_S1F_Tankage,8,FuelTank,tanks,,,,"@PART[bluedog_Saturn_S1F_Tankage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks8
+
+}"
+bluedog_Saturn_S4_AdapterTank,8,FuelTank,tanks,,,,"@PART[bluedog_Saturn_S4_AdapterTank]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks8
+
+}"
+bluedog_Saturn_S4_Tankage,8,FuelTank,tanks,,,,"@PART[bluedog_Saturn_S4_Tankage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks8
+
+}"
+bluedog_Saturn_S4B_Tankage,8,Propulsion,tanks,ElectricCharge:200,MonoPropellant:40,,"@PART[bluedog_Saturn_S4B_Tankage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks8
+
+}"
+bluedog_Saturn_S4C_Tankage,8,Propulsion,tanks,,,,"@PART[bluedog_Saturn_S4C_Tankage]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = tanks8
+
+}"
+bluedog_mariner10_sunShield,7,Thermal,thermal,,,,"@PART[bluedog_mariner10_sunShield]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = thermal7
+
+}"
+bluedog_MOL_LargeRadiator,7,Thermal,thermal,,,,"@PART[bluedog_MOL_LargeRadiator]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = thermal7
+
+}"
+bluedog_MOL_SmallRadiator,7,Thermal,thermal,,,,"@PART[bluedog_MOL_SmallRadiator]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = thermal7
+
+}"
+bluedog_Skylab_Radiator,8,Thermal,thermal,ElectricCharge:50,,,"@PART[bluedog_Skylab_Radiator]:AFTER[Bluedog_DB] //
+{
+	@TechRequired = thermal8
+
+}"
