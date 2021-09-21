@@ -1,2361 +1,2361 @@
 PART.name,SSS Category,Tier,Mod,Result,Category,
-Mark1Cockpit,aerodynamics,2,Squad,"@PART[Mark1Cockpit]:AFTER[Bluedog_DB] //
+sweptWing,aerodynamics,1,Squad,"@PART[sweptWing]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics2
-}",Pods,
-Mark2Cockpit,aerodynamics,3,Squad,"@PART[Mark2Cockpit]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics3
-}",Pods,
-airbrake1,aerodynamics,,Squad,"@PART[airbrake1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-airScoop,aerodynamics,,Squad,"@PART[airScoop]:AFTER[Bluedog_DB] //
+tailfin,aerodynamics,1,Squad,"@PART[tailfin]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-AdvancedCanard,aerodynamics,,Squad,"@PART[AdvancedCanard]:AFTER[Bluedog_DB] //
+airplaneTail,aerodynamics,1,Squad,"@PART[airplaneTail]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-CanardController,aerodynamics,,Squad,"@PART[CanardController]:AFTER[Bluedog_DB] //
+airplaneTailB,aerodynamics,1,Squad,"@PART[airplaneTailB]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-sweptWing,aerodynamics,,Squad,"@PART[sweptWing]:AFTER[Bluedog_DB] //
+wingConnector,aerodynamics,1,Squad,"@PART[wingConnector]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-tailfin,aerodynamics,,Squad,"@PART[tailfin]:AFTER[Bluedog_DB] //
+wingConnector2,aerodynamics,1,Squad,"@PART[wingConnector2]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-airplaneTail,aerodynamics,,Squad,"@PART[airplaneTail]:AFTER[Bluedog_DB] //
+wingConnector3,aerodynamics,1,Squad,"@PART[wingConnector3]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-airplaneTailB,aerodynamics,,Squad,"@PART[airplaneTailB]:AFTER[Bluedog_DB] //
+wingConnector4,aerodynamics,1,Squad,"@PART[wingConnector4]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-IntakeRadialLong,aerodynamics,,Squad,"@PART[IntakeRadialLong]:AFTER[Bluedog_DB] //
+wingConnector5,aerodynamics,1,Squad,"@PART[wingConnector5]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-wingShuttleDelta,aerodynamics,,Squad,"@PART[wingShuttleDelta]:AFTER[Bluedog_DB] //
+deltaWing,aerodynamics,1,Squad,"@PART[deltaWing]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-wingShuttleElevon1,aerodynamics,,Squad,"@PART[wingShuttleElevon1]:AFTER[Bluedog_DB] //
+delta.small,aerodynamics,1,Squad,"@PART[delta.small]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-wingShuttleElevon2,aerodynamics,,Squad,"@PART[wingShuttleElevon2]:AFTER[Bluedog_DB] //
+StandardCtrlSrf,aerodynamics,1,Squad,"@PART[StandardCtrlSrf]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-wingShuttleRudder,aerodynamics,,Squad,"@PART[wingShuttleRudder]:AFTER[Bluedog_DB] //
+elevon2,aerodynamics,1,Squad,"@PART[elevon2]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-wingShuttleStrake,aerodynamics,,Squad,"@PART[wingShuttleStrake]:AFTER[Bluedog_DB] //
+elevon3,aerodynamics,1,Squad,"@PART[elevon3]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-wingConnector,aerodynamics,,Squad,"@PART[wingConnector]:AFTER[Bluedog_DB] //
+smallCtrlSrf,aerodynamics,1,Squad,"@PART[smallCtrlSrf]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-wingConnector2,aerodynamics,,Squad,"@PART[wingConnector2]:AFTER[Bluedog_DB] //
+elevon5,aerodynamics,1,Squad,"@PART[elevon5]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-wingConnector3,aerodynamics,,Squad,"@PART[wingConnector3]:AFTER[Bluedog_DB] //
+wingStrake,aerodynamics,1,Squad,"@PART[wingStrake]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-wingConnector4,aerodynamics,,Squad,"@PART[wingConnector4]:AFTER[Bluedog_DB] //
+structuralWing,aerodynamics,1,Squad,"@PART[structuralWing]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-wingConnector5,aerodynamics,,Squad,"@PART[wingConnector5]:AFTER[Bluedog_DB] //
+structuralWing2,aerodynamics,1,Squad,"@PART[structuralWing2]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-deltaWing,aerodynamics,,Squad,"@PART[deltaWing]:AFTER[Bluedog_DB] //
+structuralWing3,aerodynamics,1,Squad,"@PART[structuralWing3]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-delta.small,aerodynamics,,Squad,"@PART[delta.small]:AFTER[Bluedog_DB] //
+structuralWing4,aerodynamics,1,Squad,"@PART[structuralWing4]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics
+	@TechRequired = aerodynamics1
 }",Aero,
-StandardCtrlSrf,aerodynamics,,Squad,"@PART[StandardCtrlSrf]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics
-}",Aero,
-elevon2,aerodynamics,,Squad,"@PART[elevon2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics
-}",Aero,
-elevon3,aerodynamics,,Squad,"@PART[elevon3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics
-}",Aero,
-smallCtrlSrf,aerodynamics,,Squad,"@PART[smallCtrlSrf]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics
-}",Aero,
-elevon5,aerodynamics,,Squad,"@PART[elevon5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics
-}",Aero,
-wingStrake,aerodynamics,,Squad,"@PART[wingStrake]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics
-}",Aero,
-structuralWing,aerodynamics,,Squad,"@PART[structuralWing]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics
-}",Aero,
-structuralWing2,aerodynamics,,Squad,"@PART[structuralWing2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics
-}",Aero,
-structuralWing3,aerodynamics,,Squad,"@PART[structuralWing3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics
-}",Aero,
-structuralWing4,aerodynamics,,Squad,"@PART[structuralWing4]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics
-}",Aero,
-sweptWing1,aerodynamics,,Squad,"@PART[sweptWing1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics
-}",Aero,
-sweptWing2,aerodynamics,,Squad,"@PART[sweptWing2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics
-}",Aero,
-MK1IntakeFuselage,aerodynamics,3,Squad,"@PART[MK1IntakeFuselage]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics3
-}",Aero,
-miniJetEngine,aerodynamics,2,Squad,"@PART[miniJetEngine]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics2
-}",Engine,
-adapterMk3-Mk2,aerodynamics,9,Squad,"@PART[adapterMk3-Mk2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics9
-}",FuelTank,
-adapterMk3-Size2,aerodynamics,8,Squad,"@PART[adapterMk3-Size2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",FuelTank,
-adapterMk3-Size2Slant,aerodynamics,8,Squad,"@PART[adapterMk3-Size2Slant]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",FuelTank,
-adapterSize2-Mk2,aerodynamics,8,Squad,"@PART[adapterSize2-Mk2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",FuelTank,
-adapterSize3-Mk3,aerodynamics,8,Squad,"@PART[adapterSize3-Mk3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",FuelTank,
-mk3FuselageLFO.100,aerodynamics,8,Squad,"@PART[mk3FuselageLFO.100]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",FuelTank,
-mk3FuselageLFO.25,aerodynamics,8,Squad,"@PART[mk3FuselageLFO.25]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",FuelTank,
-mk3FuselageLFO.50,aerodynamics,8,Squad,"@PART[mk3FuselageLFO.50]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",FuelTank,
-mk3FuselageLF.100,aerodynamics,8,Squad,"@PART[mk3FuselageLF.100]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",FuelTank,
-mk3FuselageLF.25,aerodynamics,8,Squad,"@PART[mk3FuselageLF.25]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",FuelTank,
-mk3FuselageLF.50,aerodynamics,8,Squad,"@PART[mk3FuselageLF.50]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",FuelTank,
-mk3FuselageMONO,aerodynamics,8,Squad,"@PART[mk3FuselageMONO]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",FuelTank,
-MK1Fuselage,aerodynamics,2,Squad,"@PART[MK1Fuselage]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics2
-}",FuelTank,
-mk2CargoBayL,aerodynamics,9,Squad,"@PART[mk2CargoBayL]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics9
-}",Payload,
-mk2CargoBayS,aerodynamics,9,Squad,"@PART[mk2CargoBayS]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics9
-}",Payload,
-mk3CargoBayL,aerodynamics,8,Squad,"@PART[mk3CargoBayL]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",Payload,
-mk3CargoBayM,aerodynamics,8,Squad,"@PART[mk3CargoBayM]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",Payload,
-mk3CargoRamp,aerodynamics,8,Squad,"@PART[mk3CargoRamp]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",Payload,
-mk3CargoBayS,aerodynamics,8,Squad,"@PART[mk3CargoBayS]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",Payload,
-mk2Cockpit.Inline,aerodynamics,9,Squad,"@PART[mk2Cockpit.Inline]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics9
-}",Pods,
-mk2Cockpit.Standard,aerodynamics,9,Squad,"@PART[mk2Cockpit.Standard]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics9
-}",Pods,
-mk3Cockpit.Shuttle,aerodynamics,8,Squad,"@PART[mk3Cockpit.Shuttle]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",Pods,
-miniFuselage,aerodynamics,1,Squad,"@PART[miniFuselage]:AFTER[Bluedog_DB] //
+miniFuselage,aerodynamics,1,Squad,"@PART[miniFuselage]:AFTER[Squad] //
 {
 	@TechRequired = aerodynamics1
 }",Propulsion,
-mk2.1m.Bicoupler,aerodynamics,9,Squad,"@PART[mk2.1m.Bicoupler]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics9
-}",Propulsion,
-mk2.1m.AdapterLong,aerodynamics,9,Squad,"@PART[mk2.1m.AdapterLong]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics9
-}",Propulsion,
-mk2SpacePlaneAdapter,aerodynamics,9,Squad,"@PART[mk2SpacePlaneAdapter]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics9
-}",Propulsion,
-mk2FuselageLongLFO,aerodynamics,9,Squad,"@PART[mk2FuselageLongLFO]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics9
-}",Propulsion,
-mk2Fuselage,aerodynamics,9,Squad,"@PART[mk2Fuselage]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics9
-}",Propulsion,
-mk2FuselageShortLFO,aerodynamics,9,Squad,"@PART[mk2FuselageShortLFO]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics9
-}",Propulsion,
-mk2FuselageShortLiquid,aerodynamics,9,Squad,"@PART[mk2FuselageShortLiquid]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics9
-}",Propulsion,
-mk2FuselageShortMono,aerodynamics,9,Squad,"@PART[mk2FuselageShortMono]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics9
-}",Propulsion,
-MK1CrewCabin,aviation,3,Squad,"@PART[MK1CrewCabin]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation3
-}",Utility,
-mk3CrewCabin,aerodynamics,8,Squad,"@PART[mk3CrewCabin]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics8
-}",Utility,
-mk2CrewCabin,aerodynamics,9,Squad,"@PART[mk2CrewCabin]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aerodynamics9
-}",Utility,
-evaChute,aerodynamics,1,Squad,"@PART[evaChute]:AFTER[Bluedog_DB] //
+evaChute,aerodynamics,1,Squad,"@PART[evaChute]:AFTER[Squad] //
 {
 	@TechRequired = aerodynamics1
 }",Cargo,
-airlinerCtrlSrf,aviation,,Squad,"@PART[airlinerCtrlSrf]:AFTER[Bluedog_DB] //
+Mark1Cockpit,aerodynamics,2,Squad,"@PART[Mark1Cockpit]:AFTER[Squad] //
 {
-	@TechRequired = aviation
+	@TechRequired = aerodynamics2
+}",Pods,
+sweptWing1,aerodynamics,2,Squad,"@PART[sweptWing1]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics2
 }",Aero,
-airlinerMainWing,aviation,,Squad,"@PART[airlinerMainWing]:AFTER[Bluedog_DB] //
+sweptWing2,aerodynamics,2,Squad,"@PART[sweptWing2]:AFTER[Squad] //
 {
-	@TechRequired = aviation
+	@TechRequired = aerodynamics2
 }",Aero,
-airlinerTailFin,aviation,,Squad,"@PART[airlinerTailFin]:AFTER[Bluedog_DB] //
+miniJetEngine,aerodynamics,2,Squad,"@PART[miniJetEngine]:AFTER[Squad] //
 {
-	@TechRequired = aviation
-}",Aero,
-CircularIntake,aviation,,Squad,"@PART[CircularIntake]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation
-}",Aero,
-miniIntake,aviation,,Squad,"@PART[miniIntake]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation
-}",Aero,
-nacelleBody,aviation,,Squad,"@PART[nacelleBody]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation
-}",Aero,
-JetEngine,aviation,,Squad,"@PART[JetEngine]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation
+	@TechRequired = aerodynamics2
 }",Engine,
-turboFanSize2,aviation,,Squad,"@PART[turboFanSize2]:AFTER[Bluedog_DB] //
+MK1Fuselage,aerodynamics,2,Squad,"@PART[MK1Fuselage]:AFTER[Squad] //
 {
-	@TechRequired = aviation
-}",Engine,
-GearLarge,aviation,6,Squad,"@PART[GearLarge]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics2
+}",FuelTank,
+miniIntake,aerodynamics,2,Squad,"@PART[miniIntake]:AFTER[Squad] //
 {
-	@TechRequired = aviation6
-}",Ground,
-GearFixed,aviation,2,Squad,"@PART[GearFixed]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics2
+}",Aero,
+Mk1FuselageStructural,aerodynamics,2,Squad,"@PART[Mk1FuselageStructural]:AFTER[Squad] //
 {
-	@TechRequired = aviation2
-}",Ground,
-GearFree,aviation,2,Squad,"@PART[GearFree]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics2
+}",Structural,
+Mark2Cockpit,aerodynamics,3,Squad,"@PART[Mark2Cockpit]:AFTER[Squad] //
 {
-	@TechRequired = aviation2
-}",Ground,
-GearMedium,aviation,5,Squad,"@PART[GearMedium]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation5
-}",Ground,
-GearSmall,aviation,4,Squad,"@PART[GearSmall]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation4
-}",Ground,
-SmallGearBay,aviation,3,Squad,"@PART[SmallGearBay]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation3
-}",Ground,
-seatExternalCmd,aviation,1,Squad,"@PART[seatExternalCmd]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation1
+	@TechRequired = aerodynamics3
 }",Pods,
-FanShroud.01,aviation,2,SquadExpansion,"@PART[FanShroud.01]:AFTER[Bluedog_DB] //
+MK1IntakeFuselage,aerodynamics,3,Squad,"@PART[MK1IntakeFuselage]:AFTER[Squad] //
 {
-	@TechRequired = aviation2
+	@TechRequired = aerodynamics3
 }",Aero,
-FanShroud.02,aviation,2,SquadExpansion,"@PART[FanShroud.02]:AFTER[Bluedog_DB] //
+airbrake1,aerodynamics,5,Squad,"@PART[airbrake1]:AFTER[Squad] //
 {
-	@TechRequired = aviation2
+	@TechRequired = aerodynamics5
 }",Aero,
-FanShroud.03,aviation,3,SquadExpansion,"@PART[FanShroud.03]:AFTER[Bluedog_DB] //
+airScoop,aerodynamics,5,Squad,"@PART[airScoop]:AFTER[Squad] //
 {
-	@TechRequired = aviation3
+	@TechRequired = aerodynamics5
 }",Aero,
-noseconeTiny,aviation,2,SquadExpansion,"@PART[noseconeTiny]:AFTER[Bluedog_DB] //
+AdvancedCanard,aerodynamics,5,Squad,"@PART[AdvancedCanard]:AFTER[Squad] //
 {
-	@TechRequired = aviation2
+	@TechRequired = aerodynamics5
 }",Aero,
-noseconeVS,aviation,2,SquadExpansion,"@PART[noseconeVS]:AFTER[Bluedog_DB] //
+CanardController,aerodynamics,5,Squad,"@PART[CanardController]:AFTER[Squad] //
 {
-	@TechRequired = aviation2
+	@TechRequired = aerodynamics5
 }",Aero,
-largeFanBlade,aviation,3,SquadExpansion,"@PART[largeFanBlade]:AFTER[Bluedog_DB] //
+IntakeRadialLong,aerodynamics,5,Squad,"@PART[IntakeRadialLong]:AFTER[Squad] //
 {
-	@TechRequired = aviation3
+	@TechRequired = aerodynamics5
 }",Aero,
-largeHeliBlade,aviation,3,SquadExpansion,"@PART[largeHeliBlade]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation3
-}",Aero,
-largePropeller,aviation,3,SquadExpansion,"@PART[largePropeller]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation3
-}",Aero,
-mediumFanBlade,aviation,2,SquadExpansion,"@PART[mediumFanBlade]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation2
-}",Aero,
-mediumHeliBlade,aviation,2,SquadExpansion,"@PART[mediumHeliBlade]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation2
-}",Aero,
-mediumPropeller,aviation,2,SquadExpansion,"@PART[mediumPropeller]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation2
-}",Aero,
-smallFanBlade,aviation,2,SquadExpansion,"@PART[smallFanBlade]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation2
-}",Aero,
-smallHeliBlade,aviation,2,SquadExpansion,"@PART[smallHeliBlade]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation2
-}",Aero,
-smallPropeller,aviation,2,SquadExpansion,"@PART[smallPropeller]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation2
-}",Aero,
-RotorEngine.02,aviation,2,SquadExpansion,"@PART[RotorEngine.02]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation2
-}",Robotics,
-RotorEngine.03,aviation,3,SquadExpansion,"@PART[RotorEngine.03]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = aviation3
-}",Robotics,
-groundAnchor,bases,9,Squad,"@PART[groundAnchor]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = bases9
-}",Cargo,
-mk1pod.v2,capsules,5,Squad,"@PART[mk1pod.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = capsules5
-}",Pods,
-mk1-3pod,capsules,8,Squad,"@PART[mk1-3pod]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = capsules8
-}",Pods,
-LaunchEscapeSystem,capsules,8,Squad,"@PART[LaunchEscapeSystem]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = capsules8
-}",Utility,
-kv1Pod,capsules,5,SquadExpansion,"@PART[kv1Pod]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = capsules5
-}",Pods,
-kv2Pod,capsules,6,SquadExpansion,"@PART[kv2Pod]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = capsules6
-}",Pods,
-Mk2Pod,capsules,6,SquadExpansion,"@PART[Mk2Pod]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = capsules6
-}",Pods,
-kv3Pod,capsules,7,SquadExpansion,"@PART[kv3Pod]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = capsules7
-}",Pods,
-restock-engine-les-2,capsules,5,RestockPlus,"@PART[restock-engine-les-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = capsules5
-}",Utility,
-restock-pod-sphere-1,capsules,5,RestockPlus,"@PART[restock-pod-sphere-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = capsules5
-}",none,
-restock-pod-sphere-2,capsules,6,RestockPlus,"@PART[restock-pod-sphere-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = capsules6
-}",none,
-restock-mk2-pod,capsules,6,RestockPlus,"@PART[restock-mk2-pod]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = capsules6
-}",none,
-restock-pod-sphere-3,capsules,7,RestockPlus,"@PART[restock-pod-sphere-3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = capsules7
-}",none,
-HighGainAntenna,comms,,Squad,"@PART[HighGainAntenna]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = comms
-}",Communication,
-commDish,comms,,Squad,"@PART[commDish]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = comms
-}",Communication,
-mediumDishAntenna,comms,,Squad,"@PART[mediumDishAntenna]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = comms
-}",Communication,
-longAntenna,comms,1,Squad,"@PART[longAntenna]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = comms1
-}",Communication,
-SurfAntenna,start,,Squad,"@PART[SurfAntenna]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = start
-}",Communication,
-HighGainAntenna5.v2,comms,,Squad,"@PART[HighGainAntenna5.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = comms
-}",Communication,
-RelayAntenna100,comms,,Squad,"@PART[RelayAntenna100]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = comms
-}",Communication,
-RelayAntenna5,comms,,Squad,"@PART[RelayAntenna5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = comms
-}",Communication,
-RelayAntenna50,comms,,Squad,"@PART[RelayAntenna50]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = comms
-}",Communication,
-DeployedSatDish,comms,8,SquadExpansion,"@PART[DeployedSatDish]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = comms8
-}",Cargo,
-restock-antenna-stack-2,comms,,RestockPlus,"@PART[restock-antenna-stack-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = comms
-}",Communication,
-restock-antenna-stack-3,comms,,RestockPlus,"@PART[restock-antenna-stack-3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = comms
-}",Communication,
-restock-relay-radial-2.v2,comms,,RestockPlus,"@PART[restock-relay-radial-2.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = comms
-}",Communication,
-restock-relay-radial-2,comms,,RestockPlus,"@PART[restock-relay-radial-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = comms
-}",none,
-Decoupler.0,construction,1,Squad,"@PART[Decoupler.0]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction1
-}",Coupling,
-Separator.0,construction,1,Squad,"@PART[Separator.0]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction1
-}",Coupling,
-Decoupler.1,construction,2,Squad,"@PART[Decoupler.1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction2
-}",Coupling,
-Separator.1,construction,2,Squad,"@PART[Separator.1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction2
-}",Coupling,
-Decoupler.2,construction,5,Squad,"@PART[Decoupler.2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Coupling,
-Separator.2,construction,5,Squad,"@PART[Separator.2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Coupling,
-Decoupler.3,construction,7,Squad,"@PART[Decoupler.3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction7
-}",Coupling,
-Separator.3,construction,7,Squad,"@PART[Separator.3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction7
-}",Coupling,
-noseCone,construction,1,Squad,"@PART[noseCone]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction1
-}",Aero,
-pointyNoseConeA,construction,1,Squad,"@PART[pointyNoseConeA]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction1
-}",Aero,
-pointyNoseConeB,construction,3,Squad,"@PART[pointyNoseConeB]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Aero,
-rocketNoseCone.v3,construction,5,Squad,"@PART[rocketNoseCone.v3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Aero,
-rocketNoseConeSize3,construction,7,Squad,"@PART[rocketNoseConeSize3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction7
-}",Aero,
-standardNoseCone,start,,Squad,"@PART[standardNoseCone]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = start
-}",Aero,
-evaRepairKit,construction,6,Squad,"@PART[evaRepairKit]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction6
-}",Cargo,
-radialDecoupler1-2,construction,5,Squad,"@PART[radialDecoupler1-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Coupling,
-radialDecoupler,construction,3,Squad,"@PART[radialDecoupler]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Coupling,
-radialDecoupler2,construction,7,Squad,"@PART[radialDecoupler2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction7
-}",Coupling,
-rocketNoseCone.v2,debug,,Squad,"@PART[rocketNoseCone.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = debug
-}",none,
-fairingSize1,construction,1,Squad,"@PART[fairingSize1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction1
-}",Payload,
-fairingSize2,construction,5,Squad,"@PART[fairingSize2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Payload,
-fairingSize3,construction,7,Squad,"@PART[fairingSize3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction7
-}",Payload,
-ServiceBay.125.v2,construction,3,Squad,"@PART[ServiceBay.125.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Payload,
-ServiceBay.250.v2,construction,6,Squad,"@PART[ServiceBay.250.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction6
-}",Payload,
-noseConeAdapter,aerodynamics,5,Squad,"@PART[noseConeAdapter]:AFTER[Bluedog_DB] //
+noseConeAdapter,aerodynamics,5,Squad,"@PART[noseConeAdapter]:AFTER[Squad] //
 {
 	@TechRequired = aerodynamics5
 }",Propulsion,
-strutConnector,start,,Squad,"@PART[strutConnector]:AFTER[Bluedog_DB] //
+wingShuttleDelta,aerodynamics,8,Squad,"@PART[wingShuttleDelta]:AFTER[Squad] //
 {
-	@TechRequired = start
-}",Structural,
-adapterEngines,debug,,Squad,"@PART[adapterEngines]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",Aero,
+wingShuttleElevon1,aerodynamics,8,Squad,"@PART[wingShuttleElevon1]:AFTER[Squad] //
 {
-	@TechRequired = debug
-}",Structural,
-adapterSmallMiniShort,construction,2,Squad,"@PART[adapterSmallMiniShort]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",Aero,
+wingShuttleElevon2,aerodynamics,8,Squad,"@PART[wingShuttleElevon2]:AFTER[Squad] //
 {
-	@TechRequired = construction2
-}",Structural,
-adapterSmallMiniTall,construction,2,Squad,"@PART[adapterSmallMiniTall]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",Aero,
+wingShuttleRudder,aerodynamics,8,Squad,"@PART[wingShuttleRudder]:AFTER[Squad] //
 {
-	@TechRequired = construction2
-}",Structural,
-Mk1FuselageStructural,aerodynamics,2,Squad,"@PART[Mk1FuselageStructural]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",Aero,
+wingShuttleStrake,aerodynamics,8,Squad,"@PART[wingShuttleStrake]:AFTER[Squad] //
 {
-	@TechRequired = aerodynamics2
-}",Structural,
-adapterLargeSmallBi,construction,5,Squad,"@PART[adapterLargeSmallBi]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",Aero,
+adapterMk3-Size2,aerodynamics,8,Squad,"@PART[adapterMk3-Size2]:AFTER[Squad] //
 {
-	@TechRequired = construction5
-}",Structural,
-adapterLargeSmallQuad,construction,5,Squad,"@PART[adapterLargeSmallQuad]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",FuelTank,
+adapterMk3-Size2Slant,aerodynamics,8,Squad,"@PART[adapterMk3-Size2Slant]:AFTER[Squad] //
 {
-	@TechRequired = construction5
-}",Structural,
-adapterLargeSmallTri,construction,5,Squad,"@PART[adapterLargeSmallTri]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",FuelTank,
+adapterSize2-Mk2,aerodynamics,8,Squad,"@PART[adapterSize2-Mk2]:AFTER[Squad] //
 {
-	@TechRequired = construction5
-}",Structural,
-structuralIBeam2,construction,5,Squad,"@PART[structuralIBeam2]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",FuelTank,
+adapterSize3-Mk3,aerodynamics,8,Squad,"@PART[adapterSize3-Mk3]:AFTER[Squad] //
 {
-	@TechRequired = construction5
-}",Structural,
-structuralIBeam3,construction,5,Squad,"@PART[structuralIBeam3]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",FuelTank,
+mk3FuselageLFO.100,aerodynamics,8,Squad,"@PART[mk3FuselageLFO.100]:AFTER[Squad] //
 {
-	@TechRequired = construction5
-}",Structural,
-structuralIBeam1,construction,5,Squad,"@PART[structuralIBeam1]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",FuelTank,
+mk3FuselageLFO.25,aerodynamics,8,Squad,"@PART[mk3FuselageLFO.25]:AFTER[Squad] //
 {
-	@TechRequired = construction5
-}",Structural,
-structuralMiniNode,construction,5,Squad,"@PART[structuralMiniNode]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",FuelTank,
+mk3FuselageLFO.50,aerodynamics,8,Squad,"@PART[mk3FuselageLFO.50]:AFTER[Squad] //
 {
-	@TechRequired = construction5
-}",Structural,
-structuralPanel1,construction,5,Squad,"@PART[structuralPanel1]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",FuelTank,
+mk3FuselageLF.100,aerodynamics,8,Squad,"@PART[mk3FuselageLF.100]:AFTER[Squad] //
 {
-	@TechRequired = construction5
-}",Structural,
-structuralPanel2,construction,5,Squad,"@PART[structuralPanel2]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",FuelTank,
+mk3FuselageLF.25,aerodynamics,8,Squad,"@PART[mk3FuselageLF.25]:AFTER[Squad] //
 {
-	@TechRequired = construction5
-}",Structural,
-smallHardpoint,construction,5,Squad,"@PART[smallHardpoint]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",FuelTank,
+mk3FuselageLF.50,aerodynamics,8,Squad,"@PART[mk3FuselageLF.50]:AFTER[Squad] //
 {
-	@TechRequired = construction5
-}",Structural,
-structuralPylon,aviation,5,Squad,"@PART[structuralPylon]:AFTER[Bluedog_DB] //
+	@TechRequired = aerodynamics8
+}",FuelTank,
+mk3FuselageMONO,aerodynamics,8,Squad,"@PART[mk3FuselageMONO]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics8
+}",FuelTank,
+mk3CargoBayL,aerodynamics,8,Squad,"@PART[mk3CargoBayL]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics8
+}",Payload,
+mk3CargoBayM,aerodynamics,8,Squad,"@PART[mk3CargoBayM]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics8
+}",Payload,
+mk3CargoRamp,aerodynamics,8,Squad,"@PART[mk3CargoRamp]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics8
+}",Payload,
+mk3CargoBayS,aerodynamics,8,Squad,"@PART[mk3CargoBayS]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics8
+}",Payload,
+mk3Cockpit.Shuttle,aerodynamics,8,Squad,"@PART[mk3Cockpit.Shuttle]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics8
+}",Pods,
+mk3CrewCabin,aerodynamics,8,Squad,"@PART[mk3CrewCabin]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics8
+}",Utility,
+adapterMk3-Mk2,aerodynamics,9,Squad,"@PART[adapterMk3-Mk2]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics9
+}",FuelTank,
+mk2CargoBayL,aerodynamics,9,Squad,"@PART[mk2CargoBayL]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics9
+}",Payload,
+mk2CargoBayS,aerodynamics,9,Squad,"@PART[mk2CargoBayS]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics9
+}",Payload,
+mk2Cockpit.Inline,aerodynamics,9,Squad,"@PART[mk2Cockpit.Inline]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics9
+}",Pods,
+mk2Cockpit.Standard,aerodynamics,9,Squad,"@PART[mk2Cockpit.Standard]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics9
+}",Pods,
+mk2.1m.Bicoupler,aerodynamics,9,Squad,"@PART[mk2.1m.Bicoupler]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics9
+}",Propulsion,
+mk2.1m.AdapterLong,aerodynamics,9,Squad,"@PART[mk2.1m.AdapterLong]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics9
+}",Propulsion,
+mk2SpacePlaneAdapter,aerodynamics,9,Squad,"@PART[mk2SpacePlaneAdapter]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics9
+}",Propulsion,
+mk2FuselageLongLFO,aerodynamics,9,Squad,"@PART[mk2FuselageLongLFO]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics9
+}",Propulsion,
+mk2Fuselage,aerodynamics,9,Squad,"@PART[mk2Fuselage]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics9
+}",Propulsion,
+mk2FuselageShortLFO,aerodynamics,9,Squad,"@PART[mk2FuselageShortLFO]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics9
+}",Propulsion,
+mk2FuselageShortLiquid,aerodynamics,9,Squad,"@PART[mk2FuselageShortLiquid]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics9
+}",Propulsion,
+mk2FuselageShortMono,aerodynamics,9,Squad,"@PART[mk2FuselageShortMono]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics9
+}",Propulsion,
+mk2CrewCabin,aerodynamics,9,Squad,"@PART[mk2CrewCabin]:AFTER[Squad] //
+{
+	@TechRequired = aerodynamics9
+}",Utility,
+seatExternalCmd,aviation,1,Squad,"@PART[seatExternalCmd]:AFTER[Squad] //
+{
+	@TechRequired = aviation1
+}",Pods,
+GearFixed,aviation,2,Squad,"@PART[GearFixed]:AFTER[Squad] //
+{
+	@TechRequired = aviation2
+}",Ground,
+GearFree,aviation,2,Squad,"@PART[GearFree]:AFTER[Squad] //
+{
+	@TechRequired = aviation2
+}",Ground,
+MK1CrewCabin,aviation,3,Squad,"@PART[MK1CrewCabin]:AFTER[Squad] //
+{
+	@TechRequired = aviation3
+}",Utility,
+SmallGearBay,aviation,3,Squad,"@PART[SmallGearBay]:AFTER[Squad] //
+{
+	@TechRequired = aviation3
+}",Ground,
+CircularIntake,aviation,4,Squad,"@PART[CircularIntake]:AFTER[Squad] //
+{
+	@TechRequired = aviation4
+}",Aero,
+nacelleBody,aviation,4,Squad,"@PART[nacelleBody]:AFTER[Squad] //
+{
+	@TechRequired = aviation4
+}",Aero,
+JetEngine,aviation,4,Squad,"@PART[JetEngine]:AFTER[Squad] //
+{
+	@TechRequired = aviation4
+}",Engine,
+GearSmall,aviation,4,Squad,"@PART[GearSmall]:AFTER[Squad] //
+{
+	@TechRequired = aviation4
+}",Ground,
+GearMedium,aviation,5,Squad,"@PART[GearMedium]:AFTER[Squad] //
+{
+	@TechRequired = aviation5
+}",Ground,
+structuralPylon,aviation,5,Squad,"@PART[structuralPylon]:AFTER[Squad] //
 {
 	@TechRequired = aviation5
 }",Structural,
-strutCube,construction,6,Squad,"@PART[strutCube]:AFTER[Bluedog_DB] //
+airlinerCtrlSrf,aviation,6,Squad,"@PART[airlinerCtrlSrf]:AFTER[Squad] //
 {
-	@TechRequired = construction6
-}",Structural,
-strutOcto,construction,6,Squad,"@PART[strutOcto]:AFTER[Bluedog_DB] //
+	@TechRequired = aviation6
+}",Aero,
+airlinerMainWing,aviation,6,Squad,"@PART[airlinerMainWing]:AFTER[Squad] //
 {
-	@TechRequired = construction6
-}",Structural,
-trussAdapter,construction,6,Squad,"@PART[trussAdapter]:AFTER[Bluedog_DB] //
+	@TechRequired = aviation6
+}",Aero,
+airlinerTailFin,aviation,6,Squad,"@PART[airlinerTailFin]:AFTER[Squad] //
 {
-	@TechRequired = construction6
-}",Structural,
-trussPiece1x,construction,6,Squad,"@PART[trussPiece1x]:AFTER[Bluedog_DB] //
+	@TechRequired = aviation6
+}",Aero,
+turboFanSize2,aviation,6,Squad,"@PART[turboFanSize2]:AFTER[Squad] //
 {
-	@TechRequired = construction6
-}",Structural,
-trussPiece3x,construction,6,Squad,"@PART[trussPiece3x]:AFTER[Bluedog_DB] //
+	@TechRequired = aviation6
+}",Engine,
+GearLarge,aviation,6,Squad,"@PART[GearLarge]:AFTER[Squad] //
 {
-	@TechRequired = construction6
-}",Structural,
-launchClamp1,construction,1,Squad,"@PART[launchClamp1]:AFTER[Bluedog_DB] //
+	@TechRequired = aviation6
+}",Ground,
+groundAnchor,bases,9,Squad,"@PART[groundAnchor]:AFTER[Squad] //
+{
+	@TechRequired = bases9
+}",Cargo,
+mk1pod.v2,capsules,5,Squad,"@PART[mk1pod.v2]:AFTER[Squad] //
+{
+	@TechRequired = capsules5
+}",Pods,
+mk1-3pod,capsules,8,Squad,"@PART[mk1-3pod]:AFTER[Squad] //
+{
+	@TechRequired = capsules8
+}",Pods,
+LaunchEscapeSystem,capsules,8,Squad,"@PART[LaunchEscapeSystem]:AFTER[Squad] //
+{
+	@TechRequired = capsules8
+}",Utility,
+longAntenna,comms,1,Squad,"@PART[longAntenna]:AFTER[Squad] //
+{
+	@TechRequired = comms1
+}",Communication,
+mediumDishAntenna,comms,3,Squad,"@PART[mediumDishAntenna]:AFTER[Squad] //
+{
+	@TechRequired = comms3
+}",Communication,
+RelayAntenna5,comms,4,Squad,"@PART[RelayAntenna5]:AFTER[Squad] //
+{
+	@TechRequired = comms4
+}",Communication,
+HighGainAntenna,comms,5,Squad,"@PART[HighGainAntenna]:AFTER[Squad] //
+{
+	@TechRequired = comms5
+}",Communication,
+HighGainAntenna5.v2,comms,5,Squad,"@PART[HighGainAntenna5.v2]:AFTER[Squad] //
+{
+	@TechRequired = comms5
+}",Communication,
+commDish,comms,6,Squad,"@PART[commDish]:AFTER[Squad] //
+{
+	@TechRequired = comms6
+}",Communication,
+RelayAntenna50,comms,6,Squad,"@PART[RelayAntenna50]:AFTER[Squad] //
+{
+	@TechRequired = comms6
+}",Communication,
+RelayAntenna100,comms,7,Squad,"@PART[RelayAntenna100]:AFTER[Squad] //
+{
+	@TechRequired = comms7
+}",Communication,
+Decoupler.0,construction,1,Squad,"@PART[Decoupler.0]:AFTER[Squad] //
+{
+	@TechRequired = construction1
+}",Coupling,
+Separator.0,construction,1,Squad,"@PART[Separator.0]:AFTER[Squad] //
+{
+	@TechRequired = construction1
+}",Coupling,
+noseCone,construction,1,Squad,"@PART[noseCone]:AFTER[Squad] //
+{
+	@TechRequired = construction1
+}",Aero,
+pointyNoseConeA,construction,1,Squad,"@PART[pointyNoseConeA]:AFTER[Squad] //
+{
+	@TechRequired = construction1
+}",Aero,
+fairingSize1,construction,1,Squad,"@PART[fairingSize1]:AFTER[Squad] //
+{
+	@TechRequired = construction1
+}",Payload,
+launchClamp1,construction,1,Squad,"@PART[launchClamp1]:AFTER[Squad] //
 {
 	@TechRequired = construction1
 }",Structural,
-stackPoint1,construction,,Squad,"@PART[stackPoint1]:AFTER[Bluedog_DB] //
+Decoupler.1,construction,2,Squad,"@PART[Decoupler.1]:AFTER[Squad] //
+{
+	@TechRequired = construction2
+}",Coupling,
+Separator.1,construction,2,Squad,"@PART[Separator.1]:AFTER[Squad] //
+{
+	@TechRequired = construction2
+}",Coupling,
+adapterSmallMiniShort,construction,2,Squad,"@PART[adapterSmallMiniShort]:AFTER[Squad] //
+{
+	@TechRequired = construction2
+}",Structural,
+adapterSmallMiniTall,construction,2,Squad,"@PART[adapterSmallMiniTall]:AFTER[Squad] //
+{
+	@TechRequired = construction2
+}",Structural,
+pointyNoseConeB,construction,3,Squad,"@PART[pointyNoseConeB]:AFTER[Squad] //
+{
+	@TechRequired = construction3
+}",Aero,
+radialDecoupler,construction,3,Squad,"@PART[radialDecoupler]:AFTER[Squad] //
+{
+	@TechRequired = construction3
+}",Coupling,
+ServiceBay.125.v2,construction,3,Squad,"@PART[ServiceBay.125.v2]:AFTER[Squad] //
+{
+	@TechRequired = construction3
+}",Payload,
+Decoupler.2,construction,5,Squad,"@PART[Decoupler.2]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Coupling,
+Separator.2,construction,5,Squad,"@PART[Separator.2]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Coupling,
+rocketNoseCone.v3,construction,5,Squad,"@PART[rocketNoseCone.v3]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Aero,
+radialDecoupler1-2,construction,5,Squad,"@PART[radialDecoupler1-2]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Coupling,
+fairingSize2,construction,5,Squad,"@PART[fairingSize2]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Payload,
+adapterLargeSmallBi,construction,5,Squad,"@PART[adapterLargeSmallBi]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+adapterLargeSmallQuad,construction,5,Squad,"@PART[adapterLargeSmallQuad]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+adapterLargeSmallTri,construction,5,Squad,"@PART[adapterLargeSmallTri]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+structuralIBeam2,construction,5,Squad,"@PART[structuralIBeam2]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+structuralIBeam3,construction,5,Squad,"@PART[structuralIBeam3]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+structuralIBeam1,construction,5,Squad,"@PART[structuralIBeam1]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+structuralMiniNode,construction,5,Squad,"@PART[structuralMiniNode]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+structuralPanel1,construction,5,Squad,"@PART[structuralPanel1]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+structuralPanel2,construction,5,Squad,"@PART[structuralPanel2]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+smallHardpoint,construction,5,Squad,"@PART[smallHardpoint]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+largeAdapter,construction,5,Squad,"@PART[largeAdapter]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+largeAdapter2,construction,5,Squad,"@PART[largeAdapter2]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+stackBiCoupler.v2,construction,5,Squad,"@PART[stackBiCoupler.v2]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+stackQuadCoupler,construction,5,Squad,"@PART[stackQuadCoupler]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+stackTriCoupler.v2,construction,5,Squad,"@PART[stackTriCoupler.v2]:AFTER[Squad] //
+{
+	@TechRequired = construction5
+}",Structural,
+evaRepairKit,construction,6,Squad,"@PART[evaRepairKit]:AFTER[Squad] //
+{
+	@TechRequired = construction6
+}",Cargo,
+ServiceBay.250.v2,construction,6,Squad,"@PART[ServiceBay.250.v2]:AFTER[Squad] //
+{
+	@TechRequired = construction6
+}",Payload,
+strutCube,construction,6,Squad,"@PART[strutCube]:AFTER[Squad] //
+{
+	@TechRequired = construction6
+}",Structural,
+strutOcto,construction,6,Squad,"@PART[strutOcto]:AFTER[Squad] //
+{
+	@TechRequired = construction6
+}",Structural,
+trussAdapter,construction,6,Squad,"@PART[trussAdapter]:AFTER[Squad] //
+{
+	@TechRequired = construction6
+}",Structural,
+trussPiece1x,construction,6,Squad,"@PART[trussPiece1x]:AFTER[Squad] //
+{
+	@TechRequired = construction6
+}",Structural,
+trussPiece3x,construction,6,Squad,"@PART[trussPiece3x]:AFTER[Squad] //
+{
+	@TechRequired = construction6
+}",Structural,
+Decoupler.3,construction,7,Squad,"@PART[Decoupler.3]:AFTER[Squad] //
+{
+	@TechRequired = construction7
+}",Coupling,
+Separator.3,construction,7,Squad,"@PART[Separator.3]:AFTER[Squad] //
+{
+	@TechRequired = construction7
+}",Coupling,
+rocketNoseConeSize3,construction,7,Squad,"@PART[rocketNoseConeSize3]:AFTER[Squad] //
+{
+	@TechRequired = construction7
+}",Aero,
+radialDecoupler2,construction,7,Squad,"@PART[radialDecoupler2]:AFTER[Squad] //
+{
+	@TechRequired = construction7
+}",Coupling,
+fairingSize3,construction,7,Squad,"@PART[fairingSize3]:AFTER[Squad] //
+{
+	@TechRequired = construction7
+}",Payload,
+stackPoint1,construction,,Squad,"@PART[stackPoint1]:AFTER[Squad] //
 {
 	@TechRequired = construction
 }",Structural,
-largeAdapter,construction,5,Squad,"@PART[largeAdapter]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Structural,
-largeAdapter2,construction,5,Squad,"@PART[largeAdapter2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Structural,
-stackBiCoupler.v2,construction,5,Squad,"@PART[stackBiCoupler.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Structural,
-stackQuadCoupler,construction,5,Squad,"@PART[stackQuadCoupler]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Structural,
-stackTriCoupler.v2,construction,5,Squad,"@PART[stackTriCoupler.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Structural,
-Decoupler.1p5,construction,4,SquadExpansion,"@PART[Decoupler.1p5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",Coupling,
-EnginePlate1p5,construction,5,SquadExpansion,"@PART[EnginePlate1p5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Coupling,
-Decoupler.4,construction,8,SquadExpansion,"@PART[Decoupler.4]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction8
-}",Coupling,
-rocketNoseConeSize4,construction,8,SquadExpansion,"@PART[rocketNoseConeSize4]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction8
-}",Aero,
-Size.1.5.Cone,construction,4,SquadExpansion,"@PART[Size.1.5.Cone]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",Aero,
-EnginePlate2,construction,5,SquadExpansion,"@PART[EnginePlate2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Coupling,
-EnginePlate3,construction,7,SquadExpansion,"@PART[EnginePlate3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction7
-}",Coupling,
-EnginePlate4,construction,8,SquadExpansion,"@PART[EnginePlate4]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction8
-}",Coupling,
-EnginePlate5,construction,8,SquadExpansion,"@PART[EnginePlate5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction8
-}",Coupling,
-InflatableAirlock,construction,6,SquadExpansion,"@PART[InflatableAirlock]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction6
-}",Coupling,
-Separator.1p5,construction,4,SquadExpansion,"@PART[Separator.1p5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",Coupling,
-Separator.4,construction,8,SquadExpansion,"@PART[Separator.4]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction8
-}",Coupling,
-Size1p5.Strut.Decoupler,construction,4,SquadExpansion,"@PART[Size1p5.Strut.Decoupler]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",Coupling,
-fairingSize1p5,construction,4,SquadExpansion,"@PART[fairingSize1p5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",Payload,
-fairingSize4,construction,8,SquadExpansion,"@PART[fairingSize4]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction8
-}",Payload,
-EquiTriangle0,construction,3,SquadExpansion,"@PART[EquiTriangle0]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Structural,
-EquiTriangle1,construction,3,SquadExpansion,"@PART[EquiTriangle1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Structural,
-EquiTriangle1p5,construction,3,SquadExpansion,"@PART[EquiTriangle1p5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Structural,
-EquiTriangle2,construction,3,SquadExpansion,"@PART[EquiTriangle2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Structural,
-Panel0,construction,3,SquadExpansion,"@PART[Panel0]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Structural,
-Panel1,construction,3,SquadExpansion,"@PART[Panel1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Structural,
-Panel1p5,construction,3,SquadExpansion,"@PART[Panel1p5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Structural,
-Panel2,construction,3,SquadExpansion,"@PART[Panel2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Structural,
-Triangle0,construction,3,SquadExpansion,"@PART[Triangle0]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Structural,
-Triangle1,construction,3,SquadExpansion,"@PART[Triangle1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Structural,
-Triangle1p5,construction,3,SquadExpansion,"@PART[Triangle1p5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Structural,
-Triangle2,construction,3,SquadExpansion,"@PART[Triangle2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Structural,
-Tube1,construction,3,SquadExpansion,"@PART[Tube1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",Structural,
-Tube1p5,construction,4,SquadExpansion,"@PART[Tube1p5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",Structural,
-Tube2,construction,5,SquadExpansion,"@PART[Tube2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Structural,
-Tube3,construction,7,SquadExpansion,"@PART[Tube3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction7
-}",Structural,
-Tube4,construction,8,SquadExpansion,"@PART[Tube4]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction8
-}",Structural,
-lGripPad,construction,9,SquadExpansion,"@PART[lGripPad]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction9
-}",Structural,
-lGripStrip,construction,9,SquadExpansion,"@PART[lGripStrip]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction9
-}",Structural,
-mGripPad,construction,8,SquadExpansion,"@PART[mGripPad]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction8
-}",Structural,
-sGripPad,construction,7,SquadExpansion,"@PART[sGripPad]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction7
-}",Structural,
-sGripStrip,construction,7,SquadExpansion,"@PART[sGripStrip]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction7
-}",Structural,
-restock-nosecone-0625-1,construction,1,RestockPlus,"@PART[restock-nosecone-0625-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction1
-}",Aero,
-restock-engineplate-125-1,construction,2,RestockPlus,"@PART[restock-engineplate-125-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction2
-}",Coupling,
-restock-docking-375-1,spaceStations,9,RestockPlus,"@PART[restock-docking-375-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceStations9
-}",Coupling,
-restock-decoupler-radial-tiny-1,construction,2,RestockPlus,"@PART[restock-decoupler-radial-tiny-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction2
-}",Coupling,
-restock-nosecone-1875-1,construction,4,RestockPlus,"@PART[restock-nosecone-1875-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",none,
-restock-nosecone-1875-2,construction,4,RestockPlus,"@PART[restock-nosecone-1875-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",none,
-restock-nosecone-5-1,construction,8,RestockPlus,"@PART[restock-nosecone-5-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction8
-}",none,
-restock-decoupler-1875-1,construction,4,RestockPlus,"@PART[restock-decoupler-1875-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",none,
-restock-decoupler-1875-truss-1,construction,4,RestockPlus,"@PART[restock-decoupler-1875-truss-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",none,
-restock-engineplate-1875-1,construction,4,RestockPlus,"@PART[restock-engineplate-1875-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",none,
-restock-separator-1875-1,construction,4,RestockPlus,"@PART[restock-separator-1875-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",none,
-restock-engineplate-25-1,construction,5,RestockPlus,"@PART[restock-engineplate-25-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",none,
-restock-engineplate-375-1,construction,7,RestockPlus,"@PART[restock-engineplate-375-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction7
-}",none,
-restock-decoupler-5-1,construction,8,RestockPlus,"@PART[restock-decoupler-5-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction8
-}",none,
-restock-engineplate-5-1,construction,8,RestockPlus,"@PART[restock-engineplate-5-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction8
-}",none,
-restock-separator-5-1,construction,8,RestockPlus,"@PART[restock-separator-5-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction8
-}",none,
-restock-fairing-base-1875-1,construction,4,RestockPlus,"@PART[restock-fairing-base-1875-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",none,
-restock-fairing-base-5-1,construction,8,RestockPlus,"@PART[restock-fairing-base-5-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction8
-}",none,
-restock-structural-tube-125-1,construction,3,RestockPlus,"@PART[restock-structural-tube-125-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction3
-}",none,
-restock-structural-tube-1875-1,construction,4,RestockPlus,"@PART[restock-structural-tube-1875-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",none,
-restock-structural-tube-25-1,construction,5,RestockPlus,"@PART[restock-structural-tube-25-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",none,
-restock-structural-tube-375-1,construction,7,RestockPlus,"@PART[restock-structural-tube-375-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction7
-}",none,
-restock-structural-tube-5-1,construction,8,RestockPlus,"@PART[restock-structural-tube-5-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction8
-}",none,
-restock-fairing-base-0625-1,construction,1,RestockPlus,"@PART[restock-fairing-base-0625-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction1
-}",Payload,
-restock-service-bay-1875-1,construction,5,RestockPlus,"@PART[restock-service-bay-1875-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Payload,
-restock-adapter-1875-125-1,construction,4,RestockPlus,"@PART[restock-adapter-1875-125-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",Structural,
-restock-adapter-1875-25-1,construction,5,RestockPlus,"@PART[restock-adapter-1875-25-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction5
-}",Structural,
-restock-node-1875-1,construction,4,RestockPlus,"@PART[restock-node-1875-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction4
-}",Structural,
-restock-adapter-hollow-25-375-1,construction,7,RestockPlus,"@PART[restock-adapter-hollow-25-375-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction7
-}",Structural,
-restock-adapter-skeletal-25-375-1,construction,7,RestockPlus,"@PART[restock-adapter-skeletal-25-375-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction7
-}",Structural,
-restock-node-625-1,construction,2,RestockPlus,"@PART[restock-node-625-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction2
-}",Structural,
-restock-truss-3,construction,6,RestockPlus,"@PART[restock-truss-3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction6
-}",Structural,
-restock-truss-adapter-0625-1,construction,2,RestockPlus,"@PART[restock-truss-adapter-0625-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction2
-}",Structural,
-restock-truss-hub-1,construction,6,RestockPlus,"@PART[restock-truss-hub-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = construction6
-}",Structural,
-avionicsNoseCone,control,6,Squad,"@PART[avionicsNoseCone]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control6
-}",Control,
-asasmodule1-2,control,6,Squad,"@PART[asasmodule1-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control6
-}",Control,
-advSasModule,control,4,Squad,"@PART[advSasModule]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control4
-}",Control,
-sasModule,control,3,Squad,"@PART[sasModule]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control3
-}",Control,
-linearRcs,control,5,Squad,"@PART[linearRcs]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control5
-}",Control,
-vernierEngine,control,7,Squad,"@PART[vernierEngine]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control7
-}",Control,
-RCSBlock.v2,control,5,Squad,"@PART[RCSBlock.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control5
-}",Control,
-RCSblock.01.small,control,3,Squad,"@PART[RCSblock.01.small]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control3
-}",Control,
-RCSLinearSmall,control,3,Squad,"@PART[RCSLinearSmall]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control3
-}",Control,
-R8winglet,control,3,Squad,"@PART[R8winglet]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control3
-}",Aero,
-winglet3,control,5,Squad,"@PART[winglet3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control5
-}",Aero,
-mk2DroneCore,control,9,Squad,"@PART[mk2DroneCore]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control9
-}",Pods,
-probeStackLarge,control,5,Squad,"@PART[probeStackLarge]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control5
-}",Pods,
-probeStackSmall,control,2,Squad,"@PART[probeStackSmall]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control2
-}",Pods,
-restock-reactionwheel-1875-1,control,5,RestockPlus,"@PART[restock-reactionwheel-1875-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control5
-}",Control,
-restock-reactionwheel-radial-1,control,3,RestockPlus,"@PART[restock-reactionwheel-radial-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control3
-}",Control,
-restock-rcs-block-multi-2,control,5,RestockPlus,"@PART[restock-rcs-block-multi-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control5
-}",Control,
-restock-rcs-block-multi-mini-2,control,3,RestockPlus,"@PART[restock-rcs-block-multi-mini-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control3
-}",Control,
-restock-rcs-block-dual-1,control,5,RestockPlus,"@PART[restock-rcs-block-dual-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control5
-}",none,
-restock-rcs-block-dual-mini-1,control,3,RestockPlus,"@PART[restock-rcs-block-dual-mini-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control3
-}",none,
-restock-rcs-block-quad-angled-1,control,5,RestockPlus,"@PART[restock-rcs-block-quad-angled-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control5
-}",none,
-restock-rcs-block-quad-angled-mini-1,control,3,RestockPlus,"@PART[restock-rcs-block-quad-angled-mini-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control3
-}",none,
-restock-rcs-block-quad-mini-1,control,3,RestockPlus,"@PART[restock-rcs-block-quad-mini-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control3
-}",none,
-restock-rcs-block-quint-1,control,5,RestockPlus,"@PART[restock-rcs-block-quint-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control5
-}",none,
-restock-rcs-block-qunit-mini-1,control,3,RestockPlus,"@PART[restock-rcs-block-qunit-mini-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control3
-}",none,
-restock-rcs-block-triple-angled-1,control,5,RestockPlus,"@PART[restock-rcs-block-triple-angled-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control5
-}",none,
-restock-rcs-block-triple-angled-mini-1,control,3,RestockPlus,"@PART[restock-rcs-block-triple-angled-mini-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control3
-}",none,
-restock-rcs-single-mini-1,control,3,RestockPlus,"@PART[restock-rcs-single-mini-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control3
-}",none,
-restock-drone-core-0625-1,control,0,RestockPlus,"@PART[restock-drone-core-0625-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control0
-}",Pods,
-restock-drone-core-1875-1,control,4,RestockPlus,"@PART[restock-drone-core-1875-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control4
-}",Pods,
-restock-drone-core-375-1,control,7,RestockPlus,"@PART[restock-drone-core-375-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = control7
-}",Pods,
-Size3EngineCluster,cryo,8,Squad,"@PART[Size3EngineCluster]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = cryo8
-}",Engine,"Why not? Might not be completely realistic, but creates some variety!"
-Size3AdvancedEngine,cryo,9,Squad,"@PART[Size3AdvancedEngine]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = cryo9
-}",Engine,
-LiquidEngineRE-I2,cryo,8,SquadExpansion,"@PART[LiquidEngineRE-I2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = cryo8
-}",Engine,
-restock-engine-375-corgi,cryo,10,RestockPlus,"@PART[restock-engine-375-corgi]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = cryo10
-}",Engine,
-restock-engine-caravel-1,cryo,10,RestockPlus,"@PART[restock-engine-caravel-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = cryo10
-}",none,Isn't it part of EUS?
-smallRadialEngine,debug,,Squad,"@PART[smallRadialEngine]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = debug
-}",none,
-liquidEngine,debug,,Squad,"@PART[liquidEngine]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = debug
-}",none,
-liquidEngine2,debug,,Squad,"@PART[liquidEngine2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = debug
-}",none,
-Size2LFB,debug,,Squad,"@PART[Size2LFB]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = debug
-}",none,
-PotatoComet,debug,,Squad,"@PART[PotatoComet]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = debug
-}",none,
-PotatoRoid,debug,,Squad,"@PART[PotatoRoid]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = debug
-}",none,
-HighGainAntenna5,debug,,Squad,"@PART[HighGainAntenna5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = debug
-}",none,
-spotLight1,debug,,Squad,"@PART[spotLight1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = debug
-}",none,
-spotLight2,debug,,Squad,"@PART[spotLight2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = debug
-}",none,
-mk2LanderCabin,debug,,Squad,"@PART[mk2LanderCabin]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = debug
-}",none,
-groundLight1,electrics,7,Squad,"@PART[groundLight1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics7
-}",Cargo,
-groundLight2,electrics,8,Squad,"@PART[groundLight2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics8
-}",Cargo,
-batteryPack,electrics,2,Squad,"@PART[batteryPack]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics2
-}",Electrical,
-batteryBank,electrics,,Squad,"@PART[batteryBank]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Electrical,
-batteryBankMini,electrics,,Squad,"@PART[batteryBankMini]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Electrical,
-ksp.r.largeBatteryPack,electrics,,Squad,"@PART[ksp.r.largeBatteryPack]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Electrical,
-batteryBankLarge,electrics,,Squad,"@PART[batteryBankLarge]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Electrical,
-FuelCell,electrics,,Squad,"@PART[FuelCell]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Electrical,
-FuelCellArray,electrics,,Squad,"@PART[FuelCellArray]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Electrical,
-domeLight1,electrics,,Squad,"@PART[domeLight1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Utility,
-navLight1,electrics,,Squad,"@PART[navLight1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Utility,
-spotLight3,electrics,,Squad,"@PART[spotLight3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Utility,
-stripLight1,electrics,,Squad,"@PART[stripLight1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Utility,
-spotLight1.v2,electrics,,Squad,"@PART[spotLight1.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Utility,
-spotLight2.v2,electrics,,Squad,"@PART[spotLight2.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Utility,
-restock-battery-1875-1,electrics,,RestockPlus,"@PART[restock-battery-1875-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Electrical,
-restock-battery-375-1,electrics,,RestockPlus,"@PART[restock-battery-375-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Electrical,
-restock-apu-radial-1,electrics,,RestockPlus,"@PART[restock-apu-radial-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = electrics
-}",Electrical,
-liquidEngineMini.v2,hypergol,2,Squad,"@PART[liquidEngineMini.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = hypergol2
-}",Engine,
-liquidEngine3.v2,hypergol,3,Squad,"@PART[liquidEngine3.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = hypergol3
-}",Engine,
-microEngine.v2,hypergol,4,Squad,"@PART[microEngine.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = hypergol4
-}",Engine,
-smallRadialEngine.v2,hypergol,7,Squad,"@PART[smallRadialEngine.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = hypergol7
-}",Engine,
-omsEngine,hypergol,9,Squad,"@PART[omsEngine]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = hypergol9
-}",Engine,
-liquidEngine2-2.v2,hypergol,?,Squad,"@PART[liquidEngine2-2.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = hypergol?
-}",Engine,
-LiquidEngineLV-T91,hypergol,6,SquadExpansion,"@PART[LiquidEngineLV-T91]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = hypergol6
-}",Engine,
-LiquidEngineLV-TX87,hypergol,6,SquadExpansion,"@PART[LiquidEngineLV-TX87]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = hypergol6
-}",Engine,
-LiquidEngineRE-J10,hypergol,9,SquadExpansion,"@PART[LiquidEngineRE-J10]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = hypergol9
-}",Engine,
-restock-engine-125-pug,hypergol,2,RestockPlus,"@PART[restock-engine-125-pug]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = hypergol2
-}",Engine,
-restock-engine-galleon-1,hypergol,6,RestockPlus,"@PART[restock-engine-galleon-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = hypergol6
-}",none,
-restock-engine-schnauzer-1,hypergol,6,RestockPlus,"@PART[restock-engine-schnauzer-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = hypergol6
-}",none,
-ionEngine,ions,7,Squad,"@PART[ionEngine]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = ions7
-}",Engine,
-xenonTank,ions,7,Squad,"@PART[xenonTank]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = ions7
-}",FuelTank,
-xenonTankRadial,ions,7,Squad,"@PART[xenonTankRadial]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = ions7
-}",FuelTank,
-xenonTankLarge,ions,8,Squad,"@PART[xenonTankLarge]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = ions8
-}",FuelTank,
-smallClaw,isru,9,Squad,"@PART[smallClaw]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = isru9
-}",Coupling,
-MiniDrill,isru,9,Squad,"@PART[MiniDrill]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = isru9
-}",Utility,
-MiniISRU,isru,9,Squad,"@PART[MiniISRU]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = isru9
-}",Utility,
-GrapplingDevice,isru,10,Squad,"@PART[GrapplingDevice]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = isru10
-}",Coupling,
-ISRU,isru,10,Squad,"@PART[ISRU]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = isru10
-}",Utility,
-RadialDrill,isru,10,Squad,"@PART[RadialDrill]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = isru10
-}",Utility,
-restock-claw-625-1,isru,9,RestockPlus,"@PART[restock-claw-625-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = isru9
-}",none,
-liquidEngine.v2,kerolox,2,Squad,"@PART[liquidEngine.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox2
-}",Engine,
-radialEngineMini.v2,kerolox,3,Squad,"@PART[radialEngineMini.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox3
-}",Engine,
-liquidEngine2.v2,kerolox,3,Squad,"@PART[liquidEngine2.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox3
-}",Engine,
-radialLiquidEngine1-2,kerolox,4,Squad,"@PART[radialLiquidEngine1-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox4
-}",Engine,
-engineLargeSkipper.v2,kerolox,5,Squad,"@PART[engineLargeSkipper.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox5
-}",Engine,
-liquidEngineMainsail.v2,kerolox,6,Squad,"@PART[liquidEngineMainsail.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox6
-}",Engine,
-SSME,kerolox,8,Squad,"@PART[SSME]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox8
-}",Engine,
-Size2LFB.v2,kerolox,8,Squad,"@PART[Size2LFB.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox8
-}",Engine,
-toroidalAerospike,kerolox,9,Squad,"@PART[toroidalAerospike]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox9
-}",Engine,
-LiquidEngineRK-7,kerolox,2,SquadExpansion,"@PART[LiquidEngineRK-7]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox2
-}",Engine,
-LiquidEngineRV-1,kerolox,3,SquadExpansion,"@PART[LiquidEngineRV-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox3
-}",Engine,
-LiquidEngineKE-1,kerolox,8,SquadExpansion,"@PART[LiquidEngineKE-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox8
-}",Engine,
-restock-engine-torch,kerolox,1,RestockPlus,"@PART[restock-engine-torch]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox1
-}",Engine,
-restock-engine-125-valiant,kerolox,1,RestockPlus,"@PART[restock-engine-125-valiant]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox1
-}",Engine,
-restock-engine-ursa-1,kerolox,2,RestockPlus,"@PART[restock-engine-ursa-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox2
-}",none,
-restock-engine-boar,kerolox,7,RestockPlus,"@PART[restock-engine-boar]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox7
-}",Engine,
-restock-engine-panda-1,kerolox,3,RestockPlus,"@PART[restock-engine-panda-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = kerolox3
-}",none,
-ladder1,landing,2,Squad,"@PART[ladder1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing2
-}",Utility,
-HeatShield0,landing,3,Squad,"@PART[HeatShield0]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing3
-}",Thermal,
-HeatShield1,landing,4,Squad,"@PART[HeatShield1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing4
-}",Thermal,
-HeatShield2,landing,6,Squad,"@PART[HeatShield2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing6
-}",Thermal,
-landerCabinSmall,landing,7,Squad,"@PART[landerCabinSmall]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing7
-}",Pods,
-mk2LanderCabin.v2,landing,8,Squad,"@PART[mk2LanderCabin.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing8
-}",Pods,
-HeatShield3,landing,8,Squad,"@PART[HeatShield3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing8
-}",Thermal,
-InflatableHeatShield,landing,9,Squad,"@PART[InflatableHeatShield]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing9
-}",Thermal,
-telescopicLadder,landing,7,Squad,"@PART[telescopicLadder]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing7
-}",Utility,
-telescopicLadderBay,landing,8,Squad,"@PART[telescopicLadderBay]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing8
-}",Utility,
-parachuteSingle,landing,,Squad,"@PART[parachuteSingle]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing
-}",Utility,
-radialDrogue,landing,,Squad,"@PART[radialDrogue]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing
-}",Utility,
-parachuteLarge,landing,,Squad,"@PART[parachuteLarge]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing
-}",Utility,
-parachuteRadial,landing,,Squad,"@PART[parachuteRadial]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing
-}",Utility,
-parachuteDrogue,landing,,Squad,"@PART[parachuteDrogue]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing
-}",Utility,
-HeatShield1p5,landing,5,SquadExpansion,"@PART[HeatShield1p5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing5
-}",Thermal,
-MEMLander,landing,8,SquadExpansion,"@PART[MEMLander]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing8
-}",Pods,
-restock-heatshield-1875-1,landing,5,RestockPlus,"@PART[restock-heatshield-1875-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing5
-}",none,
-restock-ladder-static-2,landing,,RestockPlus,"@PART[restock-ladder-static-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing
-}",Utility,
-restock-ladder-static-3,landing,,RestockPlus,"@PART[restock-ladder-static-3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = landing
-}",Utility,
-miniLandingLeg,logistics,5,Squad,"@PART[miniLandingLeg]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics5
-}",Ground,
-landingLeg1,logistics,6,Squad,"@PART[landingLeg1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics6
-}",Ground,
-landingLeg1-2,logistics,7,Squad,"@PART[landingLeg1-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics7
-}",Ground,
-cargoContainer,logistics,,Squad,"@PART[cargoContainer]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",Cargo,
-smallCargoContainer,logistics,,Squad,"@PART[smallCargoContainer]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",Cargo,
-evaCylinder,logistics,,Squad,"@PART[evaCylinder]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",Cargo,
-evaJetpack,logistics,,Squad,"@PART[evaJetpack]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",Cargo,
-CargoStorageUnit,logistics,,Squad,"@PART[CargoStorageUnit]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",Cargo,
-ConformalStorageUnit,logistics,,Squad,"@PART[ConformalStorageUnit]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",Cargo,
-LargeTank,logistics,,Squad,"@PART[LargeTank]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",FuelTank,
-RadialOreTank,logistics,,Squad,"@PART[RadialOreTank]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",FuelTank,
-SmallTank,logistics,,Squad,"@PART[SmallTank]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",FuelTank,
-Size1to0ServiceModule,logistics,,SquadExpansion,"@PART[Size1to0ServiceModule]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",Payload,
-ServiceModule18,logistics,,SquadExpansion,"@PART[ServiceModule18]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",Payload,
-ServiceModule25,logistics,,SquadExpansion,"@PART[ServiceModule25]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",Payload,
-restock-oretank-1875-1,logistics,,RestockPlus,"@PART[restock-oretank-1875-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",FuelTank,
-restock-oretank-375-1,logistics,,RestockPlus,"@PART[restock-oretank-375-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",FuelTank,
-restock-service-module-125-625-1,logistics,,RestockPlus,"@PART[restock-service-module-125-625-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",none,
-restock-service-module-1875-1,logistics,,RestockPlus,"@PART[restock-service-module-1875-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = logistics
-}",none,
-restock-engine-cherenkov,ntr,10,RestockPlus,"@PART[restock-engine-cherenkov]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = ntr10
-}",Engine,
-probeCoreHex,probes,,Squad,"@PART[probeCoreHex]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = probes
-}",none,
-MpoProbe,probes,,Squad,"@PART[MpoProbe]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = probes
-}",Pods,
-MtmStage,probes,,Squad,"@PART[MtmStage]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = probes
-}",Pods,
-probeCoreCube,probes,,Squad,"@PART[probeCoreCube]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = probes
-}",Pods,
-probeCoreHex.v2,probes,,Squad,"@PART[probeCoreHex.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = probes
-}",Pods,
-probeCoreOcto2.v2,probes,,Squad,"@PART[probeCoreOcto2.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = probes
-}",Pods,
-probeCoreOcto.v2,probes,,Squad,"@PART[probeCoreOcto.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = probes
-}",Pods,
-probeCoreSphere.v2,probes,,Squad,"@PART[probeCoreSphere.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = probes
-}",Pods,
-HECS2.ProbeCore,probes,,Squad,"@PART[HECS2.ProbeCore]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = probes
-}",Pods,
-rtg,reactors,6,Squad,"@PART[rtg]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = reactors6
-}",Electrical,
-nuclearEngine,reactors,8,Squad,"@PART[nuclearEngine]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = reactors8
-}",Engine,
-DeployedRTG,reactors,8,SquadExpansion,"@PART[DeployedRTG]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = reactors8
-}",Cargo,
-roverWheel1,robotics,,Squad,"@PART[roverWheel1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Ground,
-roverWheel2,robotics,,Squad,"@PART[roverWheel2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Ground,
-wheelMed,robotics,,Squad,"@PART[wheelMed]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Ground,
-roverWheel3,robotics,,Squad,"@PART[roverWheel3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Ground,
-roverBody,robotics,,Squad,"@PART[roverBody]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",none,
-roverBody.v2,robotics,,Squad,"@PART[roverBody.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Pods,
-roverWheelM1-F,robotics,,SquadExpansion,"@PART[roverWheelM1-F]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Ground,
-hinge.01,robotics,,SquadExpansion,"@PART[hinge.01]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-hinge.01.s,robotics,,SquadExpansion,"@PART[hinge.01.s]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-hinge.03,robotics,,SquadExpansion,"@PART[hinge.03]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-hinge.03.s,robotics,,SquadExpansion,"@PART[hinge.03.s]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-hinge.04,robotics,,SquadExpansion,"@PART[hinge.04]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-piston.01,robotics,,SquadExpansion,"@PART[piston.01]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-piston.02,robotics,,SquadExpansion,"@PART[piston.02]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-piston.03,robotics,,SquadExpansion,"@PART[piston.03]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-piston.04,robotics,,SquadExpansion,"@PART[piston.04]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-rotor.01,robotics,,SquadExpansion,"@PART[rotor.01]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-rotor.01s,robotics,,SquadExpansion,"@PART[rotor.01s]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-rotor.02,robotics,,SquadExpansion,"@PART[rotor.02]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-rotor.02s,robotics,,SquadExpansion,"@PART[rotor.02s]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-rotor.03,robotics,,SquadExpansion,"@PART[rotor.03]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-rotor.03s,robotics,,SquadExpansion,"@PART[rotor.03s]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-rotoServo.00,robotics,,SquadExpansion,"@PART[rotoServo.00]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-rotoServo.02,robotics,,SquadExpansion,"@PART[rotoServo.02]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-rotoServo.03,robotics,,SquadExpansion,"@PART[rotoServo.03]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-rotoServo.04,robotics,,SquadExpansion,"@PART[rotoServo.04]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-controller1000,robotics,,SquadExpansion,"@PART[controller1000]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Robotics,
-restock-wheel-1-T,robotics,,RestockPlus,"@PART[restock-wheel-1-T]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",Ground,
-restock-wheel-4,robotics,,RestockPlus,"@PART[restock-wheel-4]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = robotics
-}",none,
-fireworksLauncherBig,science,0,Squad,"@PART[fireworksLauncherBig]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science0
-}",Utility,
-fireworksLauncherSmall,science,0,Squad,"@PART[fireworksLauncherSmall]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science0
-}",Utility,
-evaScienceKit,science,,Squad,"@PART[evaScienceKit]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Cargo,
-InfraredTelescope,science,,Squad,"@PART[InfraredTelescope]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-OrbitalScanner,science,,Squad,"@PART[OrbitalScanner]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-SurfaceScanner,science,,Squad,"@PART[SurfaceScanner]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-SurveyScanner,science,,Squad,"@PART[SurveyScanner]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-sensorAtmosphere,science,,Squad,"@PART[sensorAtmosphere]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-GooExperiment,science,,Squad,"@PART[GooExperiment]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-Large.Crewed.Lab,science,,Squad,"@PART[Large.Crewed.Lab]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-Magnetometer,science,,Squad,"@PART[Magnetometer]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-science.module,science,,Squad,"@PART[science.module]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-ScienceBox,science,,Squad,"@PART[ScienceBox]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-sensorAccelerometer,science,,Squad,"@PART[sensorAccelerometer]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-sensorBarometer,science,,Squad,"@PART[sensorBarometer]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-sensorGravimeter,science,,Squad,"@PART[sensorGravimeter]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-sensorThermometer,science,,Squad,"@PART[sensorThermometer]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-DeployedCentralStation,science,8,SquadExpansion,"@PART[DeployedCentralStation]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science8
-}",Cargo,
-DeployedGoExOb,science,8,SquadExpansion,"@PART[DeployedGoExOb]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science8
-}",Cargo,
-DeployedIONExp,science,8,SquadExpansion,"@PART[DeployedIONExp]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science8
-}",Cargo,
-DeployedSeismicSensor,science,8,SquadExpansion,"@PART[DeployedSeismicSensor]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science8
-}",Cargo,
-DeployedWeatherStn,science,9,SquadExpansion,"@PART[DeployedWeatherStn]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science9
-}",Cargo,
-RobotArmScanner.S1,science,,SquadExpansion,"@PART[RobotArmScanner.S1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-RobotArmScanner.S2,science,,SquadExpansion,"@PART[RobotArmScanner.S2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-RobotArmScanner.S3,science,,SquadExpansion,"@PART[RobotArmScanner.S3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-restock-goocanister-625-1,science,,RestockPlus,"@PART[restock-goocanister-625-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-restock-materialbay-radial-1,science,,RestockPlus,"@PART[restock-materialbay-radial-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-restock-sciencebox-stack-1,science,,RestockPlus,"@PART[restock-sciencebox-stack-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = science
-}",Science,
-solarPanelOX10C,solar,,Squad,"@PART[solarPanelOX10C]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solar
-}",Electrical,
-solarPanelSP10C,solar,,Squad,"@PART[solarPanelSP10C]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solar
-}",Electrical,
-solarPanelOX10L,solar,,Squad,"@PART[solarPanelOX10L]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solar
-}",Electrical,
-solarPanelSP10L,solar,,Squad,"@PART[solarPanelSP10L]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solar
-}",Electrical,
-solarPanels2,solar,,Squad,"@PART[solarPanels2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solar
-}",Electrical,
-solarPanels4,solar,,Squad,"@PART[solarPanels4]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solar
-}",Electrical,
-solarPanels1,solar,,Squad,"@PART[solarPanels1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solar
-}",Electrical,
-solarPanels3,solar,,Squad,"@PART[solarPanels3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solar
-}",Electrical,
-largeSolarPanel,solar,,Squad,"@PART[largeSolarPanel]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solar
-}",Electrical,
-solarPanels5,solar,,Squad,"@PART[solarPanels5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solar
-}",Electrical,
-LgRadialSolarPanel,solar,,Squad,"@PART[LgRadialSolarPanel]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solar
-}",Electrical,
-DeployedSolarPanel,solar,8,SquadExpansion,"@PART[DeployedSolarPanel]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solar8
-}",Cargo,
-Mite,solids,0,Squad,"@PART[Mite]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solids0
-}",Engine,
-solidBooster.v2,solids,2,Squad,"@PART[solidBooster.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solids2
-}",Engine,
-solidBooster.sm.v2,solids,2,Squad,"@PART[solidBooster.sm.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solids2
-}",Engine,
-sepMotor1,solids,2,Squad,"@PART[sepMotor1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solids2
-}",Engine,
-Shrimp,solids,2,Squad,"@PART[Shrimp]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solids2
-}",Engine,
-solidBooster1-1,solids,4,Squad,"@PART[solidBooster1-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solids4
-}",Engine,
-MassiveBooster,solids,6,Squad,"@PART[MassiveBooster]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solids6
-}",Engine,
-Thoroughbred,solids,7,Squad,"@PART[Thoroughbred]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solids7
-}",Engine,
-Clydesdale,solids,7,Squad,"@PART[Clydesdale]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solids7
-}",Engine,
-Pollux,solids,8,SquadExpansion,"@PART[Pollux]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solids8
-}",Engine,
-restock-srb-mallet-1,solids,1,RestockPlus,"@PART[restock-srb-mallet-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solids1
-}",none,
-restock-srb-striker-1,solids,3,RestockPlus,"@PART[restock-srb-striker-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solids3
-}",none,
-restock-srb-anvil-1,solids,8,RestockPlus,"@PART[restock-srb-anvil-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solids8
-}",none,
-restock-srb-castor-1,solids,8,RestockPlus,"@PART[restock-srb-castor-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = solids8
-}",none,
-shockConeIntake,spaceplanes,,Squad,"@PART[shockConeIntake]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceplanes
-}",Aero,
-ramAirIntake,spaceplanes,,Squad,"@PART[ramAirIntake]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceplanes
-}",Aero,
-radialEngineBody,spaceplanes,,Squad,"@PART[radialEngineBody]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceplanes
-}",Aero,
-turboJet,spaceplanes,,Squad,"@PART[turboJet]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceplanes
-}",Engine,
-turboFanEngine,spaceplanes,,Squad,"@PART[turboFanEngine]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceplanes
-}",Engine,
-RAPIER,spaceplanes,,Squad,"@PART[RAPIER]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceplanes
-}",Engine,
-dockingPort2,spaceStations,,Squad,"@PART[dockingPort2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceStations
-}",Coupling,
-dockingPortLateral,spaceStations,,Squad,"@PART[dockingPortLateral]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceStations
-}",Coupling,
-dockingPort3,spaceStations,,Squad,"@PART[dockingPort3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceStations
-}",Coupling,
-dockingPort1,spaceStations,,Squad,"@PART[dockingPort1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceStations
-}",Coupling,
-dockingPortLarge,spaceStations,,Squad,"@PART[dockingPortLarge]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceStations
-}",Coupling,
-mk2DockingPort,spaceStations,,Squad,"@PART[mk2DockingPort]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceStations
-}",Coupling,
-cupola,spaceStations,,Squad,"@PART[cupola]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceStations
-}",Pods,
-stationHub,spaceStations,,Squad,"@PART[stationHub]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceStations
-}",Structural,
-crewCabin,spaceStations,,Squad,"@PART[crewCabin]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceStations
-}",Utility,
-restock-airlock-1,spaceStations,,RestockPlus,"@PART[restock-airlock-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = spaceStations
-}",none,
-winglet,control,1,Squad,"@PART[winglet]:AFTER[Bluedog_DB] //
+winglet,control,1,Squad,"@PART[winglet]:AFTER[Squad] //
 {
 	@TechRequired = control1
 }",Aero,
-basicFin,start,,Squad,"@PART[basicFin]:AFTER[Bluedog_DB] //
+probeStackSmall,control,2,Squad,"@PART[probeStackSmall]:AFTER[Squad] //
+{
+	@TechRequired = control2
+}",Pods,
+sasModule,control,3,Squad,"@PART[sasModule]:AFTER[Squad] //
+{
+	@TechRequired = control3
+}",Control,
+RCSblock.01.small,control,3,Squad,"@PART[RCSblock.01.small]:AFTER[Squad] //
+{
+	@TechRequired = control3
+}",Control,
+RCSLinearSmall,control,3,Squad,"@PART[RCSLinearSmall]:AFTER[Squad] //
+{
+	@TechRequired = control3
+}",Control,
+R8winglet,control,3,Squad,"@PART[R8winglet]:AFTER[Squad] //
+{
+	@TechRequired = control3
+}",Aero,
+advSasModule,control,4,Squad,"@PART[advSasModule]:AFTER[Squad] //
+{
+	@TechRequired = control4
+}",Control,
+linearRcs,control,5,Squad,"@PART[linearRcs]:AFTER[Squad] //
+{
+	@TechRequired = control5
+}",Control,
+RCSBlock.v2,control,5,Squad,"@PART[RCSBlock.v2]:AFTER[Squad] //
+{
+	@TechRequired = control5
+}",Control,
+winglet3,control,5,Squad,"@PART[winglet3]:AFTER[Squad] //
+{
+	@TechRequired = control5
+}",Aero,
+probeStackLarge,control,5,Squad,"@PART[probeStackLarge]:AFTER[Squad] //
+{
+	@TechRequired = control5
+}",Pods,
+avionicsNoseCone,control,6,Squad,"@PART[avionicsNoseCone]:AFTER[Squad] //
+{
+	@TechRequired = control6
+}",Control,
+asasmodule1-2,control,6,Squad,"@PART[asasmodule1-2]:AFTER[Squad] //
+{
+	@TechRequired = control6
+}",Control,
+vernierEngine,control,7,Squad,"@PART[vernierEngine]:AFTER[Squad] //
+{
+	@TechRequired = control7
+}",Control,
+mk2DroneCore,control,9,Squad,"@PART[mk2DroneCore]:AFTER[Squad] //
+{
+	@TechRequired = control9
+}",Pods,
+Size3EngineCluster,cryo,8,Squad,"@PART[Size3EngineCluster]:AFTER[Squad] //
+{
+	@TechRequired = cryo8
+}",Engine,
+Size3AdvancedEngine,cryo,9,Squad,"@PART[Size3AdvancedEngine]:AFTER[Squad] //
+{
+	@TechRequired = cryo9
+}",Engine,
+rocketNoseCone.v2,debug,,Squad,"@PART[rocketNoseCone.v2]:AFTER[Squad] //
+{
+	@TechRequired = debug
+}",none,
+adapterEngines,debug,,Squad,"@PART[adapterEngines]:AFTER[Squad] //
+{
+	@TechRequired = debug
+}",Structural,
+smallRadialEngine,debug,,Squad,"@PART[smallRadialEngine]:AFTER[Squad] //
+{
+	@TechRequired = debug
+}",none,
+liquidEngine,debug,,Squad,"@PART[liquidEngine]:AFTER[Squad] //
+{
+	@TechRequired = debug
+}",none,
+liquidEngine2,debug,,Squad,"@PART[liquidEngine2]:AFTER[Squad] //
+{
+	@TechRequired = debug
+}",none,
+Size2LFB,debug,,Squad,"@PART[Size2LFB]:AFTER[Squad] //
+{
+	@TechRequired = debug
+}",none,
+PotatoComet,debug,,Squad,"@PART[PotatoComet]:AFTER[Squad] //
+{
+	@TechRequired = debug
+}",none,
+PotatoRoid,debug,,Squad,"@PART[PotatoRoid]:AFTER[Squad] //
+{
+	@TechRequired = debug
+}",none,
+HighGainAntenna5,debug,,Squad,"@PART[HighGainAntenna5]:AFTER[Squad] //
+{
+	@TechRequired = debug
+}",none,
+spotLight1,debug,,Squad,"@PART[spotLight1]:AFTER[Squad] //
+{
+	@TechRequired = debug
+}",none,
+spotLight2,debug,,Squad,"@PART[spotLight2]:AFTER[Squad] //
+{
+	@TechRequired = debug
+}",none,
+mk2LanderCabin,debug,,Squad,"@PART[mk2LanderCabin]:AFTER[Squad] //
+{
+	@TechRequired = debug
+}",none,
+science.module,debug,,Squad,"@PART[science.module]:AFTER[Squad] //
+{
+	@TechRequired = debug
+}",Science,
+domeLight1,electrics,1,Squad,"@PART[domeLight1]:AFTER[Squad] //
+{
+	@TechRequired = electrics1
+}",Utility,
+navLight1,electrics,1,Squad,"@PART[navLight1]:AFTER[Squad] //
+{
+	@TechRequired = electrics1
+}",Utility,
+batteryPack,electrics,3,Squad,"@PART[batteryPack]:AFTER[Squad] //
+{
+	@TechRequired = electrics3
+}",Electrical,
+batteryBankMini,electrics,4,Squad,"@PART[batteryBankMini]:AFTER[Squad] //
+{
+	@TechRequired = electrics4
+}",Electrical,
+ksp.r.largeBatteryPack,electrics,5,Squad,"@PART[ksp.r.largeBatteryPack]:AFTER[Squad] //
+{
+	@TechRequired = electrics5
+}",Electrical,
+FuelCell,electrics,5,Squad,"@PART[FuelCell]:AFTER[Squad] //
+{
+	@TechRequired = electrics5
+}",Electrical,
+batteryBank,electrics,6,Squad,"@PART[batteryBank]:AFTER[Squad] //
+{
+	@TechRequired = electrics6
+}",Electrical,
+spotLight3,electrics,7,Squad,"@PART[spotLight3]:AFTER[Squad] //
+{
+	@TechRequired = electrics7
+}",Utility,
+stripLight1,electrics,7,Squad,"@PART[stripLight1]:AFTER[Squad] //
+{
+	@TechRequired = electrics7
+}",Utility,
+spotLight1.v2,electrics,7,Squad,"@PART[spotLight1.v2]:AFTER[Squad] //
+{
+	@TechRequired = electrics7
+}",Utility,
+spotLight2.v2,electrics,7,Squad,"@PART[spotLight2.v2]:AFTER[Squad] //
+{
+	@TechRequired = electrics7
+}",Utility,
+batteryBankLarge,electrics,8,Squad,"@PART[batteryBankLarge]:AFTER[Squad] //
+{
+	@TechRequired = electrics8
+}",Electrical,
+groundLight1,electrics,9,Squad,"@PART[groundLight1]:AFTER[Squad] //
+{
+	@TechRequired = electrics9
+}",Cargo,
+groundLight2,electrics,9,Squad,"@PART[groundLight2]:AFTER[Squad] //
+{
+	@TechRequired = electrics9
+}",Cargo,
+FuelCellArray,electrics,9,Squad,"@PART[FuelCellArray]:AFTER[Squad] //
+{
+	@TechRequired = electrics9
+}",Electrical,
+liquidEngineMini.v2,hypergol,2,Squad,"@PART[liquidEngineMini.v2]:AFTER[Squad] //
+{
+	@TechRequired = hypergol2
+}",Engine,
+liquidEngine3.v2,hypergol,3,Squad,"@PART[liquidEngine3.v2]:AFTER[Squad] //
+{
+	@TechRequired = hypergol3
+}",Engine,
+microEngine.v2,hypergol,4,Squad,"@PART[microEngine.v2]:AFTER[Squad] //
+{
+	@TechRequired = hypergol4
+}",Engine,
+smallRadialEngine.v2,hypergol,7,Squad,"@PART[smallRadialEngine.v2]:AFTER[Squad] //
+{
+	@TechRequired = hypergol7
+}",Engine,
+omsEngine,hypergol,9,Squad,"@PART[omsEngine]:AFTER[Squad] //
+{
+	@TechRequired = hypergol9
+}",Engine,
+liquidEngine2-2.v2,hypergol,?,Squad,"@PART[liquidEngine2-2.v2]:AFTER[Squad] //
+{
+	@TechRequired = hypergol?
+}",Engine,
+ionEngine,ions,7,Squad,"@PART[ionEngine]:AFTER[Squad] //
+{
+	@TechRequired = ions7
+}",Engine,
+xenonTank,ions,7,Squad,"@PART[xenonTank]:AFTER[Squad] //
+{
+	@TechRequired = ions7
+}",FuelTank,
+xenonTankRadial,ions,7,Squad,"@PART[xenonTankRadial]:AFTER[Squad] //
+{
+	@TechRequired = ions7
+}",FuelTank,
+xenonTankLarge,ions,8,Squad,"@PART[xenonTankLarge]:AFTER[Squad] //
+{
+	@TechRequired = ions8
+}",FuelTank,
+smallClaw,isru,9,Squad,"@PART[smallClaw]:AFTER[Squad] //
+{
+	@TechRequired = isru9
+}",Coupling,
+MiniDrill,isru,9,Squad,"@PART[MiniDrill]:AFTER[Squad] //
+{
+	@TechRequired = isru9
+}",Utility,
+MiniISRU,isru,9,Squad,"@PART[MiniISRU]:AFTER[Squad] //
+{
+	@TechRequired = isru9
+}",Utility,
+GrapplingDevice,isru,10,Squad,"@PART[GrapplingDevice]:AFTER[Squad] //
+{
+	@TechRequired = isru10
+}",Coupling,
+ISRU,isru,10,Squad,"@PART[ISRU]:AFTER[Squad] //
+{
+	@TechRequired = isru10
+}",Utility,
+RadialDrill,isru,10,Squad,"@PART[RadialDrill]:AFTER[Squad] //
+{
+	@TechRequired = isru10
+}",Utility,
+liquidEngine.v2,kerolox,2,Squad,"@PART[liquidEngine.v2]:AFTER[Squad] //
+{
+	@TechRequired = kerolox2
+}",Engine,
+radialEngineMini.v2,kerolox,3,Squad,"@PART[radialEngineMini.v2]:AFTER[Squad] //
+{
+	@TechRequired = kerolox3
+}",Engine,
+liquidEngine2.v2,kerolox,3,Squad,"@PART[liquidEngine2.v2]:AFTER[Squad] //
+{
+	@TechRequired = kerolox3
+}",Engine,
+radialLiquidEngine1-2,kerolox,4,Squad,"@PART[radialLiquidEngine1-2]:AFTER[Squad] //
+{
+	@TechRequired = kerolox4
+}",Engine,
+engineLargeSkipper.v2,kerolox,5,Squad,"@PART[engineLargeSkipper.v2]:AFTER[Squad] //
+{
+	@TechRequired = kerolox5
+}",Engine,
+liquidEngineMainsail.v2,kerolox,6,Squad,"@PART[liquidEngineMainsail.v2]:AFTER[Squad] //
+{
+	@TechRequired = kerolox6
+}",Engine,
+SSME,kerolox,8,Squad,"@PART[SSME]:AFTER[Squad] //
+{
+	@TechRequired = kerolox8
+}",Engine,
+Size2LFB.v2,kerolox,8,Squad,"@PART[Size2LFB.v2]:AFTER[Squad] //
+{
+	@TechRequired = kerolox8
+}",Engine,
+toroidalAerospike,kerolox,9,Squad,"@PART[toroidalAerospike]:AFTER[Squad] //
+{
+	@TechRequired = kerolox9
+}",Engine,
+ladder1,landing,2,Squad,"@PART[ladder1]:AFTER[Squad] //
+{
+	@TechRequired = landing2
+}",Utility,
+HeatShield0,landing,3,Squad,"@PART[HeatShield0]:AFTER[Squad] //
+{
+	@TechRequired = landing3
+}",Thermal,
+HeatShield1,landing,4,Squad,"@PART[HeatShield1]:AFTER[Squad] //
+{
+	@TechRequired = landing4
+}",Thermal,
+radialDrogue,landing,4,Squad,"@PART[radialDrogue]:AFTER[Squad] //
+{
+	@TechRequired = landing4
+}",Utility,
+parachuteSingle,landing,5,Squad,"@PART[parachuteSingle]:AFTER[Squad] //
+{
+	@TechRequired = landing5
+}",Utility,
+HeatShield2,landing,6,Squad,"@PART[HeatShield2]:AFTER[Squad] //
+{
+	@TechRequired = landing6
+}",Thermal,
+parachuteRadial,landing,6,Squad,"@PART[parachuteRadial]:AFTER[Squad] //
+{
+	@TechRequired = landing6
+}",Utility,
+landerCabinSmall,landing,7,Squad,"@PART[landerCabinSmall]:AFTER[Squad] //
+{
+	@TechRequired = landing7
+}",Pods,
+telescopicLadder,landing,7,Squad,"@PART[telescopicLadder]:AFTER[Squad] //
+{
+	@TechRequired = landing7
+}",Utility,
+parachuteDrogue,landing,7,Squad,"@PART[parachuteDrogue]:AFTER[Squad] //
+{
+	@TechRequired = landing7
+}",Utility,
+mk2LanderCabin.v2,landing,8,Squad,"@PART[mk2LanderCabin.v2]:AFTER[Squad] //
+{
+	@TechRequired = landing8
+}",Pods,
+HeatShield3,landing,8,Squad,"@PART[HeatShield3]:AFTER[Squad] //
+{
+	@TechRequired = landing8
+}",Thermal,
+telescopicLadderBay,landing,8,Squad,"@PART[telescopicLadderBay]:AFTER[Squad] //
+{
+	@TechRequired = landing8
+}",Utility,
+parachuteLarge,landing,8,Squad,"@PART[parachuteLarge]:AFTER[Squad] //
+{
+	@TechRequired = landing8
+}",Utility,
+InflatableHeatShield,landing,9,Squad,"@PART[InflatableHeatShield]:AFTER[Squad] //
+{
+	@TechRequired = landing9
+}",Thermal,
+miniLandingLeg,landing,5,Squad,"@PART[miniLandingLeg]:AFTER[Squad] //
+{
+	@TechRequired = landing5
+}",Ground,
+landingLeg1,landing,6,Squad,"@PART[landingLeg1]:AFTER[Squad] //
+{
+	@TechRequired = landing6
+}",Ground,
+landingLeg1-2,landing,7,Squad,"@PART[landingLeg1-2]:AFTER[Squad] //
+{
+	@TechRequired = landing7
+}",Ground,
+smallCargoContainer,logistics,7,Squad,"@PART[smallCargoContainer]:AFTER[Squad] //
+{
+	@TechRequired = logistics7
+}",Cargo,
+evaCylinder,logistics,7,Squad,"@PART[evaCylinder]:AFTER[Squad] //
+{
+	@TechRequired = logistics7
+}",Cargo,
+evaJetpack,logistics,7,Squad,"@PART[evaJetpack]:AFTER[Squad] //
+{
+	@TechRequired = logistics7
+}",Cargo,
+ConformalStorageUnit,logistics,7,Squad,"@PART[ConformalStorageUnit]:AFTER[Squad] //
+{
+	@TechRequired = logistics7
+}",Cargo,
+cargoContainer,logistics,8,Squad,"@PART[cargoContainer]:AFTER[Squad] //
+{
+	@TechRequired = logistics8
+}",Cargo,
+CargoStorageUnit,logistics,9,Squad,"@PART[CargoStorageUnit]:AFTER[Squad] //
+{
+	@TechRequired = logistics9
+}",Cargo,
+RadialOreTank,logistics,9,Squad,"@PART[RadialOreTank]:AFTER[Squad] //
+{
+	@TechRequired = logistics9
+}",FuelTank,
+SmallTank,logistics,9,Squad,"@PART[SmallTank]:AFTER[Squad] //
+{
+	@TechRequired = logistics9
+}",FuelTank,
+LargeTank,logistics,11,Squad,"@PART[LargeTank]:AFTER[Squad] //
+{
+	@TechRequired = logistics11
+}",FuelTank,
+probeCoreSphere.v2,probes,2,Squad,"@PART[probeCoreSphere.v2]:AFTER[Squad] //
+{
+	@TechRequired = probes2
+}",Pods,
+probeCoreOcto.v2,probes,3,Squad,"@PART[probeCoreOcto.v2]:AFTER[Squad] //
+{
+	@TechRequired = probes3
+}",Pods,
+probeCoreHex,probes,4,Squad,"@PART[probeCoreHex]:AFTER[Squad] //
+{
+	@TechRequired = probes4
+}",none,
+probeCoreCube,probes,5,Squad,"@PART[probeCoreCube]:AFTER[Squad] //
+{
+	@TechRequired = probes5
+}",Pods,
+probeCoreOcto2.v2,probes,6,Squad,"@PART[probeCoreOcto2.v2]:AFTER[Squad] //
+{
+	@TechRequired = probes6
+}",Pods,
+probeCoreHex.v2,probes,7,Squad,"@PART[probeCoreHex.v2]:AFTER[Squad] //
+{
+	@TechRequired = probes7
+}",Pods,
+HECS2.ProbeCore,probes,8,Squad,"@PART[HECS2.ProbeCore]:AFTER[Squad] //
+{
+	@TechRequired = probes8
+}",Pods,
+MpoProbe,probes,9,Squad,"@PART[MpoProbe]:AFTER[Squad] //
+{
+	@TechRequired = probes9
+}",Pods,
+MtmStage,probes,9,Squad,"@PART[MtmStage]:AFTER[Squad] //
+{
+	@TechRequired = probes9
+}",Pods,
+rtg,reactors,6,Squad,"@PART[rtg]:AFTER[Squad] //
+{
+	@TechRequired = reactors6
+}",Electrical,
+nuclearEngine,reactors,8,Squad,"@PART[nuclearEngine]:AFTER[Squad] //
+{
+	@TechRequired = reactors8
+}",Engine,
+roverWheel2,robotics,7,Squad,"@PART[roverWheel2]:AFTER[Squad] //
+{
+	@TechRequired = robotics7
+}",Ground,
+roverBody,robotics,7,Squad,"@PART[roverBody]:AFTER[Squad] //
+{
+	@TechRequired = robotics7
+}",none,
+roverBody.v2,robotics,7,Squad,"@PART[roverBody.v2]:AFTER[Squad] //
+{
+	@TechRequired = robotics7
+}",Pods,
+roverWheel1,robotics,9,Squad,"@PART[roverWheel1]:AFTER[Squad] //
+{
+	@TechRequired = robotics9
+}",Ground,
+wheelMed,robotics,10,Squad,"@PART[wheelMed]:AFTER[Squad] //
+{
+	@TechRequired = robotics10
+}",Ground,
+roverWheel3,robotics,11,Squad,"@PART[roverWheel3]:AFTER[Squad] //
+{
+	@TechRequired = robotics11
+}",Ground,
+fireworksLauncherBig,science,0,Squad,"@PART[fireworksLauncherBig]:AFTER[Squad] //
+{
+	@TechRequired = science0
+}",Utility,
+fireworksLauncherSmall,science,0,Squad,"@PART[fireworksLauncherSmall]:AFTER[Squad] //
+{
+	@TechRequired = science0
+}",Utility,
+sensorThermometer,science,0,Squad,"@PART[sensorThermometer]:AFTER[Squad] //
+{
+	@TechRequired = science0
+}",Science,
+sensorBarometer,science,1,Squad,"@PART[sensorBarometer]:AFTER[Squad] //
+{
+	@TechRequired = science1
+}",Science,
+Magnetometer,science,3,Squad,"@PART[Magnetometer]:AFTER[Squad] //
+{
+	@TechRequired = science3
+}",Science,
+ScienceBox,science,4,Squad,"@PART[ScienceBox]:AFTER[Squad] //
+{
+	@TechRequired = science4
+}",Science,
+GooExperiment,science,5,Squad,"@PART[GooExperiment]:AFTER[Squad] //
+{
+	@TechRequired = science5
+}",Science,
+sensorAccelerometer,science,5,Squad,"@PART[sensorAccelerometer]:AFTER[Squad] //
+{
+	@TechRequired = science5
+}",Science,
+evaScienceKit,science,6,Squad,"@PART[evaScienceKit]:AFTER[Squad] //
+{
+	@TechRequired = science6
+}",Cargo,
+sensorGravimeter,science,6,Squad,"@PART[sensorGravimeter]:AFTER[Squad] //
+{
+	@TechRequired = science6
+}",Science,
+sensorAtmosphere,science,8,Squad,"@PART[sensorAtmosphere]:AFTER[Squad] //
+{
+	@TechRequired = science8
+}",Science,
+Large.Crewed.Lab,science,8,Squad,"@PART[Large.Crewed.Lab]:AFTER[Squad] //
+{
+	@TechRequired = science8
+}",Science,
+OrbitalScanner,science,9,Squad,"@PART[OrbitalScanner]:AFTER[Squad] //
+{
+	@TechRequired = science9
+}",Science,
+SurfaceScanner,science,9,Squad,"@PART[SurfaceScanner]:AFTER[Squad] //
+{
+	@TechRequired = science9
+}",Science,
+SurveyScanner,science,9,Squad,"@PART[SurveyScanner]:AFTER[Squad] //
+{
+	@TechRequired = science9
+}",Science,
+InfraredTelescope,science,10,Squad,"@PART[InfraredTelescope]:AFTER[Squad] //
+{
+	@TechRequired = science10
+}",Science,
+solarPanels5,solar,3,Squad,"@PART[solarPanels5]:AFTER[Squad] //
+{
+	@TechRequired = solar3
+}",Electrical,
+solarPanels4,solar,4,Squad,"@PART[solarPanels4]:AFTER[Squad] //
+{
+	@TechRequired = solar4
+}",Electrical,
+solarPanels3,solar,4,Squad,"@PART[solarPanels3]:AFTER[Squad] //
+{
+	@TechRequired = solar4
+}",Electrical,
+solarPanels2,solar,5,Squad,"@PART[solarPanels2]:AFTER[Squad] //
+{
+	@TechRequired = solar5
+}",Electrical,
+solarPanels1,solar,5,Squad,"@PART[solarPanels1]:AFTER[Squad] //
+{
+	@TechRequired = solar5
+}",Electrical,
+LgRadialSolarPanel,solar,5,Squad,"@PART[LgRadialSolarPanel]:AFTER[Squad] //
+{
+	@TechRequired = solar5
+}",Electrical,
+solarPanelOX10C,solar,7,Squad,"@PART[solarPanelOX10C]:AFTER[Squad] //
+{
+	@TechRequired = solar7
+}",Electrical,
+solarPanelOX10L,solar,7,Squad,"@PART[solarPanelOX10L]:AFTER[Squad] //
+{
+	@TechRequired = solar7
+}",Electrical,"Why not? Might not be completely realistic, but creates some variety!"
+largeSolarPanel,solar,8,Squad,"@PART[largeSolarPanel]:AFTER[Squad] //
+{
+	@TechRequired = solar8
+}",Electrical,
+solarPanelSP10C,solar,9,Squad,"@PART[solarPanelSP10C]:AFTER[Squad] //
+{
+	@TechRequired = solar9
+}",Electrical,
+solarPanelSP10L,solar,9,Squad,"@PART[solarPanelSP10L]:AFTER[Squad] //
+{
+	@TechRequired = solar9
+}",Electrical,
+Mite,solids,0,Squad,"@PART[Mite]:AFTER[Squad] //
+{
+	@TechRequired = solids0
+}",Engine,Isn't it part of EUS?
+solidBooster.v2,solids,2,Squad,"@PART[solidBooster.v2]:AFTER[Squad] //
+{
+	@TechRequired = solids2
+}",Engine,
+solidBooster.sm.v2,solids,2,Squad,"@PART[solidBooster.sm.v2]:AFTER[Squad] //
+{
+	@TechRequired = solids2
+}",Engine,
+sepMotor1,solids,2,Squad,"@PART[sepMotor1]:AFTER[Squad] //
+{
+	@TechRequired = solids2
+}",Engine,
+Shrimp,solids,1,Squad,"@PART[Shrimp]:AFTER[Squad] //
+{
+	@TechRequired = solids1
+}",Engine,
+solidBooster1-1,solids,4,Squad,"@PART[solidBooster1-1]:AFTER[Squad] //
+{
+	@TechRequired = solids4
+}",Engine,
+MassiveBooster,solids,6,Squad,"@PART[MassiveBooster]:AFTER[Squad] //
+{
+	@TechRequired = solids6
+}",Engine,
+Thoroughbred,solids,7,Squad,"@PART[Thoroughbred]:AFTER[Squad] //
+{
+	@TechRequired = solids7
+}",Engine,
+Clydesdale,solids,7,Squad,"@PART[Clydesdale]:AFTER[Squad] //
+{
+	@TechRequired = solids7
+}",Engine,
+turboJet,spaceplanes,5,Squad,"@PART[turboJet]:AFTER[Squad] //
+{
+	@TechRequired = spaceplanes5
+}",Engine,
+shockConeIntake,spaceplanes,6,Squad,"@PART[shockConeIntake]:AFTER[Squad] //
+{
+	@TechRequired = spaceplanes6
+}",Aero,
+turboFanEngine,spaceplanes,6,Squad,"@PART[turboFanEngine]:AFTER[Squad] //
+{
+	@TechRequired = spaceplanes6
+}",Engine,
+ramAirIntake,spaceplanes,7,Squad,"@PART[ramAirIntake]:AFTER[Squad] //
+{
+	@TechRequired = spaceplanes7
+}",Aero,
+radialEngineBody,spaceplanes,7,Squad,"@PART[radialEngineBody]:AFTER[Squad] //
+{
+	@TechRequired = spaceplanes7
+}",Aero,
+RAPIER,spaceplanes,9,Squad,"@PART[RAPIER]:AFTER[Squad] //
+{
+	@TechRequired = spaceplanes9
+}",Engine,
+dockingPort3,spaceStations,6,Squad,"@PART[dockingPort3]:AFTER[Squad] //
+{
+	@TechRequired = spaceStations6
+}",Coupling,
+stationHub,spaceStations,6,Squad,"@PART[stationHub]:AFTER[Squad] //
+{
+	@TechRequired = spaceStations6
+}",Structural,
+dockingPort2,spaceStations,7,Squad,"@PART[dockingPort2]:AFTER[Squad] //
+{
+	@TechRequired = spaceStations7
+}",Coupling,
+dockingPortLateral,spaceStations,8,Squad,"@PART[dockingPortLateral]:AFTER[Squad] //
+{
+	@TechRequired = spaceStations8
+}",Coupling,
+dockingPort1,spaceStations,8,Squad,"@PART[dockingPort1]:AFTER[Squad] //
+{
+	@TechRequired = spaceStations8
+}",Coupling,
+dockingPortLarge,spaceStations,8,Squad,"@PART[dockingPortLarge]:AFTER[Squad] //
+{
+	@TechRequired = spaceStations8
+}",Coupling,
+cupola,spaceStations,8,Squad,"@PART[cupola]:AFTER[Squad] //
+{
+	@TechRequired = spaceStations8
+}",Pods,
+crewCabin,spaceStations,8,Squad,"@PART[crewCabin]:AFTER[Squad] //
+{
+	@TechRequired = spaceStations8
+}",Utility,
+mk2DockingPort,spaceStations,9,Squad,"@PART[mk2DockingPort]:AFTER[Squad] //
+{
+	@TechRequired = spaceStations9
+}",Coupling,
+SurfAntenna,start,,Squad,"@PART[SurfAntenna]:AFTER[Squad] //
+{
+	@TechRequired = start
+}",Communication,
+standardNoseCone,start,,Squad,"@PART[standardNoseCone]:AFTER[Squad] //
 {
 	@TechRequired = start
 }",Aero,
-fuelTank.long,tanks,1,Squad,"@PART[fuelTank.long]:AFTER[Bluedog_DB] //
+strutConnector,start,,Squad,"@PART[strutConnector]:AFTER[Squad] //
+{
+	@TechRequired = start
+}",Structural,
+basicFin,start,,Squad,"@PART[basicFin]:AFTER[Squad] //
+{
+	@TechRequired = start
+}",Aero,
+fuelTank.long,tanks,1,Squad,"@PART[fuelTank.long]:AFTER[Squad] //
 {
 	@TechRequired = tanks1
 }",FuelTank,
-miniFuelTank,tanks,2,Squad,"@PART[miniFuelTank]:AFTER[Bluedog_DB] //
+miniFuelTank,tanks,2,Squad,"@PART[miniFuelTank]:AFTER[Squad] //
 {
 	@TechRequired = tanks2
 }",FuelTank,
-fuelTankSmallFlat,tanks,2,Squad,"@PART[fuelTankSmallFlat]:AFTER[Bluedog_DB] //
+fuelTankSmallFlat,tanks,2,Squad,"@PART[fuelTankSmallFlat]:AFTER[Squad] //
 {
 	@TechRequired = tanks2
 }",FuelTank,
-fuelTankSmall,tanks,2,Squad,"@PART[fuelTankSmall]:AFTER[Bluedog_DB] //
+fuelTankSmall,tanks,2,Squad,"@PART[fuelTankSmall]:AFTER[Squad] //
 {
 	@TechRequired = tanks2
 }",FuelTank,
-fuelTank,tanks,2,Squad,"@PART[fuelTank]:AFTER[Bluedog_DB] //
+fuelTank,tanks,2,Squad,"@PART[fuelTank]:AFTER[Squad] //
 {
 	@TechRequired = tanks2
 }",FuelTank,
-Rockomax32.BW,tanks,5,Squad,"@PART[Rockomax32.BW]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks5
-}",FuelTank,
-Rockomax64.BW,tanks,5,Squad,"@PART[Rockomax64.BW]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks5
-}",FuelTank,
-externalTankRound,tanks,5,Squad,"@PART[externalTankRound]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks5
-}",Propulsion,
-Rockomax16.BW,tanks,6,Squad,"@PART[Rockomax16.BW]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks6
-}",FuelTank,
-Rockomax8BW,tanks,6,Squad,"@PART[Rockomax8BW]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks6
-}",FuelTank,
-externalTankCapsule,tanks,6,Squad,"@PART[externalTankCapsule]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks6
-}",Propulsion,
-Size3LargeTank,tanks,7,Squad,"@PART[Size3LargeTank]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks7
-}",Propulsion,
-Size3MediumTank,tanks,7,Squad,"@PART[Size3MediumTank]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks7
-}",Propulsion,
-Size3SmallTank,tanks,8,Squad,"@PART[Size3SmallTank]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks8
-}",Propulsion,
-fuelLine,tanks,,Squad,"@PART[fuelLine]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks
-}",FuelTank,
-adapterSize2-Size1,tanks,,Squad,"@PART[adapterSize2-Size1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks
-}",FuelTank,
-adapterSize2-Size1Slant,tanks,,Squad,"@PART[adapterSize2-Size1Slant]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks
-}",FuelTank,
-ReleaseValve,tanks,,Squad,"@PART[ReleaseValve]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks
-}",FuelTank,
-externalTankToroid,tanks,,Squad,"@PART[externalTankToroid]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks
-}",FuelTank,
-RCSTank1-2,tanks,,Squad,"@PART[RCSTank1-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks
-}",FuelTank,
-rcsTankMini,tanks,,Squad,"@PART[rcsTankMini]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks
-}",FuelTank,
-RCSFuelTank,tanks,,Squad,"@PART[RCSFuelTank]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks
-}",FuelTank,
-radialRCSTank,tanks,,Squad,"@PART[radialRCSTank]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks
-}",FuelTank,
-rcsTankRadialLong,tanks,,Squad,"@PART[rcsTankRadialLong]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks
-}",FuelTank,
-Size3To2Adapter.v2,tanks,,Squad,"@PART[Size3To2Adapter.v2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks
-}",FuelTank,
-Size1p5.Size0.Adapter.01,tanks,4,SquadExpansion,"@PART[Size1p5.Size0.Adapter.01]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks4
-}",FuelTank,
-Size1p5.Size1.Adapter.01,tanks,4,SquadExpansion,"@PART[Size1p5.Size1.Adapter.01]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks4
-}",FuelTank,
-Size1p5.Size1.Adapter.02,tanks,4,SquadExpansion,"@PART[Size1p5.Size1.Adapter.02]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks4
-}",FuelTank,
-Size1p5.Tank.04,tanks,4,SquadExpansion,"@PART[Size1p5.Tank.04]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks4
-}",FuelTank,
-Size1p5.Tank.05,tanks,4,SquadExpansion,"@PART[Size1p5.Tank.05]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks4
-}",FuelTank,
-monopropMiniSphere,tanks,4,SquadExpansion,"@PART[monopropMiniSphere]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks4
-}",Propulsion,
-Size1p5.Monoprop,tanks,5,SquadExpansion,"@PART[Size1p5.Monoprop]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks5
-}",FuelTank,
-Size1p5.Size2.Adapter.01,tanks,5,SquadExpansion,"@PART[Size1p5.Size2.Adapter.01]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks5
-}",FuelTank,
-Size1p5.Tank.01,tanks,5,SquadExpansion,"@PART[Size1p5.Tank.01]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks5
-}",FuelTank,
-Size1p5.Tank.02,tanks,5,SquadExpansion,"@PART[Size1p5.Tank.02]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks5
-}",FuelTank,
-Size1p5.Tank.03,tanks,5,SquadExpansion,"@PART[Size1p5.Tank.03]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks5
-}",FuelTank,
-Size3.Size4.Adapter.01,tanks,8,SquadExpansion,"@PART[Size3.Size4.Adapter.01]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks8
-}",FuelTank,
-Size4.EngineAdapter.01,tanks,8,SquadExpansion,"@PART[Size4.EngineAdapter.01]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks8
-}",FuelTank,
-Size4.Tank.01,tanks,8,SquadExpansion,"@PART[Size4.Tank.01]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks8
-}",FuelTank,
-Size4.Tank.02,tanks,8,SquadExpansion,"@PART[Size4.Tank.02]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks8
-}",FuelTank,
-Size4.Tank.03,tanks,8,SquadExpansion,"@PART[Size4.Tank.03]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks8
-}",FuelTank,
-Size4.Tank.04,tanks,8,SquadExpansion,"@PART[Size4.Tank.04]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks8
-}",FuelTank,
-restock-fuel-tank-0625-3,tanks,1,RestockPlus,"@PART[restock-fuel-tank-0625-3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks1
-}",FuelTank,
-restock-fuel-tank-0625-5,tanks,1,RestockPlus,"@PART[restock-fuel-tank-0625-5]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks1
-}",FuelTank,
-restock-fuel-tank-0625-1,tanks,2,RestockPlus,"@PART[restock-fuel-tank-0625-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks2
-}",FuelTank,
-restock-fuel-tank-0625-2,tanks,2,RestockPlus,"@PART[restock-fuel-tank-0625-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks2
-}",FuelTank,
-restock-fueltank-sphere-0625-1,tanks,3,RestockPlus,"@PART[restock-fueltank-sphere-0625-1]:AFTER[Bluedog_DB] //
+fuelLine,tanks,3,Squad,"@PART[fuelLine]:AFTER[Squad] //
 {
 	@TechRequired = tanks3
 }",FuelTank,
-restock-fueltank-sphere-125-1,tanks,3,RestockPlus,"@PART[restock-fueltank-sphere-125-1]:AFTER[Bluedog_DB] //
+ReleaseValve,tanks,3,Squad,"@PART[ReleaseValve]:AFTER[Squad] //
 {
 	@TechRequired = tanks3
 }",FuelTank,
-restock-fuel-tank-probe-1,tanks,4,RestockPlus,"@PART[restock-fuel-tank-probe-1]:AFTER[Bluedog_DB] //
+rcsTankMini,tanks,4,Squad,"@PART[rcsTankMini]:AFTER[Squad] //
 {
 	@TechRequired = tanks4
 }",FuelTank,
-restock-fuel-tank-probe-2,tanks,4,RestockPlus,"@PART[restock-fuel-tank-probe-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks4
-}",FuelTank,
-restock-fueltank-1875-3,tanks,4,RestockPlus,"@PART[restock-fueltank-1875-3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks4
-}",none,
-restock-fueltank-1875-4,tanks,4,RestockPlus,"@PART[restock-fueltank-1875-4]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks4
-}",none,
-restock-fueltank-adapter-1875-0625-1,tanks,4,RestockPlus,"@PART[restock-fueltank-adapter-1875-0625-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks4
-}",none,
-restock-fueltank-adapter-1875-125-1,tanks,4,RestockPlus,"@PART[restock-fueltank-adapter-1875-125-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks4
-}",none,
-restock-fueltank-adapter-1875-125-2,tanks,4,RestockPlus,"@PART[restock-fueltank-adapter-1875-125-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks4
-}",none,
-restock-fuel-tank-rcs-radial-tiny-1,tanks,4,RestockPlus,"@PART[restock-fuel-tank-rcs-radial-tiny-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks4
-}",none,
-restock-fueltank-sphere-1875-1,tanks,5,RestockPlus,"@PART[restock-fueltank-sphere-1875-1]:AFTER[Bluedog_DB] //
+Rockomax32.BW,tanks,5,Squad,"@PART[Rockomax32.BW]:AFTER[Squad] //
 {
 	@TechRequired = tanks5
 }",FuelTank,
-restock-fuel-tank-rcs-1875-1,tanks,5,RestockPlus,"@PART[restock-fuel-tank-rcs-1875-1]:AFTER[Bluedog_DB] //
+Rockomax64.BW,tanks,5,Squad,"@PART[Rockomax64.BW]:AFTER[Squad] //
 {
 	@TechRequired = tanks5
-}",none,
-restock-fueltank-1875-1,tanks,5,RestockPlus,"@PART[restock-fueltank-1875-1]:AFTER[Bluedog_DB] //
+}",FuelTank,
+externalTankRound,tanks,5,Squad,"@PART[externalTankRound]:AFTER[Squad] //
 {
 	@TechRequired = tanks5
-}",none,
-restock-fueltank-1875-2,tanks,5,RestockPlus,"@PART[restock-fueltank-1875-2]:AFTER[Bluedog_DB] //
+}",Propulsion,
+adapterSize2-Size1,tanks,5,Squad,"@PART[adapterSize2-Size1]:AFTER[Squad] //
 {
 	@TechRequired = tanks5
-}",none,
-restock-fueltank-1875-soyuz-1,tanks,5,RestockPlus,"@PART[restock-fueltank-1875-soyuz-1]:AFTER[Bluedog_DB] //
+}",FuelTank,
+adapterSize2-Size1Slant,tanks,5,Squad,"@PART[adapterSize2-Size1Slant]:AFTER[Squad] //
 {
 	@TechRequired = tanks5
-}",none,
-restock-fueltank-adapter-25-1875-1,tanks,5,RestockPlus,"@PART[restock-fueltank-adapter-25-1875-1]:AFTER[Bluedog_DB] //
+}",FuelTank,
+externalTankToroid,tanks,5,Squad,"@PART[externalTankToroid]:AFTER[Squad] //
 {
 	@TechRequired = tanks5
-}",none,
-restock-fueltank-sphere-25-1,tanks,6,RestockPlus,"@PART[restock-fueltank-sphere-25-1]:AFTER[Bluedog_DB] //
+}",FuelTank,
+RCSFuelTank,tanks,5,Squad,"@PART[RCSFuelTank]:AFTER[Squad] //
+{
+	@TechRequired = tanks5
+}",FuelTank,
+radialRCSTank,tanks,5,Squad,"@PART[radialRCSTank]:AFTER[Squad] //
+{
+	@TechRequired = tanks5
+}",FuelTank,
+Rockomax16.BW,tanks,6,Squad,"@PART[Rockomax16.BW]:AFTER[Squad] //
 {
 	@TechRequired = tanks6
 }",FuelTank,
-restock-fuel-tank-375-4,tanks,7,RestockPlus,"@PART[restock-fuel-tank-375-4]:AFTER[Bluedog_DB] //
+Rockomax8BW,tanks,6,Squad,"@PART[Rockomax8BW]:AFTER[Squad] //
+{
+	@TechRequired = tanks6
+}",FuelTank,
+externalTankCapsule,tanks,6,Squad,"@PART[externalTankCapsule]:AFTER[Squad] //
+{
+	@TechRequired = tanks6
+}",Propulsion,
+Size3LargeTank,tanks,7,Squad,"@PART[Size3LargeTank]:AFTER[Squad] //
+{
+	@TechRequired = tanks7
+}",Propulsion,
+Size3MediumTank,tanks,7,Squad,"@PART[Size3MediumTank]:AFTER[Squad] //
+{
+	@TechRequired = tanks7
+}",Propulsion,
+RCSTank1-2,tanks,7,Squad,"@PART[RCSTank1-2]:AFTER[Squad] //
 {
 	@TechRequired = tanks7
 }",FuelTank,
-restock-nosecone-375-1,tanks,7,RestockPlus,"@PART[restock-nosecone-375-1]:AFTER[Bluedog_DB] //
+rcsTankRadialLong,tanks,7,Squad,"@PART[rcsTankRadialLong]:AFTER[Squad] //
 {
 	@TechRequired = tanks7
 }",FuelTank,
-restock-fuel-tank-rcs-375-1,tanks,8,RestockPlus,"@PART[restock-fuel-tank-rcs-375-1]:AFTER[Bluedog_DB] //
+Size3To2Adapter.v2,tanks,7,Squad,"@PART[Size3To2Adapter.v2]:AFTER[Squad] //
 {
-	@TechRequired = tanks8
+	@TechRequired = tanks7
 }",FuelTank,
-restock-fueltank-sphere-375-1,tanks,8,RestockPlus,"@PART[restock-fueltank-sphere-375-1]:AFTER[Bluedog_DB] //
+Size3SmallTank,tanks,8,Squad,"@PART[Size3SmallTank]:AFTER[Squad] //
 {
 	@TechRequired = tanks8
-}",FuelTank,
-restock-fueltank-5-1,tanks,8,RestockPlus,"@PART[restock-fueltank-5-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks8
-}",none,
-restock-fueltank-5-2,tanks,8,RestockPlus,"@PART[restock-fueltank-5-2]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks8
-}",none,
-restock-fueltank-5-3,tanks,8,RestockPlus,"@PART[restock-fueltank-5-3]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks8
-}",none,
-restock-fueltank-5-4,tanks,8,RestockPlus,"@PART[restock-fueltank-5-4]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks8
-}",none,
-restock-fueltank-adapter-375-5-1,tanks,8,RestockPlus,"@PART[restock-fueltank-adapter-375-5-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks8
-}",none,
-restock-fueltank-saturn-engine-1,tanks,8,RestockPlus,"@PART[restock-fueltank-saturn-engine-1]:AFTER[Bluedog_DB] //
-{
-	@TechRequired = tanks8
-}",none,
-radPanelSm,thermal,6,Squad,"@PART[radPanelSm]:AFTER[Bluedog_DB] //
+}",Propulsion,
+radPanelSm,thermal,6,Squad,"@PART[radPanelSm]:AFTER[Squad] //
 {
 	@TechRequired = thermal6
 }",Thermal,
-radPanelEdge,thermal,7,Squad,"@PART[radPanelEdge]:AFTER[Bluedog_DB] //
+radPanelEdge,thermal,7,Squad,"@PART[radPanelEdge]:AFTER[Squad] //
 {
 	@TechRequired = thermal7
 }",Thermal,
-radPanelLg,thermal,7,Squad,"@PART[radPanelLg]:AFTER[Bluedog_DB] //
+radPanelLg,thermal,7,Squad,"@PART[radPanelLg]:AFTER[Squad] //
 {
 	@TechRequired = thermal7
 }",Thermal,
-foldingRadSmall,thermal,8,Squad,"@PART[foldingRadSmall]:AFTER[Bluedog_DB] //
+foldingRadSmall,thermal,8,Squad,"@PART[foldingRadSmall]:AFTER[Squad] //
 {
 	@TechRequired = thermal8
 }",Thermal,
-foldingRadMed,thermal,9,Squad,"@PART[foldingRadMed]:AFTER[Bluedog_DB] //
+foldingRadMed,thermal,9,Squad,"@PART[foldingRadMed]:AFTER[Squad] //
 {
 	@TechRequired = thermal9
 }",Thermal,
-foldingRadLarge,thermal,10,Squad,"@PART[foldingRadLarge]:AFTER[Bluedog_DB] //
+foldingRadLarge,thermal,10,Squad,"@PART[foldingRadLarge]:AFTER[Squad] //
 {
 	@TechRequired = thermal10
 }",Thermal,
+FanShroud.01,aviation,2,SquadExpansion,"@PART[FanShroud.01]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation2
+}",Aero,
+FanShroud.02,aviation,2,SquadExpansion,"@PART[FanShroud.02]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation2
+}",Aero,
+noseconeTiny,aviation,2,SquadExpansion,"@PART[noseconeTiny]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation2
+}",Aero,
+noseconeVS,aviation,2,SquadExpansion,"@PART[noseconeVS]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation2
+}",Aero,
+mediumFanBlade,aviation,2,SquadExpansion,"@PART[mediumFanBlade]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation2
+}",Aero,
+mediumHeliBlade,aviation,2,SquadExpansion,"@PART[mediumHeliBlade]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation2
+}",Aero,
+mediumPropeller,aviation,2,SquadExpansion,"@PART[mediumPropeller]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation2
+}",Aero,
+smallFanBlade,aviation,2,SquadExpansion,"@PART[smallFanBlade]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation2
+}",Aero,
+smallHeliBlade,aviation,2,SquadExpansion,"@PART[smallHeliBlade]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation2
+}",Aero,
+smallPropeller,aviation,2,SquadExpansion,"@PART[smallPropeller]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation2
+}",Aero,
+RotorEngine.02,aviation,2,SquadExpansion,"@PART[RotorEngine.02]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation2
+}",Robotics,
+FanShroud.03,aviation,3,SquadExpansion,"@PART[FanShroud.03]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation3
+}",Aero,
+largeFanBlade,aviation,3,SquadExpansion,"@PART[largeFanBlade]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation3
+}",Aero,
+largeHeliBlade,aviation,3,SquadExpansion,"@PART[largeHeliBlade]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation3
+}",Aero,
+largePropeller,aviation,3,SquadExpansion,"@PART[largePropeller]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation3
+}",Aero,
+RotorEngine.03,aviation,3,SquadExpansion,"@PART[RotorEngine.03]:AFTER[SquadExpansion] //
+{
+	@TechRequired = aviation3
+}",Robotics,
+kv1Pod,capsules,5,SquadExpansion,"@PART[kv1Pod]:AFTER[SquadExpansion] //
+{
+	@TechRequired = capsules5
+}",Pods,
+kv2Pod,capsules,6,SquadExpansion,"@PART[kv2Pod]:AFTER[SquadExpansion] //
+{
+	@TechRequired = capsules6
+}",Pods,
+Mk2Pod,capsules,6,SquadExpansion,"@PART[Mk2Pod]:AFTER[SquadExpansion] //
+{
+	@TechRequired = capsules6
+}",Pods,
+kv3Pod,capsules,7,SquadExpansion,"@PART[kv3Pod]:AFTER[SquadExpansion] //
+{
+	@TechRequired = capsules7
+}",Pods,
+DeployedSatDish,comms,8,SquadExpansion,"@PART[DeployedSatDish]:AFTER[SquadExpansion] //
+{
+	@TechRequired = comms8
+}",Cargo,
+EquiTriangle0,construction,3,SquadExpansion,"@PART[EquiTriangle0]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction3
+}",Structural,
+EquiTriangle1,construction,3,SquadExpansion,"@PART[EquiTriangle1]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction3
+}",Structural,
+EquiTriangle1p5,construction,3,SquadExpansion,"@PART[EquiTriangle1p5]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction3
+}",Structural,
+EquiTriangle2,construction,3,SquadExpansion,"@PART[EquiTriangle2]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction3
+}",Structural,
+Panel0,construction,3,SquadExpansion,"@PART[Panel0]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction3
+}",Structural,
+Panel1,construction,3,SquadExpansion,"@PART[Panel1]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction3
+}",Structural,
+Panel1p5,construction,3,SquadExpansion,"@PART[Panel1p5]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction3
+}",Structural,
+Panel2,construction,3,SquadExpansion,"@PART[Panel2]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction3
+}",Structural,
+Triangle0,construction,3,SquadExpansion,"@PART[Triangle0]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction3
+}",Structural,
+Triangle1,construction,3,SquadExpansion,"@PART[Triangle1]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction3
+}",Structural,
+Triangle1p5,construction,3,SquadExpansion,"@PART[Triangle1p5]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction3
+}",Structural,
+Triangle2,construction,3,SquadExpansion,"@PART[Triangle2]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction3
+}",Structural,
+Tube1,construction,3,SquadExpansion,"@PART[Tube1]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction3
+}",Structural,
+Decoupler.1p5,construction,4,SquadExpansion,"@PART[Decoupler.1p5]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction4
+}",Coupling,
+Size.1.5.Cone,construction,4,SquadExpansion,"@PART[Size.1.5.Cone]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction4
+}",Aero,
+Separator.1p5,construction,4,SquadExpansion,"@PART[Separator.1p5]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction4
+}",Coupling,
+Size1p5.Strut.Decoupler,construction,4,SquadExpansion,"@PART[Size1p5.Strut.Decoupler]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction4
+}",Coupling,
+fairingSize1p5,construction,4,SquadExpansion,"@PART[fairingSize1p5]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction4
+}",Payload,
+Tube1p5,construction,4,SquadExpansion,"@PART[Tube1p5]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction4
+}",Structural,
+EnginePlate1p5,construction,5,SquadExpansion,"@PART[EnginePlate1p5]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction5
+}",Coupling,
+EnginePlate2,construction,5,SquadExpansion,"@PART[EnginePlate2]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction5
+}",Coupling,
+Tube2,construction,5,SquadExpansion,"@PART[Tube2]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction5
+}",Structural,
+InflatableAirlock,construction,6,SquadExpansion,"@PART[InflatableAirlock]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction6
+}",Coupling,
+EnginePlate3,construction,7,SquadExpansion,"@PART[EnginePlate3]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction7
+}",Coupling,
+Tube3,construction,7,SquadExpansion,"@PART[Tube3]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction7
+}",Structural,
+sGripPad,construction,7,SquadExpansion,"@PART[sGripPad]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction7
+}",Structural,
+sGripStrip,construction,7,SquadExpansion,"@PART[sGripStrip]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction7
+}",Structural,
+Decoupler.4,construction,8,SquadExpansion,"@PART[Decoupler.4]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction8
+}",Coupling,
+rocketNoseConeSize4,construction,8,SquadExpansion,"@PART[rocketNoseConeSize4]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction8
+}",Aero,
+EnginePlate4,construction,8,SquadExpansion,"@PART[EnginePlate4]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction8
+}",Coupling,
+EnginePlate5,construction,8,SquadExpansion,"@PART[EnginePlate5]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction8
+}",Coupling,
+Separator.4,construction,8,SquadExpansion,"@PART[Separator.4]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction8
+}",Coupling,
+fairingSize4,construction,8,SquadExpansion,"@PART[fairingSize4]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction8
+}",Payload,
+Tube4,construction,8,SquadExpansion,"@PART[Tube4]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction8
+}",Structural,
+mGripPad,construction,8,SquadExpansion,"@PART[mGripPad]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction8
+}",Structural,
+lGripPad,construction,9,SquadExpansion,"@PART[lGripPad]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction9
+}",Structural,
+lGripStrip,construction,9,SquadExpansion,"@PART[lGripStrip]:AFTER[SquadExpansion] //
+{
+	@TechRequired = construction9
+}",Structural,
+LiquidEngineRE-I2,cryo,8,SquadExpansion,"@PART[LiquidEngineRE-I2]:AFTER[SquadExpansion] //
+{
+	@TechRequired = cryo8
+}",Engine,
+LiquidEngineLV-T91,hypergol,6,SquadExpansion,"@PART[LiquidEngineLV-T91]:AFTER[SquadExpansion] //
+{
+	@TechRequired = hypergol6
+}",Engine,
+LiquidEngineLV-TX87,hypergol,6,SquadExpansion,"@PART[LiquidEngineLV-TX87]:AFTER[SquadExpansion] //
+{
+	@TechRequired = hypergol6
+}",Engine,
+LiquidEngineRE-J10,hypergol,9,SquadExpansion,"@PART[LiquidEngineRE-J10]:AFTER[SquadExpansion] //
+{
+	@TechRequired = hypergol9
+}",Engine,
+LiquidEngineRK-7,kerolox,2,SquadExpansion,"@PART[LiquidEngineRK-7]:AFTER[SquadExpansion] //
+{
+	@TechRequired = kerolox2
+}",Engine,
+LiquidEngineRV-1,kerolox,3,SquadExpansion,"@PART[LiquidEngineRV-1]:AFTER[SquadExpansion] //
+{
+	@TechRequired = kerolox3
+}",Engine,
+LiquidEngineKE-1,kerolox,8,SquadExpansion,"@PART[LiquidEngineKE-1]:AFTER[SquadExpansion] //
+{
+	@TechRequired = kerolox8
+}",Engine,
+HeatShield1p5,landing,5,SquadExpansion,"@PART[HeatShield1p5]:AFTER[SquadExpansion] //
+{
+	@TechRequired = landing5
+}",Thermal,
+MEMLander,landing,8,SquadExpansion,"@PART[MEMLander]:AFTER[SquadExpansion] //
+{
+	@TechRequired = landing8
+}",Pods,
+Size1to0ServiceModule,logistics,6,SquadExpansion,"@PART[Size1to0ServiceModule]:AFTER[SquadExpansion] //
+{
+	@TechRequired = logistics6
+}",Payload,
+ServiceModule18,logistics,7,SquadExpansion,"@PART[ServiceModule18]:AFTER[SquadExpansion] //
+{
+	@TechRequired = logistics7
+}",Payload,
+ServiceModule25,logistics,9,SquadExpansion,"@PART[ServiceModule25]:AFTER[SquadExpansion] //
+{
+	@TechRequired = logistics9
+}",Payload,
+DeployedRTG,reactors,8,SquadExpansion,"@PART[DeployedRTG]:AFTER[SquadExpansion] //
+{
+	@TechRequired = reactors8
+}",Cargo,
+hinge.01,robotics,6,SquadExpansion,"@PART[hinge.01]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics6
+}",Robotics,
+piston.01,robotics,6,SquadExpansion,"@PART[piston.01]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics6
+}",Robotics,
+rotor.01,robotics,6,SquadExpansion,"@PART[rotor.01]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics6
+}",Robotics,
+rotoServo.00,robotics,6,SquadExpansion,"@PART[rotoServo.00]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics6
+}",Robotics,
+hinge.01.s,robotics,7,SquadExpansion,"@PART[hinge.01.s]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics7
+}",Robotics,
+piston.02,robotics,7,SquadExpansion,"@PART[piston.02]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics7
+}",Robotics,
+rotor.01s,robotics,7,SquadExpansion,"@PART[rotor.01s]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics7
+}",Robotics,
+rotor.02,robotics,7,SquadExpansion,"@PART[rotor.02]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics7
+}",Robotics,
+rotoServo.02,robotics,7,SquadExpansion,"@PART[rotoServo.02]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics7
+}",Robotics,
+roverWheelM1-F,robotics,8,SquadExpansion,"@PART[roverWheelM1-F]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics8
+}",Ground,
+hinge.03,robotics,8,SquadExpansion,"@PART[hinge.03]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics8
+}",Robotics,
+piston.03,robotics,8,SquadExpansion,"@PART[piston.03]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics8
+}",Robotics,
+rotor.02s,robotics,8,SquadExpansion,"@PART[rotor.02s]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics8
+}",Robotics,
+rotoServo.03,robotics,8,SquadExpansion,"@PART[rotoServo.03]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics8
+}",Robotics,
+controller1000,robotics,8,SquadExpansion,"@PART[controller1000]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics8
+}",Robotics,
+hinge.03.s,robotics,9,SquadExpansion,"@PART[hinge.03.s]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics9
+}",Robotics,
+piston.04,robotics,9,SquadExpansion,"@PART[piston.04]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics9
+}",Robotics,
+rotor.03,robotics,9,SquadExpansion,"@PART[rotor.03]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics9
+}",Robotics,
+rotoServo.04,robotics,9,SquadExpansion,"@PART[rotoServo.04]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics9
+}",Robotics,
+hinge.04,robotics,10,SquadExpansion,"@PART[hinge.04]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics10
+}",Robotics,
+rotor.03s,robotics,10,SquadExpansion,"@PART[rotor.03s]:AFTER[SquadExpansion] //
+{
+	@TechRequired = robotics10
+}",Robotics,
+RobotArmScanner.S1,science,7,SquadExpansion,"@PART[RobotArmScanner.S1]:AFTER[SquadExpansion] //
+{
+	@TechRequired = science7
+}",Science,
+DeployedCentralStation,science,8,SquadExpansion,"@PART[DeployedCentralStation]:AFTER[SquadExpansion] //
+{
+	@TechRequired = science8
+}",Cargo,
+DeployedGoExOb,science,8,SquadExpansion,"@PART[DeployedGoExOb]:AFTER[SquadExpansion] //
+{
+	@TechRequired = science8
+}",Cargo,
+DeployedIONExp,science,8,SquadExpansion,"@PART[DeployedIONExp]:AFTER[SquadExpansion] //
+{
+	@TechRequired = science8
+}",Cargo,
+DeployedSeismicSensor,science,8,SquadExpansion,"@PART[DeployedSeismicSensor]:AFTER[SquadExpansion] //
+{
+	@TechRequired = science8
+}",Cargo,
+RobotArmScanner.S2,science,8,SquadExpansion,"@PART[RobotArmScanner.S2]:AFTER[SquadExpansion] //
+{
+	@TechRequired = science8
+}",Science,
+DeployedWeatherStn,science,9,SquadExpansion,"@PART[DeployedWeatherStn]:AFTER[SquadExpansion] //
+{
+	@TechRequired = science9
+}",Cargo,
+RobotArmScanner.S3,science,9,SquadExpansion,"@PART[RobotArmScanner.S3]:AFTER[SquadExpansion] //
+{
+	@TechRequired = science9
+}",Science,
+DeployedSolarPanel,solar,8,SquadExpansion,"@PART[DeployedSolarPanel]:AFTER[SquadExpansion] //
+{
+	@TechRequired = solar8
+}",Cargo,
+Pollux,solids,8,SquadExpansion,"@PART[Pollux]:AFTER[SquadExpansion] //
+{
+	@TechRequired = solids8
+}",Engine,
+monopropMiniSphere,tanks,2,SquadExpansion,"@PART[monopropMiniSphere]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks2
+}",Propulsion,
+Size1p5.Size0.Adapter.01,tanks,4,SquadExpansion,"@PART[Size1p5.Size0.Adapter.01]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks4
+}",FuelTank,
+Size1p5.Size1.Adapter.01,tanks,4,SquadExpansion,"@PART[Size1p5.Size1.Adapter.01]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks4
+}",FuelTank,
+Size1p5.Size1.Adapter.02,tanks,4,SquadExpansion,"@PART[Size1p5.Size1.Adapter.02]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks4
+}",FuelTank,
+Size1p5.Tank.04,tanks,4,SquadExpansion,"@PART[Size1p5.Tank.04]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks4
+}",FuelTank,
+Size1p5.Tank.05,tanks,4,SquadExpansion,"@PART[Size1p5.Tank.05]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks4
+}",FuelTank,
+Size1p5.Size2.Adapter.01,tanks,5,SquadExpansion,"@PART[Size1p5.Size2.Adapter.01]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks5
+}",FuelTank,
+Size1p5.Tank.01,tanks,5,SquadExpansion,"@PART[Size1p5.Tank.01]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks5
+}",FuelTank,
+Size1p5.Tank.02,tanks,5,SquadExpansion,"@PART[Size1p5.Tank.02]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks5
+}",FuelTank,
+Size1p5.Tank.03,tanks,5,SquadExpansion,"@PART[Size1p5.Tank.03]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks5
+}",FuelTank,
+Size1p5.Monoprop,tanks,6,SquadExpansion,"@PART[Size1p5.Monoprop]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks6
+}",FuelTank,
+Size3.Size4.Adapter.01,tanks,8,SquadExpansion,"@PART[Size3.Size4.Adapter.01]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks8
+}",FuelTank,
+Size4.EngineAdapter.01,tanks,8,SquadExpansion,"@PART[Size4.EngineAdapter.01]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks8
+}",FuelTank,
+Size4.Tank.01,tanks,8,SquadExpansion,"@PART[Size4.Tank.01]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks8
+}",FuelTank,
+Size4.Tank.02,tanks,8,SquadExpansion,"@PART[Size4.Tank.02]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks8
+}",FuelTank,
+Size4.Tank.03,tanks,8,SquadExpansion,"@PART[Size4.Tank.03]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks8
+}",FuelTank,
+Size4.Tank.04,tanks,8,SquadExpansion,"@PART[Size4.Tank.04]:AFTER[SquadExpansion] //
+{
+	@TechRequired = tanks8
+}",FuelTank,
+restock-engine-les-2,capsules,5,RestockPlus,"@PART[restock-engine-les-2]:AFTER[RestockPlus] //
+{
+	@TechRequired = capsules5
+}",Utility,
+restock-pod-sphere-1,capsules,5,RestockPlus,"@PART[restock-pod-sphere-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = capsules5
+}",none,
+restock-pod-sphere-2,capsules,6,RestockPlus,"@PART[restock-pod-sphere-2]:AFTER[RestockPlus] //
+{
+	@TechRequired = capsules6
+}",none,
+restock-mk2-pod,capsules,6,RestockPlus,"@PART[restock-mk2-pod]:AFTER[RestockPlus] //
+{
+	@TechRequired = capsules6
+}",none,
+restock-pod-sphere-3,capsules,7,RestockPlus,"@PART[restock-pod-sphere-3]:AFTER[RestockPlus] //
+{
+	@TechRequired = capsules7
+}",none,
+restock-antenna-stack-2,comms,3,RestockPlus,"@PART[restock-antenna-stack-2]:AFTER[RestockPlus] //
+{
+	@TechRequired = comms3
+}",Communication,
+restock-antenna-stack-3,comms,5,RestockPlus,"@PART[restock-antenna-stack-3]:AFTER[RestockPlus] //
+{
+	@TechRequired = comms5
+}",Communication,
+restock-relay-radial-2.v2,comms,5,RestockPlus,"@PART[restock-relay-radial-2.v2]:AFTER[RestockPlus] //
+{
+	@TechRequired = comms5
+}",Communication,
+restock-relay-radial-2,comms,5,RestockPlus,"@PART[restock-relay-radial-2]:AFTER[RestockPlus] //
+{
+	@TechRequired = comms5
+}",none,
+restock-nosecone-0625-1,construction,1,RestockPlus,"@PART[restock-nosecone-0625-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction1
+}",Aero,
+restock-fairing-base-0625-1,construction,1,RestockPlus,"@PART[restock-fairing-base-0625-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction1
+}",Payload,
+restock-engineplate-125-1,construction,2,RestockPlus,"@PART[restock-engineplate-125-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction2
+}",Coupling,
+restock-decoupler-radial-tiny-1,construction,2,RestockPlus,"@PART[restock-decoupler-radial-tiny-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction2
+}",Coupling,
+restock-node-625-1,construction,2,RestockPlus,"@PART[restock-node-625-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction2
+}",Structural,
+restock-truss-adapter-0625-1,construction,2,RestockPlus,"@PART[restock-truss-adapter-0625-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction2
+}",Structural,
+restock-structural-tube-125-1,construction,3,RestockPlus,"@PART[restock-structural-tube-125-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction3
+}",none,
+restock-nosecone-1875-1,construction,4,RestockPlus,"@PART[restock-nosecone-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction4
+}",none,
+restock-nosecone-1875-2,construction,4,RestockPlus,"@PART[restock-nosecone-1875-2]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction4
+}",none,
+restock-decoupler-1875-1,construction,4,RestockPlus,"@PART[restock-decoupler-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction4
+}",none,
+restock-decoupler-1875-truss-1,construction,4,RestockPlus,"@PART[restock-decoupler-1875-truss-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction4
+}",none,
+restock-engineplate-1875-1,construction,4,RestockPlus,"@PART[restock-engineplate-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction4
+}",none,
+restock-separator-1875-1,construction,4,RestockPlus,"@PART[restock-separator-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction4
+}",none,
+restock-fairing-base-1875-1,construction,4,RestockPlus,"@PART[restock-fairing-base-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction4
+}",none,
+restock-structural-tube-1875-1,construction,4,RestockPlus,"@PART[restock-structural-tube-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction4
+}",none,
+restock-adapter-1875-125-1,construction,4,RestockPlus,"@PART[restock-adapter-1875-125-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction4
+}",Structural,
+restock-node-1875-1,construction,4,RestockPlus,"@PART[restock-node-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction4
+}",Structural,
+restock-engineplate-25-1,construction,5,RestockPlus,"@PART[restock-engineplate-25-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction5
+}",none,
+restock-structural-tube-25-1,construction,5,RestockPlus,"@PART[restock-structural-tube-25-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction5
+}",none,
+restock-service-bay-1875-1,construction,5,RestockPlus,"@PART[restock-service-bay-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction5
+}",Payload,
+restock-adapter-1875-25-1,construction,5,RestockPlus,"@PART[restock-adapter-1875-25-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction5
+}",Structural,
+restock-truss-3,construction,6,RestockPlus,"@PART[restock-truss-3]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction6
+}",Structural,
+restock-truss-hub-1,construction,6,RestockPlus,"@PART[restock-truss-hub-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction6
+}",Structural,
+restock-engineplate-375-1,construction,7,RestockPlus,"@PART[restock-engineplate-375-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction7
+}",none,
+restock-structural-tube-375-1,construction,7,RestockPlus,"@PART[restock-structural-tube-375-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction7
+}",none,
+restock-adapter-hollow-25-375-1,construction,7,RestockPlus,"@PART[restock-adapter-hollow-25-375-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction7
+}",Structural,
+restock-adapter-skeletal-25-375-1,construction,7,RestockPlus,"@PART[restock-adapter-skeletal-25-375-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction7
+}",Structural,
+restock-nosecone-5-1,construction,8,RestockPlus,"@PART[restock-nosecone-5-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction8
+}",none,
+restock-decoupler-5-1,construction,8,RestockPlus,"@PART[restock-decoupler-5-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction8
+}",none,
+restock-engineplate-5-1,construction,8,RestockPlus,"@PART[restock-engineplate-5-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction8
+}",none,
+restock-separator-5-1,construction,8,RestockPlus,"@PART[restock-separator-5-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction8
+}",none,
+restock-fairing-base-5-1,construction,8,RestockPlus,"@PART[restock-fairing-base-5-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction8
+}",none,
+restock-structural-tube-5-1,construction,8,RestockPlus,"@PART[restock-structural-tube-5-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = construction8
+}",none,
+restock-drone-core-0625-1,control,0,RestockPlus,"@PART[restock-drone-core-0625-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control0
+}",Pods,
+restock-reactionwheel-radial-1,control,3,RestockPlus,"@PART[restock-reactionwheel-radial-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control3
+}",Control,
+restock-rcs-block-multi-mini-2,control,3,RestockPlus,"@PART[restock-rcs-block-multi-mini-2]:AFTER[RestockPlus] //
+{
+	@TechRequired = control3
+}",Control,
+restock-rcs-block-dual-mini-1,control,3,RestockPlus,"@PART[restock-rcs-block-dual-mini-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control3
+}",none,
+restock-rcs-block-quad-angled-mini-1,control,3,RestockPlus,"@PART[restock-rcs-block-quad-angled-mini-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control3
+}",none,
+restock-rcs-block-quad-mini-1,control,3,RestockPlus,"@PART[restock-rcs-block-quad-mini-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control3
+}",none,
+restock-rcs-block-qunit-mini-1,control,3,RestockPlus,"@PART[restock-rcs-block-qunit-mini-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control3
+}",none,
+restock-rcs-block-triple-angled-mini-1,control,3,RestockPlus,"@PART[restock-rcs-block-triple-angled-mini-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control3
+}",none,
+restock-rcs-single-mini-1,control,3,RestockPlus,"@PART[restock-rcs-single-mini-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control3
+}",none,
+restock-drone-core-1875-1,control,4,RestockPlus,"@PART[restock-drone-core-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control4
+}",Pods,
+restock-reactionwheel-1875-1,control,5,RestockPlus,"@PART[restock-reactionwheel-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control5
+}",Control,
+restock-rcs-block-multi-2,control,5,RestockPlus,"@PART[restock-rcs-block-multi-2]:AFTER[RestockPlus] //
+{
+	@TechRequired = control5
+}",Control,
+restock-rcs-block-dual-1,control,5,RestockPlus,"@PART[restock-rcs-block-dual-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control5
+}",none,
+restock-rcs-block-quad-angled-1,control,5,RestockPlus,"@PART[restock-rcs-block-quad-angled-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control5
+}",none,
+restock-rcs-block-quint-1,control,5,RestockPlus,"@PART[restock-rcs-block-quint-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control5
+}",none,
+restock-rcs-block-triple-angled-1,control,5,RestockPlus,"@PART[restock-rcs-block-triple-angled-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control5
+}",none,
+restock-drone-core-375-1,control,7,RestockPlus,"@PART[restock-drone-core-375-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = control7
+}",Pods,
+restock-engine-375-corgi,cryo,10,RestockPlus,"@PART[restock-engine-375-corgi]:AFTER[RestockPlus] //
+{
+	@TechRequired = cryo10
+}",Engine,
+restock-engine-caravel-1,cryo,10,RestockPlus,"@PART[restock-engine-caravel-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = cryo10
+}",none,
+restock-apu-radial-1,electrics,5,RestockPlus,"@PART[restock-apu-radial-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = electrics5
+}",Electrical,
+restock-battery-1875-1,electrics,7,RestockPlus,"@PART[restock-battery-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = electrics7
+}",Electrical,
+restock-battery-375-1,electrics,9,RestockPlus,"@PART[restock-battery-375-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = electrics9
+}",Electrical,
+restock-engine-125-pug,hypergol,2,RestockPlus,"@PART[restock-engine-125-pug]:AFTER[RestockPlus] //
+{
+	@TechRequired = hypergol2
+}",Engine,
+restock-engine-galleon-1,hypergol,6,RestockPlus,"@PART[restock-engine-galleon-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = hypergol6
+}",none,
+restock-engine-schnauzer-1,hypergol,6,RestockPlus,"@PART[restock-engine-schnauzer-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = hypergol6
+}",none,
+restock-claw-625-1,isru,9,RestockPlus,"@PART[restock-claw-625-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = isru9
+}",none,
+restock-engine-torch,kerolox,1,RestockPlus,"@PART[restock-engine-torch]:AFTER[RestockPlus] //
+{
+	@TechRequired = kerolox1
+}",Engine,
+restock-engine-125-valiant,kerolox,1,RestockPlus,"@PART[restock-engine-125-valiant]:AFTER[RestockPlus] //
+{
+	@TechRequired = kerolox1
+}",Engine,
+restock-engine-ursa-1,kerolox,2,RestockPlus,"@PART[restock-engine-ursa-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = kerolox2
+}",none,
+restock-engine-panda-1,kerolox,3,RestockPlus,"@PART[restock-engine-panda-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = kerolox3
+}",none,
+restock-engine-boar,kerolox,7,RestockPlus,"@PART[restock-engine-boar]:AFTER[RestockPlus] //
+{
+	@TechRequired = kerolox7
+}",Engine,
+restock-ladder-static-2,landing,2,RestockPlus,"@PART[restock-ladder-static-2]:AFTER[RestockPlus] //
+{
+	@TechRequired = landing2
+}",Utility,
+restock-ladder-static-3,landing,2,RestockPlus,"@PART[restock-ladder-static-3]:AFTER[RestockPlus] //
+{
+	@TechRequired = landing2
+}",Utility,
+restock-sciencebox-stack-1,landing,4,RestockPlus,"@PART[restock-sciencebox-stack-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = landing4
+}",Science,
+restock-heatshield-1875-1,landing,5,RestockPlus,"@PART[restock-heatshield-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = landing5
+}",none,
+restock-service-module-125-625-1,logistics,6,RestockPlus,"@PART[restock-service-module-125-625-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = logistics6
+}",none,
+restock-service-module-1875-1,logistics,7,RestockPlus,"@PART[restock-service-module-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = logistics7
+}",none,
+restock-oretank-1875-1,logistics,10,RestockPlus,"@PART[restock-oretank-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = logistics10
+}",FuelTank,
+restock-oretank-375-1,logistics,12,RestockPlus,"@PART[restock-oretank-375-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = logistics12
+}",FuelTank,
+restock-engine-cherenkov,ntr,10,RestockPlus,"@PART[restock-engine-cherenkov]:AFTER[RestockPlus] //
+{
+	@TechRequired = ntr10
+}",Engine,
+restock-wheel-1-T,robotics,7,RestockPlus,"@PART[restock-wheel-1-T]:AFTER[RestockPlus] //
+{
+	@TechRequired = robotics7
+}",Ground,
+restock-wheel-4,robotics,,RestockPlus,"@PART[restock-wheel-4]:AFTER[RestockPlus] //
+{
+	@TechRequired = robotics
+}",none,
+restock-goocanister-625-1,science,5,RestockPlus,"@PART[restock-goocanister-625-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = science5
+}",Science,
+restock-materialbay-radial-1,science,7,RestockPlus,"@PART[restock-materialbay-radial-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = science7
+}",Science,
+restock-srb-mallet-1,solids,1,RestockPlus,"@PART[restock-srb-mallet-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = solids1
+}",none,
+restock-srb-striker-1,solids,3,RestockPlus,"@PART[restock-srb-striker-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = solids3
+}",none,
+restock-srb-anvil-1,solids,8,RestockPlus,"@PART[restock-srb-anvil-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = solids8
+}",none,
+restock-srb-castor-1,solids,8,RestockPlus,"@PART[restock-srb-castor-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = solids8
+}",none,
+restock-airlock-1,spaceStations,8,RestockPlus,"@PART[restock-airlock-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = spaceStations8
+}",none,
+restock-docking-375-1,spaceStations,9,RestockPlus,"@PART[restock-docking-375-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = spaceStations9
+}",Coupling,
+restock-fuel-tank-0625-3,tanks,1,RestockPlus,"@PART[restock-fuel-tank-0625-3]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks1
+}",FuelTank,
+restock-fuel-tank-0625-5,tanks,1,RestockPlus,"@PART[restock-fuel-tank-0625-5]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks1
+}",FuelTank,
+restock-fuel-tank-0625-1,tanks,2,RestockPlus,"@PART[restock-fuel-tank-0625-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks2
+}",FuelTank,
+restock-fuel-tank-0625-2,tanks,2,RestockPlus,"@PART[restock-fuel-tank-0625-2]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks2
+}",FuelTank,
+restock-fueltank-sphere-0625-1,tanks,3,RestockPlus,"@PART[restock-fueltank-sphere-0625-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks3
+}",FuelTank,
+restock-fueltank-sphere-125-1,tanks,3,RestockPlus,"@PART[restock-fueltank-sphere-125-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks3
+}",FuelTank,
+restock-fuel-tank-probe-1,tanks,4,RestockPlus,"@PART[restock-fuel-tank-probe-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks4
+}",FuelTank,
+restock-fuel-tank-probe-2,tanks,4,RestockPlus,"@PART[restock-fuel-tank-probe-2]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks4
+}",FuelTank,
+restock-fueltank-1875-3,tanks,4,RestockPlus,"@PART[restock-fueltank-1875-3]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks4
+}",none,
+restock-fueltank-1875-4,tanks,4,RestockPlus,"@PART[restock-fueltank-1875-4]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks4
+}",none,
+restock-fueltank-adapter-1875-0625-1,tanks,4,RestockPlus,"@PART[restock-fueltank-adapter-1875-0625-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks4
+}",none,
+restock-fueltank-adapter-1875-125-1,tanks,4,RestockPlus,"@PART[restock-fueltank-adapter-1875-125-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks4
+}",none,
+restock-fueltank-adapter-1875-125-2,tanks,4,RestockPlus,"@PART[restock-fueltank-adapter-1875-125-2]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks4
+}",none,
+restock-fuel-tank-rcs-radial-tiny-1,tanks,4,RestockPlus,"@PART[restock-fuel-tank-rcs-radial-tiny-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks4
+}",none,
+restock-fueltank-sphere-1875-1,tanks,5,RestockPlus,"@PART[restock-fueltank-sphere-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks5
+}",FuelTank,
+restock-fuel-tank-rcs-1875-1,tanks,5,RestockPlus,"@PART[restock-fuel-tank-rcs-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks5
+}",none,
+restock-fueltank-1875-1,tanks,5,RestockPlus,"@PART[restock-fueltank-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks5
+}",none,
+restock-fueltank-1875-2,tanks,5,RestockPlus,"@PART[restock-fueltank-1875-2]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks5
+}",none,
+restock-fueltank-1875-soyuz-1,tanks,5,RestockPlus,"@PART[restock-fueltank-1875-soyuz-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks5
+}",none,
+restock-fueltank-adapter-25-1875-1,tanks,5,RestockPlus,"@PART[restock-fueltank-adapter-25-1875-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks5
+}",none,
+restock-fueltank-sphere-25-1,tanks,6,RestockPlus,"@PART[restock-fueltank-sphere-25-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks6
+}",FuelTank,
+restock-fuel-tank-375-4,tanks,7,RestockPlus,"@PART[restock-fuel-tank-375-4]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks7
+}",FuelTank,
+restock-nosecone-375-1,tanks,7,RestockPlus,"@PART[restock-nosecone-375-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks7
+}",FuelTank,
+restock-fuel-tank-rcs-375-1,tanks,8,RestockPlus,"@PART[restock-fuel-tank-rcs-375-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks8
+}",FuelTank,
+restock-fueltank-sphere-375-1,tanks,8,RestockPlus,"@PART[restock-fueltank-sphere-375-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks8
+}",FuelTank,
+restock-fueltank-5-1,tanks,8,RestockPlus,"@PART[restock-fueltank-5-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks8
+}",none,
+restock-fueltank-5-2,tanks,8,RestockPlus,"@PART[restock-fueltank-5-2]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks8
+}",none,
+restock-fueltank-5-3,tanks,8,RestockPlus,"@PART[restock-fueltank-5-3]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks8
+}",none,
+restock-fueltank-5-4,tanks,8,RestockPlus,"@PART[restock-fueltank-5-4]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks8
+}",none,
+restock-fueltank-adapter-375-5-1,tanks,8,RestockPlus,"@PART[restock-fueltank-adapter-375-5-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks8
+}",none,
+restock-fueltank-saturn-engine-1,tanks,8,RestockPlus,"@PART[restock-fueltank-saturn-engine-1]:AFTER[RestockPlus] //
+{
+	@TechRequired = tanks8
+}",none,
