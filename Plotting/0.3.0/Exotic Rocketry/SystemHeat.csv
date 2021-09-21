@@ -1,0 +1,4 @@
+PART.name,Category,Mod
+systemheat-coolant-tank-radial-1,Thermal,SystemHeat
+systemheat-exchanger-1,Thermal,SystemHeat
+systemheat-sink-1,none,SystemHeat
