@@ -1,0 +1,61 @@
+PART.name,SSS Category,Tier,Mod,
+CapellaAdaptor,construction,1,CNAR,"@PART[CapellaAdaptor]:AFTER[CNAR] //
+{
+	@TechRequired = construction1
+
+}"
+CapellaEngine1,kerolox,1,CNAR,"@PART[CapellaEngine1]:AFTER[CNAR] //
+{
+	@TechRequired = kerolox1
+
+}"
+CapellaExperiment1,construction,1,CNAR,"@PART[CapellaExperiment1]:AFTER[CNAR] //
+{
+	@TechRequired = construction1
+
+}"
+CapellaExperiment2,construction,1,CNAR,"@PART[CapellaExperiment2]:AFTER[CNAR] //
+{
+	@TechRequired = construction1
+
+}"
+CapellaExperiment3,construction,1,CNAR,"@PART[CapellaExperiment3]:AFTER[CNAR] //
+{
+	@TechRequired = construction1
+
+}"
+CapellaFin1,control,1,CNAR,"@PART[CapellaFin1]:AFTER[CNAR] //
+{
+	@TechRequired = control1
+
+}"
+TitovEngine1,kerolox,1,CNAR,"@PART[TitovEngine1]:AFTER[CNAR] //
+{
+	@TechRequired = kerolox1
+
+}"
+TitovFin1,control,1,CNAR,"@PART[TitovFin1]:AFTER[CNAR] //
+{
+	@TechRequired = control1
+
+}"
+TitovNoseCone,construction,1,CNAR,"@PART[TitovNoseCone]:AFTER[CNAR] //
+{
+	@TechRequired = construction1
+
+}"
+TitovProbeCore,control,1,CNAR,"@PART[TitovProbeCore]:AFTER[CNAR] //
+{
+	@TechRequired = control1
+
+}"
+TitovTank1,kerolox,1,CNAR,"@PART[TitovTank1]:AFTER[CNAR] //
+{
+	@TechRequired = kerolox1
+
+}"
+TitovTank2,kerolox,1,CNAR,"@PART[TitovTank2]:AFTER[CNAR] //
+{
+	@TechRequired = kerolox1
+
+}"
