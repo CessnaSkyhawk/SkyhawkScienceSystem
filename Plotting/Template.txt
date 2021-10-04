@@ -33,9 +33,13 @@ Tier 11 - Far Future Rocketry - Futuristic Prototypes and upgrades of previous p
 
 //Tier 7 spaceplanes7
 
+//Tier 8 spaceplanes8
+
 //Tier 9 spaceplanes9
 
-//Tier 11 spaceplanes11
+//Tier 10 aerodynamics10
+
+//Tier 11 aerodynamics11
 
 /////Aerodynamics (Most Fuselages and Fueltanks, general aviation parts, wings) (aerodynamics#)
 
