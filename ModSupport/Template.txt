@@ -403,6 +403,10 @@ Tier 11 - Far Future Rocketry - Futuristic Prototypes and upgrades of previous p
 
 //Tier 16 reactors16
 
+//Faster Than Light (ftl#)
+
+//Tier 16 ftl16
+
 //Electromagnetic Propulsion (Xenon/Argon Thrusters) (ion#)
 
 //Tier 6 ion6

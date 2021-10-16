@@ -1,0 +1,176 @@
+PART.name,SSS Category,Tier,Mod,
+Mk33BodyFlap,aerodynamics,10,WildBlueIndustries,"@PART[Mk33BodyFlap]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+Mk33InnerElevon,aerodynamics,10,WildBlueIndustries,"@PART[Mk33InnerElevon]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+Mk33NoseCone,aerodynamics,10,WildBlueIndustries,"@PART[Mk33NoseCone]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+Mk33OuterElevon,aerodynamics,10,WildBlueIndustries,"@PART[Mk33OuterElevon]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+Mk33Tailfin,aerodynamics,10,WildBlueIndustries,"@PART[Mk33Tailfin]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+Mk33Wing,aerodynamics,10,WildBlueIndustries,"@PART[Mk33Wing]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+Mk33Cockpit,aerodynamics,10,WildBlueIndustries,"@PART[Mk33Cockpit]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+Mk33ProbeCore,aerodynamics,10,WildBlueIndustries,"@PART[Mk33ProbeCore]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+wbiMk33RCSPod,control,10,WildBlueIndustries,"@PART[wbiMk33RCSPod]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = control10
+
+}"
+Mk33DockingNoseCone,aerodynamics,10,WildBlueIndustries,"@PART[Mk33DockingNoseCone]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+mk33AeroCone,aerodynamics,10,WildBlueIndustries,"@PART[mk33AeroCone]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+mk33EngineCoupler,aerodynamics,10,WildBlueIndustries,"@PART[mk33EngineCoupler]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+mk33EngineCoupler2,aerodynamics,10,WildBlueIndustries,"@PART[mk33EngineCoupler2]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+mk33EngineCoupler4,aerodynamics,10,WildBlueIndustries,"@PART[mk33EngineCoupler4]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+KR2200L,kerolox,10,WildBlueIndustries,"@PART[KR2200L]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = kerolox10
+
+}"
+Mk33AftTank,aerodynamics,10,WildBlueIndustries,"@PART[Mk33AftTank]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+Mk33FwdTank,aerodynamics,10,WildBlueIndustries,"@PART[Mk33FwdTank]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+Mk33MidTank,aerodynamics,10,WildBlueIndustries,"@PART[Mk33MidTank]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+wbiMk33CargoModule,aerodynamics,10,WildBlueIndustries,"@PART[wbiMk33CargoModule]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+wbiMk33KrewModule,aerodynamics,10,WildBlueIndustries,"@PART[wbiMk33KrewModule]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+wbiMk33FuelModule,aerodynamics,10,WildBlueIndustries,"@PART[wbiMk33FuelModule]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+wbiMk33CargoBay,aerodynamics,10,WildBlueIndustries,"@PART[wbiMk33CargoBay]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = aerodynamics10
+
+}"
+wbiControlCab,construction,10,WildBlueIndustries,"@PART[wbiControlCab]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = construction10
+
+}"
+mk33CrewTowerBase,construction,10,WildBlueIndustries,"@PART[mk33CrewTowerBase]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = construction10
+
+}"
+mk33CrewTowerCockpitSection,construction,10,WildBlueIndustries,"@PART[mk33CrewTowerCockpitSection]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = construction10
+
+}"
+mk33CrewTowerMidSection,construction,10,WildBlueIndustries,"@PART[mk33CrewTowerMidSection]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = construction10
+
+}"
+mk33DockingPiston,construction,10,WildBlueIndustries,"@PART[mk33DockingPiston]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = construction10
+
+}"
+mk33LaunchPlatform,construction,10,WildBlueIndustries,"@PART[mk33LaunchPlatform]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = construction10
+
+}"
+mk33PayloadCrane,construction,10,WildBlueIndustries,"@PART[mk33PayloadCrane]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = construction10
+
+}"
+mk33PlatformElevator,construction,10,WildBlueIndustries,"@PART[mk33PlatformElevator]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = construction10
+
+}"
+mk33Strongback,construction,10,WildBlueIndustries,"@PART[mk33Strongback]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = construction10
+
+}"
+wbiMk33Airlock,construction,10,WildBlueIndustries,"@PART[wbiMk33Airlock]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = construction10
+
+}"
+wbiMk33MainGear,landing,10,WildBlueIndustries,"@PART[wbiMk33MainGear]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = landing10
+
+}"
+wbiMk33NoseGear,landing,10,WildBlueIndustries,"@PART[wbiMk33NoseGear]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = landing10
+
+}"
+wbiPostWheel,landing,10,WildBlueIndustries,"@PART[wbiPostWheel]:AFTER[WildBlueIndustries] //
+{
+	@TechRequired = landing10
+
+}"
