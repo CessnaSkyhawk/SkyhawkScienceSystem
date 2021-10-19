@@ -1,0 +1,12 @@
+//Fuel Patch for <MOD>
+//Hypergolics
+@PART[]:FIRST
+{
+  %SSS_Hypergolic = True
+}
+
+//NTRs
+@PART[]:FIRST
+{
+  %SSS_NTR = True
+}
