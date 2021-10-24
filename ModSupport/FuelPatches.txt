@@ -8,5 +8,5 @@
 //NTRs
 @PART[]:FIRST
 {
-  %SSS_NTR = True
+  %RRNF = True
 }
