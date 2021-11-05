@@ -1,0 +1,16 @@
+PART_name,SSS Category,Tier,Mod,
+rr_scanner_blue,isru,9,RationalResources,"@PART[rr_scanner_blue]:AFTER[RationalResources] //
+{
+	@TechRequired = isru9
+
+}"
+rr_scanner_green,isru,9,RationalResources,"@PART[rr_scanner_green]:AFTER[RationalResources] //
+{
+	@TechRequired = isru9
+
+}"
+rr_scanner_white,isru,9,RationalResources,"@PART[rr_scanner_white]:AFTER[RationalResources] //
+{
+	@TechRequired = isru9
+
+}"

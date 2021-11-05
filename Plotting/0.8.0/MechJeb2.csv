@@ -1,0 +1,11 @@
+PART_name,SSS Category,Tier,Mod,
+mumech_MJ2_AR202,control,,Chrayol_Design_Org,"@PART[mumech_MJ2_AR202]:AFTER[Chrayol_Design_Org] //
+{
+	@TechRequired = control
+
+}"
+mumech_MJ2_AR202_features1,control,,,
+mumech_MJ2_AR202_features2,control,,,
+mumech_MJ2_AR202_features3,control,,,
+mumech_MJ2_AR202_features4,control,,,
+mumech_MJ2_Pod,control,,,
