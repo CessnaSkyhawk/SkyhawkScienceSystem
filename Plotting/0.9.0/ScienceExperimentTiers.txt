@@ -1,0 +1,12 @@
+Tier 0 - Telemetry Report
+Tier 1 - Thermometer, Barometer, Film Camera
+Tier 2 - Magnometer, Geieger Counter, Biological Experiments, Photometer
+Tier 3 - Charged Particles Scan, Tier 1 Keyhole, Geodesy, TIROS Wx, Early Communications Experiments
+Tier 4 - Micrometeorite Impacts, 
+Tier 5 -
+Tier 6 -
+Tier 7 -
+Tier 8 -
+Tier 9 -
+Tier 10 -
+Tier 11 -
