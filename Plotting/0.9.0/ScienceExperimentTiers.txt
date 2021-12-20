@@ -1,12 +1,15 @@
 Tier 0 - Telemetry Report
 Tier 1 - Thermometer, Barometer, Film Camera
-Tier 2 - Magnometer, Geieger Counter, Biological Experiments, Photometer
-Tier 3 - Charged Particles Scan, Tier 1 Keyhole, Geodesy, TIROS Wx, Early Communications Experiments
-Tier 4 - Micrometeorite Impacts, 
-Tier 5 -
-Tier 6 -
-Tier 7 -
-Tier 8 -
-Tier 9 -
-Tier 10 -
-Tier 11 -
+Tier 2 - Magnometer, Geieger Counter, Biological Experiments, Photometer, Charged Particles Scan, ionElec, gammaRay, X-Ray Scan
+Tier 3 - Tier 1 Keyhole (bd_mapping), TIROS Wx, Early Communications Experiments, UV Data
+Tier 4 - Micrometeorite Impacts, Transmissible Film Camera, OSO Solar Observations, Solar Wind Data, Nimbus Wx (weather, microwave Spec, IR spec, IR Radiometer)
+Tier 5 - UV Telescope, Crew Report, Mystery Goo, Seismec Scan, Scoop Surface Material, Mass Spectrometry, Gravity Scan
+Tier 6 - Digital Camera, RPWS, Tier 3 Keyhole (bd_survellience), Orbital Imaging Trifecta (Coatl Cameras/Sensing Pallet), EVA Report
+Tier 7 - Mobile Materials Lab, Surface Sample, Dust Analysis, SIGINT Scan, //Solar Wind Dust Collector
+Tier 8 - //Skylab Solar Telescope, Hubble/Big Telescope Data, Atmospheric Analysis, //Recon Scan 
+Tier 9 - //SpaceDust Gas Analysis, //Rational Resources ISRU Scanner (maybe bring back to tier 8?), //DMagic Asteroid Science
+Tier 10 - Asteroid Infared Telescope
+Tier 11 - Custom Science Lab Experiment, //Antimatter Scanner
+
+//Still doesn't include all DMagic Science
+//means not stock(eg, it's supported but doesn't have its own custom experiments (normalyl cause its restricted to one mod)
