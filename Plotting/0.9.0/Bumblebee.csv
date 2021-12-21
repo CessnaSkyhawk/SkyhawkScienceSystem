@@ -1,0 +1,16 @@
+PART.name
+bb.Aeroshell
+bb.Chute
+bb.Core
+bb.Decoupler
+bb.Drogue
+bb.HGA
+bb.Prop
+bb.PropSingle
+bb.RTG
+bb.Seismometer
+bb.Sensor
+bb.SingleTruss
+bb.Skids
+bb.Truss
+bb.Dunaprop
