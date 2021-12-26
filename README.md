@@ -1,12 +1,6 @@
 # SkyhawkScienceSystem
-Hi there! For the longest time, I've had trouble settling on a tech tree to use for my KSP playthroughs. TETRIX, Kiwi, Probes before Crew, and even just the standard Community Tech Tree are all good, but they each had some sort of issue or thing that I just didn't like. After sometime trying to change it for personal use through patching, I've instead decided to just go all the way and create my own custom tech tree, the Skyhawk Science System. Behold!
+I've been a KSP player for quite a while now, and have used a large amount of mods since I first started. There's been a lot of amazing tech trees released so far - CTT, Kiwi Tech Tree, Tetrix, and more, but for whatever reason none of them "clicked" for me. Part of this was due to the fact the Bluedog Design Bureau, one of my favorite mods, wasn't supported by most, and the rest was just due to differences in how I felt part unlocks should be balanced. For a while I just would fix this by writing custom patches for the already existing trees, but eventually, this past September, I decided it would be easier to just solve my concerns once and for all by creating my very own tree. Now, four months later, here we are! The Skyhawk Science System has been careful curated to support most of the current popular mods in a way which allows for a realistic, but still fun progression from sounding rockets to interstellar starships, and also, adds in a few mechanics to both increase realism and provide some interesting choices for players.
 
-https://imgur.com/a/xsmxbHe
-
-This tech tree (currently just the layout, no part patches yet) will be based around a combination of the amazing Bluedog Design Bureau, Coatl Aerospace, SOCK, reDIRECT, Nertea's  whole suite of mods, and more! It will attempt to create a "somewhat realistic" progression from launching sounding rockets into space to exploring deep space with antimatter torch drives. It won't completely accurately follow real-life, but I'm trying to strike a reasonable balance between the stock-alike "unlock things based on radial size" and the realistic progression of rockets to make sure everything has a reason to be used.  I'll continue to update this thread with my progress as time goes on, but for now, feel free to take a look at the current tree plan and let me know what you think! And if you've got any questions about what I'm planning, ask away as well!
-
-Alpha Release (NOT PLAYABLE - FOR VIEWING BALANCE ONLY)
-
-https://github.com/CessnaSkyhawk/SkyhawkScienceSystem/releases/tag/alpha
+https://i.imgur.com/J4osCkc.png
 
  
