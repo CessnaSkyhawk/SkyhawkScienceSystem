@@ -1,0 +1,16 @@
+///////////////////////
+/////Version 1.0.0/////
+///////////////////////
+- Full Release
+
+/// Version 1.0.1 ///
+Mod Support and Enhancements
+- MOAR Station Science Support
+- Kip Docking Ports Support
+- Improved support for Procedural Parts and Procedural Fairings
+- RSS science value support
+Bugfixes
+- BDB Contract support fixed
+- MechJeb Feature unlocks properly placed on tech tree
+- Hypergolics added to NF Exploration Tanks
+- Poodle Engine made hypergolic and moved to proper node
