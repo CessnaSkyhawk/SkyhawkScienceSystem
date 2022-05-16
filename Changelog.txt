@@ -14,3 +14,10 @@ Bugfixes
 - MechJeb Feature unlocks properly placed on tech tree
 - Hypergolics added to NF Exploration Tanks
 - Poodle Engine made hypergolic and moved to proper node
+
+/// Version 1.0.2 ///
+Mod Support and Enhancements
+- Multiple Implemented PRs which I can't remember
+- Preliminary support for Skyhawk Kerbalism
+Bugfixes
+- Various fixes
